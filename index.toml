@@ -1266,7 +1266,7 @@ hash = "323737c2bd12d1f45b3f7f110960d13c89a7048a58176d36f144948df340b02b"
 
 [[files]]
 file = "config/watut-item-arm-adjustments.json"
-hash = "543e09f71cda1d97d238ac4150e43e50868cf781027c88d68fc714f261d88982"
+hash = "0c365ed28f78c9ace3d822ca6e11043c7600d92822bc1fc1817bb2661766b96b"
 
 [[files]]
 file = "config/watut-server.toml"
@@ -1386,11 +1386,11 @@ hash = "f7e86e801f14e409b3c23c00e38b2f0cb49dc3cd077ea940364e28639a0d9b64"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "97702a831a6e57d5bddec4441417a2f0a7395c23823f0387b82aa26055d191dc"
+hash = "a4ba9a8f84d016faf61cbc325ed5739f775ab0293b4c34d875730870de8c764b"
 
 [[files]]
 file = "kubejs/config/common.properties"
-hash = "4b56ecf88495d5d1a38c8950a82b4ddb27eb4ba3e891f85ecaf36beaa9082c27"
+hash = "9be5af84442098443b323683ca3c8e2d942b3a6683e5e98eebf0de964d679be5"
 
 [[files]]
 file = "kubejs/server_scripts/chocorangeslurry.js"
