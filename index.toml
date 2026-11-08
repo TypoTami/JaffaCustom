@@ -873,10 +873,6 @@ file = "config/ironfurnaces-client.toml"
 hash = "9f1782426d9574112a5f576f345405d495698387be5f3812d2a4249faab693e3"
 
 [[files]]
-file = "config/ironfurnaces.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/jade/hide-blocks.json"
 hash = "247df2699ebb5a0d4c9585aeeb267ef9388cd5bee2b13ca340f35124a135b35b"
 
@@ -899,10 +895,6 @@ hash = "39a0a2351b69a606388107a007bd138dfe67e65a6255cc37bcef17aa0c885bab"
 [[files]]
 file = "config/jaffabricate-common.toml"
 hash = "593092542316d991ae7b0441abe182e3b7abb53921670440da4807c6913459ea"
-
-[[files]]
-file = "config/jei/blacklist.cfg"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/blacklist.json"
@@ -1347,10 +1339,6 @@ hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 [[files]]
 file = "config/xaerohud.txt"
 hash = "cece60604b8de5e978141c981c1ed85227c8f30697a513869012b06dd15fcf02"
-
-[[files]]
-file = "config/xaeropatreon.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt.backup0"
