@@ -1437,10 +1437,6 @@ file = "icon.png"
 hash = "92a5702b7fdbaac2c4ddfc4ff917aaea328546c591178e94f4ff138efc58c153"
 
 [[files]]
-file = "justzoom_instance_data/persistence_data.json"
-hash = "78b50d2bcc9c659de5737ac79584b57b447fad86b26bb604f1b79c76b161c43b"
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -1748,12 +1744,12 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "887ed2e25880009d1fac1c8522b10cda7da02e61962b17132f4777c2fd87a8a8"
+hash = "784b4e296278d4b7230fa6de8db05d7702ecb1954bed82128a3ff57d54ce0201"
 metafile = true
 
 [[files]]
 file = "mods/distanthorizonsapi.pw.toml"
-hash = "c37c6d096847f4d371b639005e5fa8cdf46edff47b5a3fb3f2eb3789a5af1b28"
+hash = "c04e87c709e7aaad4112b680d232b8f129271cdae24913a1ebe8ffa074b2af24"
 metafile = true
 
 [[files]]
@@ -1788,7 +1784,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+hash = "ee696b3f957a1bb56318c6b1993101e2e62973b203c4162e1d67ae5caa3ea7b7"
 metafile = true
 
 [[files]]
@@ -1893,7 +1889,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "7f3913dea0869ca5a9343c30f3cf81cc6dfebf793c5bf5d4201330e540320d97"
+hash = "966d03d3750af643256b7573a23655e6bcd82204ecd20e03132bd9ceffcfca22"
 metafile = true
 
 [[files]]
@@ -2003,7 +1999,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+hash = "938a3bb6c8f8cfc912fa0f029bdb847d29a8cfeca3dbb6a0c0ee415d1c820bc1"
 metafile = true
 
 [[files]]
@@ -2153,7 +2149,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "416bb6449da951ec1a04156348c502b9e47a947212becc173d277faaddaaaccd"
+hash = "aa662713661e95a7fdd6bd4fc3bb8231a615dc144b7825fde504355dc0698a31"
 metafile = true
 
 [[files]]
@@ -2309,3 +2305,7 @@ metafile = true
 [[files]]
 file = "resourcepacks/Quark Programmer Art.zip"
 hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
+
+[[files]]
+file = "unsup.ini"
+hash = "ce4b53abe0779a35070fd63a221b3f2d255a251d1bae96284e0d554645093a19"
