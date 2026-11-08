@@ -11,3 +11,6 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 6694861
 project-id = 659897
+
+[options]
+flavors = { graphics_suite = "embeddium_oculus" }

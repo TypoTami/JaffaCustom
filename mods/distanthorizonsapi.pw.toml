@@ -1,0 +1,16 @@
+name = "Distant Horizons API"
+filename = "DistantHorizonsApi-7.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xs0XTOVv/versions/LTP8vW3B/DistantHorizonsApi-7.2.0.jar"
+hash-format = "sha512"
+hash = "3c4fc32d0c378e17dcd5a357396b36fc923b76f5fec2e162126533c9f80a3e380dd37e165ae8917ee2da39a50f056cef4d1ed3475231ecbc34ade1a9e38c010d"
+
+[update]
+[update.modrinth]
+mod-id = "Xs0XTOVv"
+version = "LTP8vW3B"
+
+[options]
+flavours = {distant_horizons = "distant_horizons" }

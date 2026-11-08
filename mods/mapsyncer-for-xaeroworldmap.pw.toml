@@ -1,0 +1,13 @@
+name = "MapSyncer-for-XaeroWorldmap"
+filename = "mapsyncer-1.0.3-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AW5A8Q2T/versions/71emSyU6/mapsyncer-1.0.3-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "68b1ae0ee8640ab4ecffcdbd4edc53d96b362f6d44dfe9fb7704c04070a79b41b7ecbc3b6f74be6708671960df0ac4bcbd4ac84ffbe37585766f78e957ab216d"
+
+[update]
+[update.modrinth]
+mod-id = "AW5A8Q2T"
+version = "71emSyU6"

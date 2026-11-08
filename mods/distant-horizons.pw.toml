@@ -11,3 +11,6 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 9004753
 project-id = 508933
+
+[options]
+flavours = {distant_horizons = "distant_horizons" }
