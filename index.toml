@@ -1811,6 +1811,11 @@ hash = "8f1af185eaf7a3451f710eeb9a762857b12ecbb3bff77043fa96c3c310a27621"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
+metafile = true
+
+[[files]]
 file = "mods/goblin-traders.pw.toml"
 hash = "603b8fe672b8f62539763ee788341ede0c6441abe0cc3cf5f1b58c1094714b27"
 metafile = true
@@ -2048,6 +2053,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "7f073e56ebad4ad34119c1502b62f9e70526bbe6e8a8550a6bffdaebcda45aa1"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "23ef0c67ed600fb75d47161cdbe43b860837afe9d1f3012c44f3e7eb13bdd1e5"
 metafile = true
 
 [[files]]

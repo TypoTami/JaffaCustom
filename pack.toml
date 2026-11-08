@@ -1,12 +1,12 @@
 name = "JaffaCustom"
 author = "TamiTech"
-version = "1.0.4.7"
+version = "1.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3726fa77adee0f4aac735925f6dce6cf988ef9e7d7e9c4c83f195731f5d45599"
+hash = "56574cd661c22cf5eaeefcdd446a64d0cffa0ce005f1251dbcd5777afe603d98"
 
 [versions]
 forge = "47.4.28"
