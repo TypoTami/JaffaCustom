@@ -22,7 +22,7 @@ hash = "da41baa38cd86e7388841af4095cb06b9f6f3a1c883cedfe6f0632ea129f4f06"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "d39ea69df5514dc5a9eb1e445b776d25cd851677f7139e80807f7f03b7667b6d"
+hash = "aa2d1dd04674bc78ecc6985404a11c43831715f616df27fa61462146c1b6d358"
 
 [[files]]
 file = "config/Mekanism/client.toml"
@@ -1799,7 +1799,7 @@ metafile = true
 
 [[files]]
 file = "mods/eureka.pw.toml"
-hash = "5c53b040991be07f2fffd63943bfbb9b6a570a0141b8632f6f01063d06067d3f"
+hash = "5d93867ed1644c938145786a38b328786bb323cbcaff06bbe9f759c5157c91bf"
 metafile = true
 
 [[files]]
