@@ -1457,6 +1457,14 @@ file = "kubejs/server_scripts/chocorangeslurry.js"
 hash = "daaf614f0d84beb32dff3022e62e1b73391b842151ffc2ee7773a5a18534c3e2"
 
 [[files]]
+file = "kubejs/server_scripts/fix_precision_mechanism.js"
+hash = "9d0f5400dbfd1e02cac2835c9deac293b97fc2b25a07438af2eafea47da68728"
+
+[[files]]
+file = "kubejs/server_scripts/shapelessandersitecasing.js"
+hash = "289545e5bd42d2ab939def69e40f4bc70d695a47b3f0da644537e6ed2e8ad175"
+
+[[files]]
 file = "kubejs/startup_scripts/chocorangeslurry.js"
 hash = "b0f7f8b6b8b2f7bcc0fec17b9b752955018689b1c7fef0b14f9bee66f4d03436"
 
@@ -1499,7 +1507,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "eda58c69acb7005452122434fd1816a4e57b282fc0806adca19fc23c9b535e1c"
+hash = "32cf4b9e9f90cb1ccdba20ff12179efa05f86b03de7f9ad59f8a99aad4ea4488"
 metafile = true
 
 [[files]]
@@ -1749,7 +1757,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizonsapi.pw.toml"
-hash = "c04e87c709e7aaad4112b680d232b8f129271cdae24913a1ebe8ffa074b2af24"
+hash = "415e7e17442db7ff151f73bd6350772fb945ee5476e367cfb8e521b06b383ac0"
 metafile = true
 
 [[files]]
@@ -1764,7 +1772,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "acb2f4b1300c24188642c03692c6cfaf35f3edbfbffc53a32506bbc4fa930d0c"
+hash = "70eb6e1674e173285168b5b5e4a44bc2a6d588033585c66fecb5e496b734c88c"
 metafile = true
 
 [[files]]
@@ -1784,7 +1792,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "ee696b3f957a1bb56318c6b1993101e2e62973b203c4162e1d67ae5caa3ea7b7"
+hash = "ef6214ed529f29cd26623e4c08f11dfd1efe86a6d6f6e0e55ef304fadcd8743c"
 metafile = true
 
 [[files]]
@@ -1889,7 +1897,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "966d03d3750af643256b7573a23655e6bcd82204ecd20e03132bd9ceffcfca22"
+hash = "a95e5875f4c374a8eb96c79fda763402e1460be3316386c2249a2808d5c72f4a"
 metafile = true
 
 [[files]]
@@ -1914,7 +1922,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-zoom.pw.toml"
-hash = "b54c5b56d99a1bbb1f47cf27fb60add8690b62be26ec4f419557d904e80aee60"
+hash = "70bdbcf4caec71540ac0134b0fe2723bb7eeba3370d6c3272f72de0104684f87"
 metafile = true
 
 [[files]]
@@ -1999,7 +2007,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "938a3bb6c8f8cfc912fa0f029bdb847d29a8cfeca3dbb6a0c0ee415d1c820bc1"
+hash = "6734432944b3196918039fcc6ada217fa818d93721479a1e611cf48328e269e7"
 metafile = true
 
 [[files]]
