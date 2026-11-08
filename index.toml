@@ -1,0 +1,5332 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/Advancedperipherals/general.toml"
+hash = "6b3115248f87c339c5ae934d586f48df30f039b0254b4c5f187f7fb17e3901dc"
+
+[[files]]
+file = "config/Advancedperipherals/metaphysics.toml"
+hash = "83f084ba957cb0aba4a8e0cdd9eb6b17eef5fb632fc30e036c295402098ec6d0"
+
+[[files]]
+file = "config/Advancedperipherals/peripherals.toml"
+hash = "96225cff7ffb8eb451a86a9280a1863be43e191ed271f44cb95e03a01feb27d0"
+
+[[files]]
+file = "config/Advancedperipherals/world.toml"
+hash = "64417fb1e25e707e7fca99d923016c900b91ef958a092b42e7145933893e7d15"
+
+[[files]]
+file = "config/CoroUtil/General.toml"
+hash = "da41baa38cd86e7388841af4095cb06b9f6f3a1c883cedfe6f0632ea129f4f06"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+hash = "d39ea69df5514dc5a9eb1e445b776d25cd851677f7139e80807f7f03b7667b6d"
+
+[[files]]
+file = "config/Mekanism/client.toml"
+hash = "cf7fc76a550f3df2c33dcf8c817f06da75243c380434df51af2054640b3129f8"
+
+[[files]]
+file = "config/Mekanism/common.toml"
+hash = "aded0937dff550c18f0656661333ad9f37990cc5d38e6840497cab3ff7a266fc"
+
+[[files]]
+file = "config/Mekanism/gear.toml"
+hash = "02d464d81e33020e6ad28e0021829f1727f02821014c251afef14cfc85c99660"
+
+[[files]]
+file = "config/Mekanism/general.toml"
+hash = "930408c80a41c9e7e39b2c31f7764b85e61d88b382f8bff3992404585f1d0bc2"
+
+[[files]]
+file = "config/Mekanism/generator-storage.toml"
+hash = "c28e7cc320f69327d5f2affdd2d3cbb85ffee6ba577a75a98618cedd02e564f4"
+
+[[files]]
+file = "config/Mekanism/generators-gear.toml"
+hash = "9dfdefd08e85a5089eb6ba33478913e1c96d984e18a5edcf9b5310616fee18c9"
+
+[[files]]
+file = "config/Mekanism/generators.toml"
+hash = "dc3b90dacbb87a5ac278007bf806e63100e47f419492a5a390a55471f6724c08"
+
+[[files]]
+file = "config/Mekanism/machine-storage.toml"
+hash = "5762af5926b2312aaff9bda0cbbb44748d6ad2ed1b12a5d19af28407bc604dc6"
+
+[[files]]
+file = "config/Mekanism/machine-usage.toml"
+hash = "331ae2bd0031e3d8c65f3572f17bf81af186363c4a4a630e4184f6d427d2f136"
+
+[[files]]
+file = "config/Mekanism/tiers.toml"
+hash = "b5fb9d3325f776146cd6d891be2ff373a406494fe51e4cf2551b360241210d26"
+
+[[files]]
+file = "config/Mekanism/world.toml"
+hash = "54971d6ffd03a2bd66d146d77f421e07133752f7b9c2f66a0a8196c7a85bac50"
+
+[[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
+file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
+file = "config/ProjectRed.cfg"
+hash = "8605c2990ba5181e5473ed70296ab79d2843accfa84bc74bb088bc4e2dfb026f"
+
+[[files]]
+file = "config/ad_astra-client.jsonc"
+hash = "eff1be886673bc30e4dde7030f6970915c5c1c648d671f81bae5c941025705b3"
+
+[[files]]
+file = "config/ad_astra.jsonc"
+hash = "52e9c20de34fd2fd4c0410697538922c8a63591da58117c40c88c681e08f7264"
+
+[[files]]
+file = "config/ad_astra_giselle_addon.ver2.jsonc"
+hash = "2899c558017ff0a6a78862c0e835728883a644f1ecfb1b53f94bb48c4fb0fe38"
+
+[[files]]
+file = "config/ae2/client.json"
+hash = "0ae6215f279cca53a75c453106aac7a69059c64c2950342254a1713a98e8cb8d"
+
+[[files]]
+file = "config/ae2/common.json"
+hash = "f390a5328244fa4f300041b581369bd17fbb6194824574a7cae47523ed01b046"
+
+[[files]]
+file = "config/alexscaves-client.toml"
+hash = "cf1750e7d1c9e5190f13889781305c00d9f3966653b7dd6fd6fc265ae0065da6"
+
+[[files]]
+file = "config/alexscaves-general.toml"
+hash = "551d9a5f1b532575331f3821c5b13fbdf0cad33679fbc51f71bff95175ae9721"
+
+[[files]]
+file = "config/alexscaves_biome_generation/abyssal_chasm.json"
+hash = "d286a521c5fd852ef189e15f02952d3e6f529efbb67fe769d88d45183279c3b9"
+
+[[files]]
+file = "config/alexscaves_biome_generation/candy_cavity.json"
+hash = "02120d68d535ce346b1d66d42a039a0683ee4432b8537d70fbb2f1bf59c4d364"
+
+[[files]]
+file = "config/alexscaves_biome_generation/forlorn_hollows.json"
+hash = "5eea375f709ff5d7096b51fdc32b671952e1d2aed9f48c9bd9bc8e50ec2cb7f7"
+
+[[files]]
+file = "config/alexscaves_biome_generation/magnetic_caves.json"
+hash = "cf811ff0e46881d7993eb4910d9891ff6472554b613d3b3940deb0c6f1e0a779"
+
+[[files]]
+file = "config/alexscaves_biome_generation/primordial_caves.json"
+hash = "f0e2da7cf5d77abef1bd270cb7c288e3f57c001005fe41e11d545d948b06474d"
+
+[[files]]
+file = "config/alexscaves_biome_generation/toxic_caves.json"
+hash = "d6d7d5becfd20cca48dabcb838021694740bd874fba80a259b05d37bcc720a43"
+
+[[files]]
+file = "config/alexsmobs.toml"
+hash = "401efa9056289c8a375d11a4eed5bb4fdcea8bee7340304ef9971ab6493aeca6"
+
+[[files]]
+file = "config/alexsmobs/alligator_snapping_turtle_spawns.json"
+hash = "df14afd6e1e96ace0dc8e4c71bc325e3baec8dbeaebf61f682561a70fc145f9d"
+
+[[files]]
+file = "config/alexsmobs/anaconda_spawns.json"
+hash = "ca961946a7b3c6e9abcb1bb82bbf36e1f9ce01d11769a06a7fbff6351293ff5d"
+
+[[files]]
+file = "config/alexsmobs/anteater_spawns.json"
+hash = "f65e31155b2f2e033bed66dc5ec2ce7f6962be3389369ff800b69dfdecb5d990"
+
+[[files]]
+file = "config/alexsmobs/bald_eagle_spawns.json"
+hash = "f8b51a798bfa4b51e0ee8fb78c860ca5b2677583db10584792a0e1548f17d396"
+
+[[files]]
+file = "config/alexsmobs/banana_slug_spawns.json"
+hash = "1d5d0ce4ef42e94f0361c41b4b2402b64e87f0b1b987e1f1b2f6b2ac377211a7"
+
+[[files]]
+file = "config/alexsmobs/bison_spawns.json"
+hash = "78e726ed002a31f5084a7b49fcce467c5623a046981d6c59d9ed7c4eb6cdbb1e"
+
+[[files]]
+file = "config/alexsmobs/blobfish_spawns.json"
+hash = "7e7b175c33aed22c3d2cd31e215c6243e3790b07a3664b42d130a8f3b897489f"
+
+[[files]]
+file = "config/alexsmobs/blue_jay_spawns.json"
+hash = "7d1f784ab378e1e851e73dbb6f81866420c1328d25f754546d82c417bf304644"
+
+[[files]]
+file = "config/alexsmobs/bone_serpent_spawns.json"
+hash = "47eef91378d3d6455a911d58cc3afdbfcdda7fd49968a7921b22620faa8ff672"
+
+[[files]]
+file = "config/alexsmobs/bunfungus_spawns.json"
+hash = "5d5a9d2039b6df546b788f62cb376cc29312a7115a5553541652aad7259436a6"
+
+[[files]]
+file = "config/alexsmobs/cachalot_whale_beached_spawns.json"
+hash = "73b8f83ddfa936642b38af1003e3c47eab6f089ad61612ee5181137409038f57"
+
+[[files]]
+file = "config/alexsmobs/cachalot_whale_spawns.json"
+hash = "fb901f1ea0bce7b9fb51dfaeb565539a3c1a9ee86bafb49caddac7ca1002e296"
+
+[[files]]
+file = "config/alexsmobs/caiman_spawns.json"
+hash = "542cca079ae671a6d928737b622b205deebfe2aed5864a01b5048f501aec2753"
+
+[[files]]
+file = "config/alexsmobs/capuchin_monkey_spawns.json"
+hash = "83b68d395236771ae9276f48b2988cfa9eb65e14dc41531b37a6b4e77c64859a"
+
+[[files]]
+file = "config/alexsmobs/catfish_spawns.json"
+hash = "3c097d29c1f74807815d4c13e3586a76528ac3c104670ce95852bd3b62f9e16e"
+
+[[files]]
+file = "config/alexsmobs/cave_centipede_spawns.json"
+hash = "973b8ebc19fa04e02b050f28359ee6bffbae93367f49ecac10892f4a2c1dad7d"
+
+[[files]]
+file = "config/alexsmobs/cockroach_spawns.json"
+hash = "97a67afb52f1398f2c55e2a74001e5b893394e28d3f0eb00695f049bdd19f204"
+
+[[files]]
+file = "config/alexsmobs/comb_jelly_spawns.json"
+hash = "cf9ba87b0d2001543fe09d8f6a4c602c03644643a9bd49d1e9ca0b041ab4dc02"
+
+[[files]]
+file = "config/alexsmobs/cosmaw_spawns.json"
+hash = "8e1d05a9b4ab8b923ff4951ef391665f3bdd218d943152f6f1f57509786bc0f7"
+
+[[files]]
+file = "config/alexsmobs/cosmic_cod_spawns.json"
+hash = "aed14e990ed38ee78214b1ea4a15e06bca1b8d098e1e440596be9ab14e4403b8"
+
+[[files]]
+file = "config/alexsmobs/crimson_mosquito_spawns.json"
+hash = "104fa9ce71421c5023abba88ce382957828b22341b44c2d03b3300b760482c9d"
+
+[[files]]
+file = "config/alexsmobs/crocodile_spawns.json"
+hash = "a73d36d1b5dd75eb20f6143193b991e942f4ef4cef725835b66ec01197d7074f"
+
+[[files]]
+file = "config/alexsmobs/crow_spawns.json"
+hash = "cace87b5d504be10d1fff107ad14349066ae1c39d5200a7a29bdd5476167d9b8"
+
+[[files]]
+file = "config/alexsmobs/devils_hole_pupfish_spawns.json"
+hash = "e7855fa7d73f4d3af77f47ddd70b4fcbab7862302d004b4ddae9dddc75c4e402"
+
+[[files]]
+file = "config/alexsmobs/dropbear_spawns.json"
+hash = "0fa8f72e4c73805727577a343758cfd39377cbdadebb88b6b2343183053e16cb"
+
+[[files]]
+file = "config/alexsmobs/elephant_spawns.json"
+hash = "cac271d780a6ed65db7b22e6944b6d456805d72b309865d6293ad6aa4f60c3e2"
+
+[[files]]
+file = "config/alexsmobs/emu_spawns.json"
+hash = "70e30e058709266e665eb6642df126eeee744d05e63d77344501e78cb4a37851"
+
+[[files]]
+file = "config/alexsmobs/endergrade_spawns.json"
+hash = "ca6e68bd3e74eb9cedcdbae4c82f594c4e85bdd54e1d0e35344a3febb9672980"
+
+[[files]]
+file = "config/alexsmobs/enderiophage_spawns.json"
+hash = "846748f4f352dead7fae39221d653713b7cbd775eaf10f80e0dea86f4e9ccb9a"
+
+[[files]]
+file = "config/alexsmobs/farseer.json"
+hash = "c245528d844458d8ac416572ee0df7575bb23d58beb07367d4cd55c66fec9000"
+
+[[files]]
+file = "config/alexsmobs/flutter_spawns.json"
+hash = "f729be2a0bc7bccc88cde40464f990d6074bfcf52a0d1d6719d8ebcd63c496ff"
+
+[[files]]
+file = "config/alexsmobs/fly_spawns.json"
+hash = "e7855fa7d73f4d3af77f47ddd70b4fcbab7862302d004b4ddae9dddc75c4e402"
+
+[[files]]
+file = "config/alexsmobs/flying_fish_spawns.json"
+hash = "69904b309696b6081cdec1ea87bdb62f84886cf6dac600a8bca231860c3a3f2f"
+
+[[files]]
+file = "config/alexsmobs/frilled_shark_spawns.json"
+hash = "7e7b175c33aed22c3d2cd31e215c6243e3790b07a3664b42d130a8f3b897489f"
+
+[[files]]
+file = "config/alexsmobs/froststalker_spawns.json"
+hash = "2cc43cdc9df3b20cc2eeb75a3c11736558f544571640607d08dec5c0a939c02d"
+
+[[files]]
+file = "config/alexsmobs/gazelle_spawns.json"
+hash = "17a5c3263942410596f91fb0aece138e5115bfabfa2a5913a63406fcb64b42d0"
+
+[[files]]
+file = "config/alexsmobs/gelada_monkey_spawns.json"
+hash = "cdd0380bfa9b754856150966a042f807ac48d2f9409f4f2b543be19e87f4c41f"
+
+[[files]]
+file = "config/alexsmobs/giant_squid_spawns.json"
+hash = "7e7b175c33aed22c3d2cd31e215c6243e3790b07a3664b42d130a8f3b897489f"
+
+[[files]]
+file = "config/alexsmobs/gorilla_spawns.json"
+hash = "8c90151f66a632b01e7b8f6998f72618720aae5362c1df0bdd7fefdb13cc20c8"
+
+[[files]]
+file = "config/alexsmobs/grizzly_bear_spawns.json"
+hash = "7d1f784ab378e1e851e73dbb6f81866420c1328d25f754546d82c417bf304644"
+
+[[files]]
+file = "config/alexsmobs/guster_spawns.json"
+hash = "263974f58a4b48df633648246820681745da9f9e16f30fefe6e07f576251dfb1"
+
+[[files]]
+file = "config/alexsmobs/hammerhead_shark_spawns.json"
+hash = "a5eeb1a3843a12ef4fde1d8a3a5f13161034457c0901d3f938aa71a20e6712f3"
+
+[[files]]
+file = "config/alexsmobs/hummingbird_spawns.json"
+hash = "6aa305d47ca32364d445c04c8a20da36a7ccef97955c27e834d4114604d2785d"
+
+[[files]]
+file = "config/alexsmobs/jerboa_spawns.json"
+hash = "c4b2ef89d9ad5c4dffcebb51209837da430b166c5767c1a38d90911c4445b124"
+
+[[files]]
+file = "config/alexsmobs/kangaroo_spawns.json"
+hash = "70e30e058709266e665eb6642df126eeee744d05e63d77344501e78cb4a37851"
+
+[[files]]
+file = "config/alexsmobs/komodo_dragon_spawns.json"
+hash = "695a3eb4d61a8208cc634871c237b0e6efc980ac668793f4686848e32cda0907"
+
+[[files]]
+file = "config/alexsmobs/laviathan_spawns.json"
+hash = "07d0215377f12f1299ec46b6277426c3cf957aa1d310c97fa943cdf5ace8d260"
+
+[[files]]
+file = "config/alexsmobs/leafcutter_anthill_spawns.json"
+hash = "f65e31155b2f2e033bed66dc5ec2ce7f6962be3389369ff800b69dfdecb5d990"
+
+[[files]]
+file = "config/alexsmobs/lobster_spawns.json"
+hash = "bb0c918e8dbd4d003417a1bcabb38b8433d1f9be95fe6f8feef95d30616b49a7"
+
+[[files]]
+file = "config/alexsmobs/maned_wolf_spawns.json"
+hash = "8483d96341369b430ff2ebfebd7562b0c58c40b96be541cc88189fc696606a0d"
+
+[[files]]
+file = "config/alexsmobs/mantis_shrimp_spawns.json"
+hash = "4f6099fe4d9f99530f9f0f9bae7e55c0713506efdc47da69d227ae62137647e4"
+
+[[files]]
+file = "config/alexsmobs/mimic_octopus_spawns.json"
+hash = "9c68a433ab6f75ff9e8d46868480158e4c1f46949779cb0b0d973f7759dbfc2d"
+
+[[files]]
+file = "config/alexsmobs/mimicube_spawns.json"
+hash = "fcace6e8c558df6eb13827f7a2b4a7f43c9fdfd3015331bd7e277329ca034c34"
+
+[[files]]
+file = "config/alexsmobs/moose_spawns.json"
+hash = "abac051da2458ec848604b66a6d7889f7c715060bb9706c1d1822155127d096c"
+
+[[files]]
+file = "config/alexsmobs/mudskipper_spawns.json"
+hash = "542cca079ae671a6d928737b622b205deebfe2aed5864a01b5048f501aec2753"
+
+[[files]]
+file = "config/alexsmobs/mungus_spawns.json"
+hash = "5d5a9d2039b6df546b788f62cb376cc29312a7115a5553541652aad7259436a6"
+
+[[files]]
+file = "config/alexsmobs/murmur.json"
+hash = "973b8ebc19fa04e02b050f28359ee6bffbae93367f49ecac10892f4a2c1dad7d"
+
+[[files]]
+file = "config/alexsmobs/orca_spawns.json"
+hash = "2e62ae273c3488a294068e5ed737dbf08791f4758cd3659308824d7bf4ece377"
+
+[[files]]
+file = "config/alexsmobs/platypus_spawns.json"
+hash = "b96f9e44f59f54b67460784fb1fdfa06d053f9ca9abb4fc3b04f222fd65ee958"
+
+[[files]]
+file = "config/alexsmobs/potoo_spawns.json"
+hash = "59c5832a40ef0e7212a4d499862f931a5dfcd3ff6d68598153f1274191b0939d"
+
+[[files]]
+file = "config/alexsmobs/raccoon_spawns.json"
+hash = "2f353aa8720d03fbdef9d9e4932ecc4435b7923bbc72191fab6f46acb66d3a12"
+
+[[files]]
+file = "config/alexsmobs/rain_frog_spawns.json"
+hash = "c4b2ef89d9ad5c4dffcebb51209837da430b166c5767c1a38d90911c4445b124"
+
+[[files]]
+file = "config/alexsmobs/rattlesnake_spawns.json"
+hash = "b8662bb3de9e2e5cc4af3773700fe6446c389980a80f6350f99d51f3fa2cef39"
+
+[[files]]
+file = "config/alexsmobs/rhinoceros_spawns.json"
+hash = "17a5c3263942410596f91fb0aece138e5115bfabfa2a5913a63406fcb64b42d0"
+
+[[files]]
+file = "config/alexsmobs/roadrunner_spawns.json"
+hash = "b8662bb3de9e2e5cc4af3773700fe6446c389980a80f6350f99d51f3fa2cef39"
+
+[[files]]
+file = "config/alexsmobs/rocky_roller_spawns.json"
+hash = "98dc351abc061685560adc82bd3ffa6e4c87d4faab81e9bb6a9e2a6f07cdb177"
+
+[[files]]
+file = "config/alexsmobs/seagull_spawns.json"
+hash = "4dca182ebef46ea0076b8e8066add18f69527cf2f81da83e77e0409127c92dc4"
+
+[[files]]
+file = "config/alexsmobs/seal_spawns.json"
+hash = "ef706c1e2ba0b9356523f8aeb3679303ab98d85c9b761d0e55962e930be4d8e6"
+
+[[files]]
+file = "config/alexsmobs/shoebill_spawns.json"
+hash = "0d8683c0a1b8176d4e89f88c4f3b1e6fbf6b269781497a190749904c7323eeec"
+
+[[files]]
+file = "config/alexsmobs/skelewag_spawns.json"
+hash = "86aad88d05c283679e85900cab1bf3977d496849005ac068a14e40b93db35aa2"
+
+[[files]]
+file = "config/alexsmobs/skreecher.json"
+hash = "f812e719afb24421c6853dacf4d1f66864305e335cfdf6193613d7c408ecab30"
+
+[[files]]
+file = "config/alexsmobs/skunk_spawns.json"
+hash = "01cc2eb4d92ba30b7301b9325a353cd96c5c7ff263c348795bfb34698cf8f11b"
+
+[[files]]
+file = "config/alexsmobs/snow_leopard_spawns.json"
+hash = "fdf546af7c7ff2307d0862c0802450eef1e99554af3a340e7a6af69fa5785ea5"
+
+[[files]]
+file = "config/alexsmobs/soul_vulture_spawns.json"
+hash = "45407796e49769550eef92fd3953daa191c85aaf032fb2be32fe591b0199a172"
+
+[[files]]
+file = "config/alexsmobs/spectre_spawns.json"
+hash = "ca6e68bd3e74eb9cedcdbae4c82f594c4e85bdd54e1d0e35344a3febb9672980"
+
+[[files]]
+file = "config/alexsmobs/straddler_spawns.json"
+hash = "5ee746cf50b358048a0243e4c45997285cf4a9b736758d388ad730d4ed493900"
+
+[[files]]
+file = "config/alexsmobs/stradpole_spawns.json"
+hash = "5ee746cf50b358048a0243e4c45997285cf4a9b736758d388ad730d4ed493900"
+
+[[files]]
+file = "config/alexsmobs/sugar_glider_spawns.json"
+hash = "cec5208e2e9f12aa8ce13d0f6d34a18500a77d143441c9b511df21c623fe368f"
+
+[[files]]
+file = "config/alexsmobs/sunbird_spawns.json"
+hash = "7b82ff39e191bd213cd8ecf06ff9a78c4658e6f6b9d8b48a4fcc4017e7268cb5"
+
+[[files]]
+file = "config/alexsmobs/tarantula_hawk_spawns.json"
+hash = "c4b2ef89d9ad5c4dffcebb51209837da430b166c5767c1a38d90911c4445b124"
+
+[[files]]
+file = "config/alexsmobs/tasmanian_devil_spawns.json"
+hash = "40c769365424d492a4c17700bb8cfac4c8ce7fac2bc16728f0c4287e3a043130"
+
+[[files]]
+file = "config/alexsmobs/terrapin_spawns.json"
+hash = "b96f9e44f59f54b67460784fb1fdfa06d053f9ca9abb4fc3b04f222fd65ee958"
+
+[[files]]
+file = "config/alexsmobs/tiger_spawns.json"
+hash = "f88fc1b519759fe41347afca59030619365e173c577e8c1adfcb88777078d066"
+
+[[files]]
+file = "config/alexsmobs/toucan_spawns.json"
+hash = "f65e31155b2f2e033bed66dc5ec2ce7f6962be3389369ff800b69dfdecb5d990"
+
+[[files]]
+file = "config/alexsmobs/triops_spawns.json"
+hash = "c4b2ef89d9ad5c4dffcebb51209837da430b166c5767c1a38d90911c4445b124"
+
+[[files]]
+file = "config/alexsmobs/tusklin_spawns.json"
+hash = "9ab4772704660c679ea30dff2db2c1272843e00675e2a7e610adcc6486120c3c"
+
+[[files]]
+file = "config/alexsmobs/underminer.json"
+hash = "97a67afb52f1398f2c55e2a74001e5b893394e28d3f0eb00695f049bdd19f204"
+
+[[files]]
+file = "config/alexsmobs/void_worm_spawns.json"
+hash = "6712a2d6165ed52b7d251a8fc4cbfb6c1f834210a8bda82b55440402fd2d3273"
+
+[[files]]
+file = "config/alexsmobs/warped_mosco_spawns.json"
+hash = "6712a2d6165ed52b7d251a8fc4cbfb6c1f834210a8bda82b55440402fd2d3273"
+
+[[files]]
+file = "config/alexsmobs/warped_toad_spawns.json"
+hash = "72126b26d7f3ae03b80df97dd103e0cec87d10829e86ac8b08da23abc7b318d8"
+
+[[files]]
+file = "config/ambientsounds-client.json"
+hash = "c98f572839ace55b0792042fa4b984311e7d876abdaccfc8a4694f5bebad766c"
+
+[[files]]
+file = "config/amendments-client.toml"
+hash = "5c15a095035ddcf18432043d3881197eb97063632bbc8593dafd96a654e6fd5c"
+
+[[files]]
+file = "config/amendments-common.toml"
+hash = "bd98c35e394d4ae37e2385f719680d2365527df98894b337d6cf0f2089b15ee6"
+
+[[files]]
+file = "config/architects_palette-common.toml"
+hash = "6d8836a8d591c5965766a161e80689a2de084e675964a00e43a06f9524d1bd47"
+
+[[files]]
+file = "config/artifacts/client.json5"
+hash = "dfae4a12bf924a5e12380032ff257ec535c6b003fef539a3893adb05c0a69c56"
+
+[[files]]
+file = "config/artifacts/common.json5"
+hash = "736bec8c910558091bb749ac7adb013822a253a02f1f70637eb193952768d2b1"
+
+[[files]]
+file = "config/betterdeserttemples-forge-1_20.toml"
+hash = "c8fba68f434b5288b51476e67cf24d15c3809c6cf4ad37ea24ed877cfa783dc4"
+
+[[files]]
+file = "config/betterdeserttemples/README.txt"
+hash = "3646bc39be8c42a1432506e77721f3b963d33948d4bbd4cd5a10703834979116"
+
+[[files]]
+file = "config/betterdeserttemples/forge-1_20/README.txt"
+hash = "80ba474fdd1912739a1dc3326de6539ccfceb9d5c97f540131b567e295a7b112"
+
+[[files]]
+file = "config/betterdeserttemples/forge-1_20/armorstands.json"
+hash = "dda7da4505d1daa2691801dc2a09da10963fd868131dc343ce356136b4a6b697"
+
+[[files]]
+file = "config/betterdeserttemples/forge-1_20/itemframes.json"
+hash = "7b692984f3d28ff8d3a7b62bfdb01417778000a3827934a2a353ac9b7ef6e495"
+
+[[files]]
+file = "config/betterdungeons-forge-1_20.toml"
+hash = "61bddf5e2cdd86d220a56c7e79de8f49a16b269294e859a884a318834009e6ab"
+
+[[files]]
+file = "config/betterendisland-forge-1_20.toml"
+hash = "ce07dcc8f1e6d751f1c79f03ea7132ad06cac0d21e2a5cfd01eb3a7dc265cb80"
+
+[[files]]
+file = "config/betterfortresses-forge-1_20.toml"
+hash = "f2f62d4aeb0accb643062ecd12a24e5697e99a50bb8a258bb31d1b82e60636bb"
+
+[[files]]
+file = "config/betterfortresses/README.txt"
+hash = "70c4264947f42dd780d476f3d36966c2d01c23d6f089d98c317f8a820e4040ee"
+
+[[files]]
+file = "config/betterfortresses/forge-1_20/README.txt"
+hash = "1175dbf9cd2e7c91b1c852a51e3c0203c68484917e877465b283e2370ad62864"
+
+[[files]]
+file = "config/betterfortresses/forge-1_20/itemframes.json"
+hash = "136e03d87e6e4a72055ead267452634ae8b35f6e3455775f524a5b0566b0ff22"
+
+[[files]]
+file = "config/betterjungletemples-forge-1_20.toml"
+hash = "0b6922c44eca9364bc0687d6b757342836c226e53114e30dd619a40dd21b08ff"
+
+[[files]]
+file = "config/bettermineshafts-forge-1_20.toml"
+hash = "1d7adabcca64c0d0dca4494cfee67081cc2a3071e734594b2afe56559467211c"
+
+[[files]]
+file = "config/betteroceanmonuments-forge-1_20.toml"
+hash = "3fc30fb36ba5fc5cabbecb82aa5a9800d7e30539212ec88246be179ede48f382"
+
+[[files]]
+file = "config/betterstrongholds-forge-1_20.toml"
+hash = "b1a6d4c96bbfc7bd824427d25bcf41a3e165f156c61eb5fa5351928474a7a635"
+
+[[files]]
+file = "config/betterstrongholds/README.txt"
+hash = "13c5f6bd52bf778533a100453d8b295802f923109e0a2951446a00674113700b"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_20/README.txt"
+hash = "5aad271e60a03218eb5207dd78df8d1d36c676f212bf823701e33646010d2f19"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_20/armorstands.json"
+hash = "f702745086054c057c6513393fc889c5ac8e8e347971af88daca1d20f6258c0e"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_20/itemframes.json"
+hash = "f1c8b8f8148fd49bec11be402e470e41991d89ac0b3c4740a125402f8a6914ec"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_20/ores.json"
+hash = "b719b8a5802339fe1b5bf57622bb915dd06a4324881c1eadab154aa6da42d4fd"
+
+[[files]]
+file = "config/betterstrongholds/forge-1_20/rareblocks.json"
+hash = "890eaae9d4766bf7a20a3862d53fa7be60eb690bdfb9bf82d84acd9341505826"
+
+[[files]]
+file = "config/betterwitchhuts-forge-1_20.toml"
+hash = "7867f84eff68a159b630c1f1be013b60e88be0ee07f4fb1371f7823f494124c8"
+
+[[files]]
+file = "config/botania-client.toml"
+hash = "5e38c477a64a95b443be83f366f9f50dae9793df58942344e1e6305744b3a4f0"
+
+[[files]]
+file = "config/botania-common.toml"
+hash = "b305a87b0257f74008f155815f2d15c229002859d33828d453e64fbc172d7d77"
+
+[[files]]
+file = "config/buildinggadgets2-common.toml"
+hash = "cd34bf34ff49c47333b435be7523979037df203f9572bfd0ea5b5f961c86445f"
+
+[[files]]
+file = "config/camera-client.toml"
+hash = "087349a61885e7b9991c481ed736b213ca72d48e42998d07b84f5f97d2cc6f83"
+
+[[files]]
+file = "config/carryon-client.toml"
+hash = "099145bca17d3a362f8c5078438c29a14db444ee354757d42aff232094e8a10c"
+
+[[files]]
+file = "config/carryon-common.toml"
+hash = "e309110397629770f5080b9ba81ab26e9476250c4372a051ece7c13557370f29"
+
+[[files]]
+file = "config/ccl.cfg"
+hash = "d0accd9879a8d31db8bdb55163dbb1b1668890a4558ac0689f807c6e207d1d99"
+
+[[files]]
+file = "config/citadel-common.toml"
+hash = "0a41518641bbb4133fc61b934e8663ae5271ffd8190a281e5b35d1efd97fb3e3"
+
+[[files]]
+file = "config/cobblegenrandomizer-common.toml"
+hash = "f19cb7f64a813f0f236c176496781d5819b68158be65674b7819cb0b1c2450d7"
+
+[[files]]
+file = "config/cofh_core-client.toml"
+hash = "49fd3b3cb48eb63b75241c52361ef9c597e97aefa2ebace628a2062511a76757"
+
+[[files]]
+file = "config/cofh_core-common.toml"
+hash = "a9c6ee5c60e634126d5b5b462f088a943beb73f6a0afc62570c59499b98a9a0f"
+
+[[files]]
+file = "config/computercraft-client.toml"
+hash = "09eee1f5405110edb02064e2163b32b0ecff39756f8e1fb88dc37a08e452d574"
+
+[[files]]
+file = "config/copycats-client.toml"
+hash = "70a02fe59453e5b8ad07512adf5feb85fff05bfc3c615349f13d429496f9f7ea"
+
+[[files]]
+file = "config/copycats-common.toml"
+hash = "621a81b4af985c6995e125a9f7fdf175378202f3341ada18c7a59bf9a03230e1"
+
+[[files]]
+file = "config/corpsecurioscompat-common.toml"
+hash = "d64eeb88abddcdbb3463fc4eb95fd8a69761a1fa1c9219d8b902a58b6deed196"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "5b9ee8bee23d0f12b926567309802eed6f1f46a195726b2b034d692deb833b65"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "6c0f6254798808bce8079a1cfafe4d6c082cead42c51d1e3121f3580f8a44eca"
+
+[[files]]
+file = "config/create_hypertube-client.toml"
+hash = "1142c448ed552a8742facc0631830a430f1c89c7158c72566032c3bc99764e75"
+
+[[files]]
+file = "config/create_mechanical_spawner-common.toml"
+hash = "7e286b5e48c308cc7c17a0f7b870e43d07edcdfcb6ddbb157cbccc9691f303a4"
+
+[[files]]
+file = "config/createaddition-common.toml"
+hash = "1d28b40d466308be422d511bcd662b26807a9616144055591ccabb53b42fad92"
+
+[[files]]
+file = "config/createfood-client.toml"
+hash = "1ba5ce52b0d1353129efb6003b2c7759db59d3a756442df3da885f0e5bf7b16c"
+
+[[files]]
+file = "config/creeperoverhaul.jsonc"
+hash = "9d870b28f9a1479f952f258f7f01aebceb17fdc78c23014469c8ac055fad9bbb"
+
+[[files]]
+file = "config/cristellib/minecraftED.json5"
+hash = "8e01cc9b7e46f74fd60ce36d3459628b8198cb988051ae52f14cda36ef0fd869"
+
+[[files]]
+file = "config/cristellib/minecraftP.json5"
+hash = "8fe09b83f2fe6bf9d547e99b8d883aef42bf3d9e2e6f5bd43ec3fcd4c7f756da"
+
+[[files]]
+file = "config/curios-client.toml"
+hash = "3903cd1fcf402a8c155f21bb581eb78d26e067537cb8af0b24bb8b8be63b3b30"
+
+[[files]]
+file = "config/curios-common.toml"
+hash = "541ee90994c1cf3d4e132df2ac3ff74004bc3952d3914ae843b5089a4dda8a95"
+
+[[files]]
+file = "config/custom-micromaterials.cfg"
+hash = "e135509de6da12c503afab230207e0306ecc8925f80e9ec1df4ce1dd3edb8a25"
+
+[[files]]
+file = "config/durabilitytooltip-common.toml"
+hash = "6cdce29a67dcab41e56a5a984c705a4cd4fd5c198ceb595aaecdb628100594c5"
+
+[[files]]
+file = "config/dynamic_fps.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/easy_villagers-client.toml"
+hash = "ad9dd91707cff2cace17bc6cdde229e8cc98488016d18078d95bc33f01610568"
+
+[[files]]
+file = "config/ecologics-common.toml"
+hash = "b6df63e1035657e07f4b8ef5b7fae10ff03239f62c1393fab6cfdac0e8f70339"
+
+[[files]]
+file = "config/embeddium-fingerprint.json"
+hash = "2b11d60b9cbaf9564da756a37e73d7ce54d92eb04402692b77cfc9f44ec860e8"
+
+[[files]]
+file = "config/embeddium-mixins.properties"
+hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "b78e1a745d5080dc2e50dd192982aeb59f32b1645626b77ac38a2b725ea52122"
+
+[[files]]
+file = "config/enchantinginfuser-server.toml"
+hash = "35592bc0214a571915de32b9b6cbf759b007bc8afe12a3578fbb8252491b5b75"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "31fe95449205cf9c0e247ffe0315193bf49a97ae532336eed891c1617e8606f3"
+
+[[files]]
+file = "config/etf_warnings.json"
+hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
+
+[[files]]
+file = "config/explorerscompass-client.toml"
+hash = "8bcb1e2cf784ee67e9ea3ebf376d7406361e8f97a0abf7d458cd82ddcad2eb7b"
+
+[[files]]
+file = "config/explorerscompass-common.toml"
+hash = "ba3efb04119e668e5814c670fb78e3017325c8976e45f353081106ce7fd67000"
+
+[[files]]
+file = "config/explorify/structure_settings.json5"
+hash = "e2a1d42272a5e112529bfddda0cbbda9890b7ef60d92f2e3b93674deb2e6f671"
+
+[[files]]
+file = "config/explorify/structure_toggles.json5"
+hash = "24778eafab43d7a4d742572aee3e1b85ee04b5c3fdd88cd713139b3ca7e82760"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "02e78aad7c1f494fc0b1ca9d144a7c633bbabd95ee7cc409ca33d975b67e7fd5"
+
+[[files]]
+file = "config/fairylights-client.toml"
+hash = "d568d3c8beeed677569ad556c0b20c063e8e0554bc30b7804652b4b4328cb1bf"
+
+[[files]]
+file = "config/fairylights-common.toml"
+hash = "850a9086091e593f9c5546cad289ca781604ef4175d0d9e76c41c1560945b195"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "e4a752b4f86b93e50eeeaf91e045a67be910b0a70c0b582927099bb93c0b3132"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "044b716522105ab45b369c02df3917c6e19e79c50ece498d88962b3a7122b6f4"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "e3ca99e0f233e3bcf8b6762a85b1139f716bf96644318fe9cb022c270461b287"
+
+[[files]]
+file = "config/fluxnetworks-client.toml"
+hash = "e7d0eaf3d5fef7f659026ba60fbcb7380e6c7af28630a27af73ae22118cc0594"
+
+[[files]]
+file = "config/fluxnetworks-common.toml"
+hash = "9a837aaa5e26b3f6d8c1d2e4a3c292dcbe93d0bfc33bfa35ba8594617b5d9b0d"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "9dbbbbf8a27341be108f0fa8b557caa1d18a7c7bdc6584ba623bb8358cbfd407"
+
+[[files]]
+file = "config/fml.toml"
+hash = "1ed9280977d03a3e6d0661ae5c7217b49a4c40e255c88c6811b12b1b28f69ea5"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "a8448518860cd8b542dadf75521bfab981451775212ee1b51ddc646d998f9311"
+
+[[files]]
+file = "config/forgematica.json"
+hash = "63c4f7c020b3198953d3005d2b5663c13935784a7406ee11143e7d49bfa7c119"
+
+[[files]]
+file = "config/forgematica/forgematica_jaffa.tami.lgbt.json"
+hash = "c5084e511824ed9f2f38764243b970bd4c7d1047c5fa450b4f4e1c6a2cf9622e"
+
+[[files]]
+file = "config/forgematica/forgematica_jaffa.tami.lgbt_dim_minecraft_overworld.json"
+hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
+
+[[files]]
+file = "config/forgematica/forgematica_jaffa.tami.lgbt_dim_minecraft_the_nether.json"
+hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
+
+[[files]]
+file = "config/forgematica/forgematica_new_world.json"
+hash = "c5084e511824ed9f2f38764243b970bd4c7d1047c5fa450b4f4e1c6a2cf9622e"
+
+[[files]]
+file = "config/forgematica/forgematica_new_world_dim_minecraft_overworld.json"
+hash = "146739371a3f11a34f1a4bae39f5c75c2a999220cb47762bffe60de5cb594cf1"
+
+[[files]]
+file = "config/friendsandfoes.json"
+hash = "ee3c57121829b033819d410d1d684b66865d165cee38ce62dbb36e4c4639d4b2"
+
+[[files]]
+file = "config/goblintraders-entities.toml"
+hash = "63e92f0faaa9916efcb70a56252af789c604f106fc182b8c782fd76390fbf753"
+
+[[files]]
+file = "config/guideme.toml"
+hash = "82bcfdf8624ec94cf4cfe30b1def3a0f3d562561b31a0ccef7468657f48e0987"
+
+[[files]]
+file = "config/immersive_aircraft.json"
+hash = "1b2bf82db9c6d6c5ccfadc082408c8fdb4a250c937f75af52072d9a8dd4ca36a"
+
+[[files]]
+file = "config/ironfurnaces-client.toml"
+hash = "9f1782426d9574112a5f576f345405d495698387be5f3812d2a4249faab693e3"
+
+[[files]]
+file = "config/ironfurnaces.toml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "247df2699ebb5a0d4c9585aeeb267ef9388cd5bee2b13ca340f35124a135b35b"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "22b4560c3dc05da35a70bb6611da0ce04cff295ab8c663afd58e725c396a24b3"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "8a9c0403b385ca106d0c0b541ea2f2128bf39e3f9b05b342b176ca11834857a4"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "8d64e8ca986e513f9f1a959d99d4fea17b279c2b52cfdb0d24df6cb690b9c0d9"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "39a0a2351b69a606388107a007bd138dfe67e65a6255cc37bcef17aa0c885bab"
+
+[[files]]
+file = "config/jaffabricate-common-1.toml.bak"
+hash = "593092542316d991ae7b0441abe182e3b7abb53921670440da4807c6913459ea"
+
+[[files]]
+file = "config/jaffabricate-common-2.toml.bak"
+hash = "593092542316d991ae7b0441abe182e3b7abb53921670440da4807c6913459ea"
+
+[[files]]
+file = "config/jaffabricate-common-3.toml.bak"
+hash = "593092542316d991ae7b0441abe182e3b7abb53921670440da4807c6913459ea"
+
+[[files]]
+file = "config/jaffabricate-common-4.toml.bak"
+hash = "593092542316d991ae7b0441abe182e3b7abb53921670440da4807c6913459ea"
+
+[[files]]
+file = "config/jaffabricate-common-5.toml.bak"
+hash = "593092542316d991ae7b0441abe182e3b7abb53921670440da4807c6913459ea"
+
+[[files]]
+file = "config/jaffabricate-common.toml"
+hash = "593092542316d991ae7b0441abe182e3b7abb53921670440da4807c6913459ea"
+
+[[files]]
+file = "config/jei/blacklist.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jei/blacklist.json"
+hash = "3ca754fefc49ea02e5203353bc3390e520e6717dd8b148aa07042f0b48a78621"
+
+[[files]]
+file = "config/jei/client/default/jei-client.ini"
+hash = "08c99b0664902e0d5e003c1596f756a67da47feb0d0c1dd0d42e2f457061aaf3"
+
+[[files]]
+file = "config/jei/client/default/jei-colors.ini"
+hash = "1372b094bf8f1d444f04cf4da7f9dc05c445d7ab5b3f73ecd7cfbef79ccad1d7"
+
+[[files]]
+file = "config/jei/client/default/jei-debug.ini"
+hash = "6fbae6db21c604fa008d2e4a696789c1fd2fccdbc741194c8fdfb3f1cd8bdc05"
+
+[[files]]
+file = "config/jei/client/default/jei-mod-id-format.ini"
+hash = "e64349cae34367965848d7fb390dcd6a52d23c012c4711005a70084d958cee67"
+
+[[files]]
+file = "config/jei/client/ingredient-list-mod-sort-order.ini"
+hash = "899d6c1a1f6405072a17e28f3802d23e722a7578c772c069e674cd61e402a5c6"
+
+[[files]]
+file = "config/jei/client/ingredient-list-type-sort-order.ini"
+hash = "2bb40154c5d2d864c10b1c78303fc222feb8a70cb9c73127252b8dd4c2e62b5e"
+
+[[files]]
+file = "config/jei/client/jei-client.ini"
+hash = "08c99b0664902e0d5e003c1596f756a67da47feb0d0c1dd0d42e2f457061aaf3"
+
+[[files]]
+file = "config/jei/client/jei-debug.ini"
+hash = "6fbae6db21c604fa008d2e4a696789c1fd2fccdbc741194c8fdfb3f1cd8bdc05"
+
+[[files]]
+file = "config/jei/client/recipe-category-sort-order.ini"
+hash = "aacf123d3f8a3a141d7ac464645d2d32828429a03bfdff988bd8029b987967c8"
+
+[[files]]
+file = "config/jei/ingredient-list-mod-sort-order.ini"
+hash = "5c24ca7b913a7a0bac463f2ab8d0ea5de17c923030a42267c4c8aef5bde4a2ab"
+
+[[files]]
+file = "config/jei/ingredient-list-mod-sort-order.ini.bak.1"
+hash = "5c24ca7b913a7a0bac463f2ab8d0ea5de17c923030a42267c4c8aef5bde4a2ab"
+
+[[files]]
+file = "config/jei/ingredient-list-type-sort-order.ini"
+hash = "5ab6c4af6e3d732cd86bd73264d9836ae6cd151337315b89d1156dcf725a323c"
+
+[[files]]
+file = "config/jei/ingredient-list-type-sort-order.ini.bak.1"
+hash = "5ab6c4af6e3d732cd86bd73264d9836ae6cd151337315b89d1156dcf725a323c"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "34588df52d85317d1678a70c5bcfd905833cc7eb3b6077c500789fd2248998d5"
+
+[[files]]
+file = "config/jei/jei-client.ini.bak.1"
+hash = "34588df52d85317d1678a70c5bcfd905833cc7eb3b6077c500789fd2248998d5"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "30ffef1681a9b0255e65a756406f85b1cca8b0bb3c0fab357c2727e325401bd0"
+
+[[files]]
+file = "config/jei/jei-colors.ini.bak.1"
+hash = "30ffef1681a9b0255e65a756406f85b1cca8b0bb3c0fab357c2727e325401bd0"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "44e73ad4423c5bf0381da8e934861ac552cca4a12d4a007801cacf6eb85d12e9"
+
+[[files]]
+file = "config/jei/jei-debug.ini.bak.1"
+hash = "44e73ad4423c5bf0381da8e934861ac552cca4a12d4a007801cacf6eb85d12e9"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "07052785400b48d3757dbbcfff0b50899fbaed1ac54ea09bc9024ea7f73b7644"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini.bak.1"
+hash = "07052785400b48d3757dbbcfff0b50899fbaed1ac54ea09bc9024ea7f73b7644"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "b94df319df63c58564007b8496a43852caca6af69c534fd0b3831785d788fdb9"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini.bak.1"
+hash = "b94df319df63c58564007b8496a43852caca6af69c534fd0b3831785d788fdb9"
+
+[[files]]
+file = "config/jei/world/server/Jaffa_f9fd2f2e/bookmarks.ini"
+hash = "b042008c2bc8412537b34b12313c5ec886903fad53046ee3da33cffe1109e3b8"
+
+[[files]]
+file = "config/jei/world/server/Jaffa_f9fd2f2e/lookupHistory.ini"
+hash = "1c0d6dee121fed9ebe01ddddc0074c6fd45680982e00cb6f3253b03b1009a933"
+
+[[files]]
+file = "config/justzoom/config.json"
+hash = "32bf4273398c6b338670d556ea948fbd3f357ac0e3e41ceb0d8e9eecc202dc26"
+
+[[files]]
+file = "config/justzoom/config.txt"
+hash = "d0dcbc7c9c28a398ad2b81c1f6779f34beffbf45560c8c02c063077ab32ded45"
+
+[[files]]
+file = "config/konkrete/locals/de_de.local"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
+
+[[files]]
+file = "config/konkrete/locals/en_us.local"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
+
+[[files]]
+file = "config/konkrete/locals/pl_pl.local"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
+
+[[files]]
+file = "config/konkrete/locals/pt_br.local"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
+
+[[files]]
+file = "config/mafglib.json"
+hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
+
+[[files]]
+file = "config/mapsyncer-client.toml"
+hash = "b9256cc4a9ee9ade9948d77320692fa8eb33c773175bccb8129f3bbef1542d4b"
+
+[[files]]
+file = "config/mezz_config/client/default/settings.ini"
+hash = "1ea4410cacf1baa6ee372daf59d4c5989ad944c0eaf26f043d702f13bad204b1"
+
+[[files]]
+file = "config/modularrouters-client.toml"
+hash = "901dcdcd6d81bb75b3f9e86453f9dfab56a8abb014e1c7aee599550e72943805"
+
+[[files]]
+file = "config/modularrouters-common.toml"
+hash = "5fa40d01758c44d0a285b01c1ec842552c1441b9798ba1648bd433aeaf3123fb"
+
+[[files]]
+file = "config/moonlight-client.toml"
+hash = "f85ad76e43a673255d83bb837a72389a5a593877a04ce037a6c0c1d6c52fc898"
+
+[[files]]
+file = "config/moonlight-common.toml"
+hash = "e7569c5ddefa5c8cbfa00502b339e872abdf6989acb73be93b58c44e84bb8096"
+
+[[files]]
+file = "config/naturescompass-client.toml"
+hash = "12e21e8f6b4f99c727bf907935dbc7140cfd8e332f494e067f1c5fb7077b98d2"
+
+[[files]]
+file = "config/naturescompass-common.toml"
+hash = "e9f315861a5c0f7e2446dc6dc27a467dc540d0a454b831f650323bf3c9a96c57"
+
+[[files]]
+file = "config/necronomicon.json5"
+hash = "f97fc5ae7dd7d312e86ecddf2e4491fee3e3a16b7a26cbb3aa078fdd3255c4df"
+
+[[files]]
+file = "config/netmusic-common.toml"
+hash = "cbe87795f23c8ad495ece2047f2aeb15d7cd2451d600efb7867c90d52b1a9d1f"
+
+[[files]]
+file = "config/oculus.properties"
+hash = "496755b049dcd49c4a11406389aded9c63199871d94f19d7130be24bc281b138"
+
+[[files]]
+file = "config/patchouli-client.toml"
+hash = "3b6236845f6a5ff8804487b63b0d74305b91316dc9a008362838607b0be3bd8e"
+
+[[files]]
+file = "config/ponder-client.toml"
+hash = "7508f3f5ceed80c7c606d01ee2dc93e2c72a8afa199ccb691fc5225c894d5bbd"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "057dec5398a51f7103cd83d40720f4b0ddfb56cae622d8dddf93ce3469012a39"
+
+[[files]]
+file = "config/railways-client.toml"
+hash = "8cae295b5b058ab514fc03c54757db7ddf7f55d1e6d674e8a327b79734612d5c"
+
+[[files]]
+file = "config/railways-common.toml"
+hash = "58f7821842631af9ec8bcaddb60526b81cd1b9ad63cbba87c83c70e53c3a9b16"
+
+[[files]]
+file = "config/refinedstorage-client.toml"
+hash = "fd1f877e3c69df8662b8ffa2bd922c80da850ad1ae033591c36480c72b2a9f33"
+
+[[files]]
+file = "config/refurbished_furniture.client.toml"
+hash = "bf7fb4c86fbe2a1d616b6cb204afd1450fba682d46a453d34dede03b4b37a0ab"
+
+[[files]]
+file = "config/refurbished_furniture.client.toml.bak"
+hash = "83f9a0e7edb41bbbedfdb972a420c4e7ecc2c631a9ab5b32a54fdfe8d2c54213"
+
+[[files]]
+file = "config/refurbished_furniture.server.toml"
+hash = "c61e5e2d2880a01430bcb82d3b910d28dcfe8f570d067cc172963583b0a7f81f"
+
+[[files]]
+file = "config/resourceful-config-web.json"
+hash = "9e6aecba64d0bc0925ec1be9e5d52a0e69936b74505d5f0a722dccce4efdcdb5"
+
+[[files]]
+file = "config/ribbits-forge-1_20_1.toml"
+hash = "fb650d06ef5cd1bbf28beabac22203ad62d39eb712a84f2c2fcca6856ea09cf8"
+
+[[files]]
+file = "config/ribbits-options.json"
+hash = "671ee75b5333f98d3a9b92fcfcc79c7df7a6b4c0e5cda025a7b449ab79562b2b"
+
+[[files]]
+file = "config/serilum/collective.json"
+hash = "f41ad25ed0e7d6959ca361b5b837140f8ab178c39b65e6d32cd9359c1d663c5f"
+
+[[files]]
+file = "config/serilum/collective/entity_names.json"
+hash = "bddeff5a95a00aaed5c3d2a37bc73d81a1a69a31377f251330aca1265be6945a"
+
+[[files]]
+file = "config/serilum/doubledoors.json"
+hash = "ae85d0e91ab0306f2d536cfb1bb6d114f94c385aa466d62de7ba20d2c4bdb8ea"
+
+[[files]]
+file = "config/serilum/villagernames.json"
+hash = "4584c82a48d51ee7d20523768e44b1a28be056d10fdb76cbc90fe0fa8bb68c2e"
+
+[[files]]
+file = "config/serilum/villagernames/customnames.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/sidebar_buttons.json"
+hash = "c2adfd6453038abd3081177d5aabc2909d2b9e8dac42560168de166302ba7a39"
+
+[[files]]
+file = "config/simple-rpc/server-entries.toml"
+hash = "6dfd7e6dfd8bb89d93c9eadc92716a7d8cd05005f526beec8174db4ca3ebb019"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc.bak"
+hash = "3d9df1513bc958e7cd85342d84f293bfbea746165082abf92ce500c90cbbc673"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc.toml"
+hash = "939aa48d2c6bd66890d5c5ae00093b7855d73f4c9a976e6b9c0c370af9a585b0"
+
+[[files]]
+file = "config/smallships-client.toml"
+hash = "ae1ed5d3a4a8e55aab96f7aa7630f2e235f2f83af44f8169adda589f985577d0"
+
+[[files]]
+file = "config/smallships-common.toml"
+hash = "2c2914337fc96d44520ac1758afed504616cd9b13a11a0992c3d3528c79a5c5b"
+
+[[files]]
+file = "config/snad-common.toml"
+hash = "49444dbb42707f6bbe29b4c7b6600cca2c314c4c089df3abd033aeaede440050"
+
+[[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "b377e97ca3d8ae8560448b92ab820872d7c11bef0ca52dcf3f4901b44c6ddca7"
+
+[[files]]
+file = "config/sophisticatedcore-client.toml"
+hash = "4d77564fb4509f9ee615aab4d07a0d524dc63b6671c8afdb60b194f8529bac65"
+
+[[files]]
+file = "config/sophisticatedcore-common-1.toml.bak"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/sophisticatedcore-common-2.toml.bak"
+hash = "abc830918d1b744efb234c3f36a30e85c9d173741ab7b0214ee3000dbb6c4a12"
+
+[[files]]
+file = "config/sophisticatedcore-common-3.toml.bak"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/sophisticatedcore-common-4.toml.bak"
+hash = "a2e0f852686a4bc182f5a98d9b83602b74f214710d64994261d249566ea1899c"
+
+[[files]]
+file = "config/sophisticatedcore-common-5.toml.bak"
+hash = "d6f49ce249db0158b536a634b53a01b1bf14bb6b2378e899389d0f27f88218db"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "5f76ac94f0bed3b793a6708f0a7ad523f5162f689103e78004081e1380703125"
+
+[[files]]
+file = "config/sophisticatedstorage-client.toml"
+hash = "908873dd92d8295837f6385b26b0dd4788af995899a509f7b482685934b624c2"
+
+[[files]]
+file = "config/sophisticatedstorage-common.toml"
+hash = "c28b85c07cc46de89e8d4e18db0386be880e7c62badaebc60973afa5f687632b"
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "cb08fad009eefaaf888bb4324c351ac426a49fb0db7cb75c4fddbcdcf8d8f414"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
+
+[[files]]
+file = "config/sound_physics_remastered/sound_rates.properties"
+hash = "0b1026f32ce538bcdfecbec0f4838f7876886d821c1bfca594e215cb45d3bb91"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "9573c64dd047712ef1c7ec7f8e2a2b442906f7272eb0c0c73986fc876a3e6235"
+
+[[files]]
+file = "config/sounds/chat.json"
+hash = "8fb6529918e693ac49e64070eaa7f1d6932cf23c7a4fd970ebee22e4c17b7206"
+
+[[files]]
+file = "config/sounds/event.json"
+hash = "6245d6fd01be9aac33c2c7967fb795b8542a21526623ffc19a85596b3a6e1d1f"
+
+[[files]]
+file = "config/sounds/mod_utils.json"
+hash = "ad4c5fe9811db5595602b39957453cf553ca0ccf0c084db6393caa2f2fa05132"
+
+[[files]]
+file = "config/sounds/ui.json"
+hash = "ad2d93625c17340af17d4f8160853cb2a8db338ebc5e8989c574798039379f56"
+
+[[files]]
+file = "config/sounds/world.json"
+hash = "370cb0d795cd5143f878dbaa489ba2ec7cbd14228cafa07d4a86a27a2e08f923"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "86206026902fc37dcb7903ad01be97b2516b1806b24d6360fab5416cceaae5eb"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "d1736d51df1b4050e21a6754d2f550bef737e9a396da2c9c26b12f82e358931f"
+
+[[files]]
+file = "config/tfmg-common.toml"
+hash = "653835c4a049269f09645e2a871664fb4a536224a2cf07bb0a8fea97ad116152"
+
+[[files]]
+file = "config/thermal-client.toml"
+hash = "1321925a170309d09cce31f4dd2cdc80125f5e3a8adb58d3234a6afc9f4536db"
+
+[[files]]
+file = "config/thermal-common.toml"
+hash = "1bdda4f8a9b08815b9c8b5360edb06e2cd39cc5b45a0746949d07f247bcd2e0e"
+
+[[files]]
+file = "config/torchmaster.toml"
+hash = "968522483c909cd663b133543c10aae4c5b5d7dca693ef2bf611c8a55278a51c"
+
+[[files]]
+file = "config/towns_and_towers/structure_enable_or_disable_new.json5"
+hash = "3aaa6ac8835dbbce97928c4d0d03f9957749a7a57a3f1668597310e9227900da"
+
+[[files]]
+file = "config/towns_and_towers/structure_rarity_new.json5"
+hash = "1f6cddbcb2d89fbcc774d7bdae9987ccb031ba8fe024307357076ca617b17eeb"
+
+[[files]]
+file = "config/valkyrienskies/valkyrienskies-client.toml"
+hash = "6d259062694dc87a8551ab481ab044fe998910aa9f4173c64ddfd6397e7b3a79"
+
+[[files]]
+file = "config/valkyrienskies/valkyrienskies-common.toml"
+hash = "0b23797166d41ac0dfd91761a2a3390315ed699820aca833b174da67db92ee67"
+
+[[files]]
+file = "config/watut-client.toml"
+hash = "a73212a23bab676fdc629005fc37f637cbb4afe5157d5fc6ff318fc3f6b9655a"
+
+[[files]]
+file = "config/watut-common.toml"
+hash = "323737c2bd12d1f45b3f7f110960d13c89a7048a58176d36f144948df340b02b"
+
+[[files]]
+file = "config/watut-item-arm-adjustments.json"
+hash = "543e09f71cda1d97d238ac4150e43e50868cf781027c88d68fc714f261d88982"
+
+[[files]]
+file = "config/watut-server.toml"
+hash = "4e9548b73bc700278d170f0a17948096a71f5d5c1008c589698b58941ad95a25"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "54383dd0f5b4dd7b5e9bfc765032d886cacb83dad1621c7863876170646d9a27"
+
+[[files]]
+file = "config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+
+[[files]]
+file = "config/xaero/lib/common.cfg"
+hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+
+[[files]]
+file = "config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+
+[[files]]
+file = "config/xaero/lib/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+
+[[files]]
+file = "config/xaero/minimap/common.cfg"
+hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_client.json"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_server.json"
+hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "f1ff62b22cfc97486d00e8bd3367a3207f0a8da235e7b365c5aa2a54e3f8dc25"
+
+[[files]]
+file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+
+[[files]]
+file = "config/xaero/minimap/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "d0f079a8df083f6f60a0e0c1316a25fc841755a91bdcb2f86c66ead8e7d4d13d"
+
+[[files]]
+file = "config/xaero/world-map/common.cfg"
+hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+
+[[files]]
+file = "config/xaero/world-map/profiles/default.cfg"
+hash = "5422abf9c83fedef6509144293fad20f588d4bb6ce0cf1af78cbcd2bcd0d2ccf"
+
+[[files]]
+file = "config/xaero/world-map/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaerohud.txt"
+hash = "cece60604b8de5e978141c981c1ed85227c8f30697a513869012b06dd15fcf02"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt.backup0"
+hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
+
+[[files]]
+file = "config/xaeroworldmap.txt.backup0"
+hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
+
+[[files]]
+file = "config/yacl.json5"
+hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
+
+[[files]]
+file = "config/zeta-common.toml"
+hash = "b5ae0f1685b3136c29758855f06e1eb4fa9878ef78d25b7adcbcd88391074c86"
+
+[[files]]
+file = "data/fabricDefaultResourcePacks.dat"
+hash = "56dcdc36f4d3fe993c688cd6d60c2ef0d83480a63305425e068d171f8fcda7db"
+
+[[files]]
+file = "data/serilum/cache/config/mod_toggles.json"
+hash = "1cb6e91a74b95585c74336e4058e1a6c6ba804bc5bbd0161347cf40fcc9857bc"
+
+[[files]]
+file = "defaultconfigs/ftblibrary/ftblibrary-client.snbt"
+hash = "7cf44bc2b79d6798ac1b0bca7dc52ab570a14ade2c11eccf4e1272ce6e081001"
+
+[[files]]
+file = "defaultconfigs/ftbultimine/ftbultimine-client.snbt"
+hash = "a6dee4f56a6956d771217c20f00c581a1e70412eec321a258377f026e4026ca1"
+
+[[files]]
+file = "icon.png"
+hash = "92a5702b7fdbaac2c4ddfc4ff917aaea328546c591178e94f4ff138efc58c153"
+
+[[files]]
+file = "justzoom_instance_data/persistence_data.json"
+hash = "78b50d2bcc9c659de5737ac79584b57b447fad86b26bb604f1b79c76b161c43b"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/client_scripts/chocorangeslurry.js"
+hash = "f7e86e801f14e409b3c23c00e38b2f0cb49dc3cd077ea940364e28639a0d9b64"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "97702a831a6e57d5bddec4441417a2f0a7395c23823f0387b82aa26055d191dc"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "4b56ecf88495d5d1a38c8950a82b4ddb27eb4ba3e891f85ecaf36beaa9082c27"
+
+[[files]]
+file = "kubejs/server_scripts/chocorangeslurry.js"
+hash = "daaf614f0d84beb32dff3022e62e1b73391b842151ffc2ee7773a5a18534c3e2"
+
+[[files]]
+file = "kubejs/startup_scripts/chocorangeslurry.js"
+hash = "b0f7f8b6b8b2f7bcc0fec17b9b752955018689b1c7fef0b14f9bee66f4d03436"
+
+[[files]]
+file = "local/ftblibrary-client.snbt"
+hash = "f06f7488b7856826d9e67883934c0076563dd31bb2ee134b880bf2f8dca8597d"
+
+[[files]]
+file = "local/ftbultimine-client.snbt"
+hash = "009bb3c1ac343556ee6441f1287db06e6b95c0ab3ec8558587ef6c470a9bb7db"
+
+[[files]]
+file = "local/kubejs/dev.properties"
+hash = "6edb0faa4dc5a47872540b1019d31bb7e05a12e375152e5bf94c4847ed799657"
+
+[[files]]
+file = "mods/DistantHorizonsApi-7.2.0.jar"
+hash = "eda4a8bec214b12a931fe82ab16478e064b4b491bf7c19ed2e4a9b1a03789d21"
+
+[[files]]
+file = "mods/Explorify v1.6.6.mod.jar"
+hash = "76aa6b3392b316c8bbc9f8a5005818bb882ceb8a2762a5971fb2d96414521a77"
+
+[[files]]
+file = "mods/ad-astra-giselle-addon.pw.toml"
+hash = "2ee5a9e5a8cc755b428d953cc3f89a68c4f239136c50e9500ed62f13dd92561e"
+metafile = true
+
+[[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "16b7ba68b0de49eea2511bdb20d85ef694644e5e58d27865250d89c4c11e51f3"
+metafile = true
+
+[[files]]
+file = "mods/advanced-peripherals.pw.toml"
+hash = "fff2acc3c8019523b091308e9a5689f8e11c95576d0fb3a07094aacad9883c54"
+metafile = true
+
+[[files]]
+file = "mods/alexs-caves.pw.toml"
+hash = "6f864eef65f9a38f57eb0cc6fc71469b36ea70444a10c3e27502d617c5eaf917"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "eda58c69acb7005452122434fd1816a4e57b282fc0806adca19fc23c9b535e1c"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "4327ca177fdbd9cfc0c2f442bec68899b6c8e8eb46f0e6b04548178c244b6a84"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "837835bafefef1a9b4215bd05adb23a9f4d2d83602b432aa68f124023079c2b7"
+metafile = true
+
+[[files]]
+file = "mods/architects-palette.pw.toml"
+hash = "ea0e1047f953916c926acb92182c550ddfb93d1ac67b490a0d6b3f4627ba80aa"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "9224b29b7fc388a0a030f8a6e87b26b24ec73dbc853bcdd531a144ed8e59ccea"
+metafile = true
+
+[[files]]
+file = "mods/athena.pw.toml"
+hash = "9638d8a308563842fd989970919a51f37ed1bcc82372bff47fc5a5c2e6de738e"
+metafile = true
+
+[[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "a656b8f288b92f9e80a6d7b20c6b69ee15bb9f1acef05a147dbf84cb4b2a4241"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "cc17fd6e85be435f0141ff78ce81233e0645414f6ec5bc1db112a26a79204822"
+metafile = true
+
+[[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "585a3071c68587c3c041832210a58e74e7701162dbc360d47956655ca1a6438e"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "49f9d94df22724949d2ce1ae70b73461dfe7d92ce6ad6ceae9739cef0b34a089"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "d90321c5b93cac899c833140d215b98dcd30504e4807e56b05a9f677fd1c3fff"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "badd7f23d1df8151237d0afbc98f2e1fc83346237b0d407fc10215b4217c1cc4"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "945d7bad157b6cb2ae0d4becaa95aa37cac7d4c34a62c3581edf9f1dd53cd757"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
+metafile = true
+
+[[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "528a5c2d50126e1b2906b47449b40a996fce3b4a50b9a0460533f2b7b74f5c99"
+metafile = true
+
+[[files]]
+file = "mods/camera-mod.pw.toml"
+hash = "605d1f1ae3de3633229406d58ebff0fc51b159a9d6107cdf30a48d80ad9746b2"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
+metafile = true
+
+[[files]]
+file = "mods/cb-multipart.pw.toml"
+hash = "1ad8d65dd7a5bf203b4dbbe1d335c5bb53d25ecda8082859c0d3a3a4bc05dceb"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked-1.20.1-forge-1.121.0.jar"
+hash = "a95ba58640db0198c86f0be99154af92fda17a78975c88aa45ffc430159a6fe9"
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "71a33fe41bead909b3e95643351ef8015def70d3cb083916469f492f66434b45"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "5a4b03567f23fe0aac7806bd7cc9734138bf5fc098e98c1bb552d5b288bef258"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
+metafile = true
+
+[[files]]
+file = "mods/cobblegenrandomizer.pw.toml"
+hash = "b6c98086f9fa71d9fe4d702294ed527b53f7096e361cbbd71016cf859e164572"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "a81fc8be889dfe5fc3c04cc158868f5afc33b30e538699089d084fecda9d1b04"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "20fcd633516ef654e4a1546ab7e1cd4e22bc96a087544ae583f85df9b7a65468"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "e7ec7ad7df2936b3b71454962e0442514dfb69a4d5f614a9d2b57d7336ac708d"
+metafile = true
+
+[[files]]
+file = "mods/connected-glass.pw.toml"
+hash = "26cfffc0a877575da0a92aa6481b8afd2c9a847731c0f80fe9f8fa014dac87ba"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "11b62d086529833b454fdd6de19798baacbb078d16683c1b0ce4c421d4a9dafb"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
+metafile = true
+
+[[files]]
+file = "mods/corpse-x-curios-api-compat.pw.toml"
+hash = "5e3fab223817e7aaadc00bce62ebc11353dd26b93b37112447b8bbf21249e80a"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "d62480bc696affd0a714d4cd74b5dc64a072b9d67d505b52df87ebcdf9650a79"
+metafile = true
+
+[[files]]
+file = "mods/craterlib.pw.toml"
+hash = "809d8e56e9406b14fd9d5bb5242ee2afc6e44b6db9bbc2ecd2e7860bc2f703dc"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "fee58a333eaf51d4862fee34fe8ba7cb70140500023e06aca3c9fcf0e0f34719"
+metafile = true
+
+[[files]]
+file = "mods/create-food.pw.toml"
+hash = "e8480d85cfdc5090843bfc75ed5ce70f6e0607fb21801fa811046ece449d5143"
+metafile = true
+
+[[files]]
+file = "mods/create-industry.pw.toml"
+hash = "04f84cbd5fd5408dd66d8bf48b6dffaee55baecfb84220e5dda82f43a36c3d85"
+metafile = true
+
+[[files]]
+file = "mods/create-mechanical-spawner.pw.toml"
+hash = "63175b44957b133bee4bc267c29e8c15b7cfba4cff96f72687f4ebd1df09b6b7"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "993a3a0df7b5ea59ededb0434ebe948f254835201e48c79bc6c644dc63aa71bb"
+metafile = true
+
+[[files]]
+file = "mods/create-ultimine.pw.toml"
+hash = "748546f76bbc0f5310ad25ca834cec0e7e2941855b95ee2f11d27ffb3a0b4b52"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "8a5f33277995fccd2be6793c4fba1b5d657983be32f0b47e4afab4eac70b8ab8"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "23ee78721a3b10820048c827c4fdc2be3275c8f79463a8bc8e90096af2640654"
+metafile = true
+
+[[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "83c65e1eb2e5b72692adb428b3f713d7ca2fb681eded29c4414d657d2ea0cfa5"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "6a62d8663df5fe33f18c8a0d3784a3aab183b252c620c45fc98e677a71b06cde"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "55d77d596c2d805f28b47ea53725ccaa220d2857177cad3909e48d8c12b2a2cb"
+metafile = true
+
+[[files]]
+file = "mods/dark-utilities.pw.toml"
+hash = "1e5226def4d447c7b1352274229443c7bf66658be97f3a7fa3dbc1581e9f12b3"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks.pw.toml"
+hash = "02e3f47ff5a2fa074996387e14c81718e5c4df16dbe75ba1e1021157352f7815"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "887ed2e25880009d1fac1c8522b10cda7da02e61962b17132f4777c2fd87a8a8"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "c416fb9f693f93533bcecef0bbc50e3326c3800f1c0882781760019dbbc2f2a8"
+metafile = true
+
+[[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "9d09b0f01d4436b4a42c2b1c16ed6d7de5118f95d2b3155da2181c925ef6759b"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "acb2f4b1300c24188642c03692c6cfaf35f3edbfbffc53a32506bbc4fa930d0c"
+metafile = true
+
+[[files]]
+file = "mods/easy-piglins.pw.toml"
+hash = "285d0419f9b190fdb9a381d07bea56882936b049ca7822a63e2a79e2f6cd837b"
+metafile = true
+
+[[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "a2ba44dc9807e684a92b909bd1f199fd7bcbfa663ab9ee164753f5d6d7b4a91a"
+metafile = true
+
+[[files]]
+file = "mods/ecologics.pw.toml"
+hash = "cdd939deed6fd9fd965cb73a3930514af62cf016858c5725cb9d89d7f37760ce"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+metafile = true
+
+[[files]]
+file = "mods/enchanting-infuser.pw.toml"
+hash = "7067864fca90bb1ef749a8c1379365b9072954d7a677649a54d00a45d411c928"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "185797e9f6c75a53c95366b75eb136695c9bed180674a24b02abd377acdf2e82"
+metafile = true
+
+[[files]]
+file = "mods/eureka-1201-1.6.4.jar"
+hash = "6b6ee629af07814dadb3416af3404f2fcabd293ca0be650f52035f1d4a755453"
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "0db85b53cd32bb1d23c33273deaef58bd0f0429a180d171e3f02fe0ab86b0fe2"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api-0.92.6+1.11.15+1.20.1.jar"
+hash = "3dd3f93c31122d928297220601f521e6a8a20356bafc7819bf4ddce4c2bb085d"
+
+[[files]]
+file = "mods/fairy-lights.pw.toml"
+hash = "eeca094798607a0393a5ec261a0f3298e20fa74b0daa879951aec47c2c7fe64b"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "349c06c50fa315e9eb618d115f7d1391062706021c645e14f86afae3109d4662"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "mods/flux-networks.pw.toml"
+hash = "de63df967225278681e18afe0e323110322ec02006746980fbe77dbd974b20b3"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "9e2175476f720e0b2d21b28e91873cecf5555648e2137310e1b7cf98f6b98ab8"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-forge.pw.toml"
+hash = "adc1065340b7bd108ede169d4850ba33367ddbda584412e9573791a0f3fbc6ab"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "efa75ee4aae90dea11316b6e61aecaf9433eeb3d0821f78b4eca41acbbd73e8f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "95b3a27eadc2854462de996ddce5ff2468771e13ac97c46ed96d41a6edaa056e"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "8f1af185eaf7a3451f710eeb9a762857b12ecbb3bff77043fa96c3c310a27621"
+metafile = true
+
+[[files]]
+file = "mods/goblin-traders.pw.toml"
+hash = "603b8fe672b8f62539763ee788341ede0c6441abe0cc3cf5f1b58c1094714b27"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "606e38058a2913795ecebcd9b407a453d8fc24cfd3409a9eb431ff56e10bcfe8"
+metafile = true
+
+[[files]]
+file = "mods/hypertubes.pw.toml"
+hash = "c8cb742d340604da19ca518bd137ff412b294746da40d647386b1af12aed13ce"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "e410d61a7906f69a6d617ec8c05b92bf0139a537a44d6664a6516c8a19ad6e77"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "8da51e31d146df07a51fa173d5c1d3f99affb78e478945e2c19f6af412212cd6"
+metafile = true
+
+[[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "7f3913dea0869ca5a9343c30f3cf81cc6dfebf793c5bf5d4201330e540320d97"
+metafile = true
+
+[[files]]
+file = "mods/iron-furnaces.pw.toml"
+hash = "8a29668768e271e497991b609c4783da72c80f583e554f88a8751ec1d2fcc1d5"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "a2277a000bcab08a8e0939dae7c8ef3b1db5327e2fa7bd37919e4e2f1b3c174d"
+metafile = true
+
+[[files]]
+file = "mods/jaffabricate.pw.toml"
+hash = "2b4a69f51b8cf36ca057ea86868e39ef17b81fb0da06a4edf582e3a99ea51030"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "2ec43d88a80ffb1f254c8acfb914638dde45c723399a3df32def2d178c4fb5b0"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "b54c5b56d99a1bbb1f47cf27fb60add8690b62be26ec4f419557d904e80aee60"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "143102be700d30cf68d0988bc9f1b523545e37b7074ee786faac56a388e6f0e9"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "7e9ef26310359f482e595815664b3d08381b30c6517c32a58078b0999e1d953a"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "ed086cdfde6ba4bb175468a76f3df3b9517aea3fe95b09bed0f1fa70f7caeb6a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "9662a11bbab322c2c29d84bf88d0a6c11e3dbfc2e996a484fa1a1ef2f91a18ad"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "d86cbc693097bff3ae88159c2f6e43459b5472e4047893e9942cbf76d4c6c4b7"
+metafile = true
+
+[[files]]
+file = "mods/mapsyncer-1.0.3-forge-1.20.1.jar"
+hash = "5629d0e84fa76b50189bbed69f862262b69cc39beee91a57cfb0ed34d62277cd"
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "a76a1f1d2139ebe5c31c628ed4bb01f3795cfae931dda4093047260507bbfd43"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "7c411a566d022680769ddb8323984fff292ddeb35e7d8fcfe2cc41b9885d9557"
+metafile = true
+
+[[files]]
+file = "mods/modular-routers.pw.toml"
+hash = "6bcf7a39bad33980cfd720cc78b1e2fe703f7cf0635c00a59948a561c66bf2e0"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "48e2ac25a43d029059a433afcb1d64458c18578335b2e8cb9c9789fbaef5d7bd"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "937c7ae4c8274ee0717546a2ca736099b1640a178b8f06027f62ca310517e413"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "318a137293d0919ddeb5e25c3facd5bc83de60366ac6cd5707d28ee650330f62"
+metafile = true
+
+[[files]]
+file = "mods/net-music.pw.toml"
+hash = "6be7b560de0f8a6714e363ac92d1b31ef50cc3b56d2ab615364094dc5931b75b"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "36978dd026fcf9884e8b76633b126dfede9603bf1700d23faa7847ccdbbe5005"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "50c9e25cecd708b2f4a986f8bb3c531cdbd7db1baade3520f1bbb9cd96899d81"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims-pvp-support.pw.toml"
+hash = "1e1bbf51b77cf0ec8cd2431025355cd186fef820d03dc34631d2d5561528c1fb"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "ad0334be3c94aae3a168922673577bebcf1bac48c585f1c0c66a4362979f34fb"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "b2cb681aaf3e6085148392a06d40899239dc299aaf5ce0adf168fc225d922c97"
+metafile = true
+
+[[files]]
+file = "mods/pig-pen-cipher.pw.toml"
+hash = "70f039b573e08e8856d144125f4113fb469eefff17d0d76c51432374ac5f6c0f"
+metafile = true
+
+[[files]]
+file = "mods/project-red-core.pw.toml"
+hash = "11235263add95d02a50cef25f363a02aa1cf90e43773c1c4889a71a67192cdb4"
+metafile = true
+
+[[files]]
+file = "mods/project-red-illumination.pw.toml"
+hash = "46547b3f613fea02d078fbb86cae07aa3abdbe5197ae61b617c169069bcd940e"
+metafile = true
+
+[[files]]
+file = "mods/project-red-integration.pw.toml"
+hash = "3655f9bbd83aaa65be40e40a9961da4c97dee82622a44a30b7e0cded4eb1a88b"
+metafile = true
+
+[[files]]
+file = "mods/project-red-transmission.pw.toml"
+hash = "3374b17465daf9ca3eb5c069d1ee6043ba8b3a0dbe3a219212d24d3894ab4764"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "940024d6bd348d64bccb44b4af0aca29d375f4842728e8394982754edd0b68d7"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-addons.pw.toml"
+hash = "70b949dab65474c3687c98063f66282c7a580e0bf82f33615fac247fdc29019b"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "4f8fa2d8bba834bac3240024294ff9f2881fe20e11d775a93497dec5d25be571"
+metafile = true
+
+[[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "2bcee75d08b33dd6506b7cd3f67ea9d0d2c1bf14e26728fa8e12ef19c895b165"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "e242387207a2538b5ccb55697174c65e549e1eb2fef9da37e1ad3734e0372b65"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+hash = "70acbe76903121faa88da57c77a8a1eada9c0e4b58143abb8ccd57b766b14148"
+metafile = true
+
+[[files]]
+file = "mods/runelic.pw.toml"
+hash = "f9af164982fc8d2f9fe4ab593a18eeb2bf79e3da7e0b0657ebb5d7b7e12a884c"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "7f073e56ebad4ad34119c1502b62f9e70526bbe6e8a8550a6bffdaebcda45aa1"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "61b5546ef4f36242f32fbe9d3c5fc120a5f7c183a41b281c1113829354493013"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
+hash = "19692262f3fd8fd33ea2eba5c408c41941304afa2c0f84c47e88732604f3c838"
+metafile = true
+
+[[files]]
+file = "mods/snad.pw.toml"
+hash = "3ad4e9731f8c3bcef4534354ffe2a9557f528ca453de4e6d52f2f560d273032a"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+hash = "99761c8c9ad7b87fd057dff9443d9a65761bb27683e1806d3f6abbf1a4cb6478"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "446f8c2fc08aeb3375c9edc16f7a83c3f04dc1e31b4f07c06233b2a0978b164f"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "904b64ab9a537b7ffc63f2f8521a0bb2962450177c1ee27816c181949eaf373d"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "04553496c92a6ec93bb72c711fdcae41c470e3b326ceffde379c94ae00b214e0"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-in-motion.pw.toml"
+hash = "76df1e28db41e1a68922ab01c6916305262fa5d55dce0954b45a1b643f76c6ab"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "8562a9d8dd3634da756d6826aa984b5cbf11e55dff41690658f35968d690cdff"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered-forge-1.20.1-1.5.1.jar"
+hash = "1d7a0d4cdbdee61532dd23ddbc2833292e945d8ec2d20f3271af86b02b0fc108"
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "3fff9456c0ef97caab6584a10517f20822e138b627da4b26c8c46e6330d7e7cd"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "f18e9e5df1ee9ed7ed6dd6ba9eb2df1417b2c40fb30820a2576616b1014f1d83"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "054be0b691ed670e535618cc904cbb99e6984e0902f67a2c3dcfcac3a3cdf281"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "1603a2d57a71762925e57c61ae45649bf6aab128295a31efec214b0676c79024"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "626f0ea226f55c453930ef387b32ad090c8defdd07792fe0aefc4b5afa87cb46"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "51e82d9320effbd610ccfe4571c048c7d0f9c98362b9884faabfaa6f63aa9737"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "00a0cba74675174812eea16aca533adfe9bac7b30a81a7e33dd81bd9343b45c4"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "75ac47ef3a388aa5416f86415f79d262f68f5c8195c7a1a89f081b348a64c81f"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "81484132585ff44f11984c45cf4bf8f529faee1bcb54335f4ed1c7f7ebf6b9c0"
+metafile = true
+
+[[files]]
+file = "mods/villager-names.pw.toml"
+hash = "f4e6387dabcd4581781a955d1e214014f49da85fb8139ffdc0b576608a037d44"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "4bbb339934e6c74bc6129359abe75464f4652defffa6ae28624fbc3d1916c614"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "57d69a930e8272c52bed5f54d2d645e6e3e7eab14435901a5c70dbb4af4005a4"
+metafile = true
+
+[[files]]
+file = "mods/wonderland-jar-real-one.pw.toml"
+hash = "b13182399128f25cb3065871e366d0bde4197591b1332361bdcce130262dfb8c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "5897f458285d512c3c6d2ca4d82747fc6e2828a562b209312ccbb74d5cc15125"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "bdea6efdca7bd778a06437a865559c8019f200b798cae419cc37818d6d4f989c"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "9fb6a1a06b18f2ce7b0811200339d997925cb39bde220fbaea4d5c8067376c12"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "58148fa22c72e0b0eac5e35fed0be9194ad59fe848298c1b61b565fa3158b2f4"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "31fca121c5b55c624ed203937c8f9b4d13cfe32f80bb85405aa4c65238378b15"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "24876f77eefbda53cbeb1b3261dadd63e37f46389d184380e1e3f1f04d1f93f3"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "a5af976bf45b8e0aaaa22bebb11504ef0687e90d2cff9d3fa3b648c0757c1446"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-forge.pw.toml"
+hash = "e0d77569aa19c6b72d30cb895cef575837a5740bee489d3ae537edf40a900ab1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "18e0db08323413e9ad0c0959ca71d700f72a53dcd9fa5eb368cacc62c65168db"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "f58f817a74f2b26fca9922263bf3f616deb0ee709212aa944ece857bf47a2d6e"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "32d07d192caa9459521c3b3bc21199ebe72d7f6cad9b3461e0b231180f46bb30"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "2eb3e909cc46e39d8b9e762f39c36b0579744118d619beb6a174d264951d6248"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "f664d8e9753262b287d5cf1be3d17a59d01b7f8293b91db335adcc2cae5e2f55"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "aedb648ee15bdb7bb3af23cfa4ad565c0fe531f62e89406566bec90659be9a42"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "a9421a7a29ac8ee6e0598ea20025ad2c30e6198b796324184600621743437c91"
+metafile = true
+
+[[files]]
+file = "patched_shaders/001_deferred.fsh"
+hash = "7777ec661e01ba0b59eb42a6c9ecc43e4c9e16fac78d1be6fdec64b26841220d"
+
+[[files]]
+file = "patched_shaders/001_deferred.vsh"
+hash = "beb6c48d5b683a41dd0aa5c08930ec3ae0ab7136e16e68f5dcefb3b633dca482"
+
+[[files]]
+file = "patched_shaders/002_deferred1.fsh"
+hash = "9fb1c9c05ff68a6f7be5d6d755dcaba387e5d2a56a6e8f78602b99fc829b9cd0"
+
+[[files]]
+file = "patched_shaders/002_deferred1.vsh"
+hash = "a144a623304614234c8a4d43dfd440e0d131c9e99cb23adadd92076e80a49715"
+
+[[files]]
+file = "patched_shaders/003_composite.fsh"
+hash = "512a9e851bd59834ee1286278afa30033da076a158406c3d8b23105ae6474055"
+
+[[files]]
+file = "patched_shaders/003_composite.vsh"
+hash = "1cfb30c61083747c7a19eaf054785c28f16904092cf3ce0e307e7fa5f58c6500"
+
+[[files]]
+file = "patched_shaders/004_composite1.fsh"
+hash = "aba3ba25b2774c218664341b3bbce4bcbadde7cff61bf630faba580e049c1df0"
+
+[[files]]
+file = "patched_shaders/004_composite1.vsh"
+hash = "1cfb30c61083747c7a19eaf054785c28f16904092cf3ce0e307e7fa5f58c6500"
+
+[[files]]
+file = "patched_shaders/005_composite4.fsh"
+hash = "ee1900d8b5e1f18588fc6fd2e2f4d245a0428818b5b5fca388c955e03007747f"
+
+[[files]]
+file = "patched_shaders/005_composite4.vsh"
+hash = "beb6c48d5b683a41dd0aa5c08930ec3ae0ab7136e16e68f5dcefb3b633dca482"
+
+[[files]]
+file = "patched_shaders/006_composite5.fsh"
+hash = "8ee6e51ce0bc01480470b49b0fd7a830e94f1abe158f78af4371b7c1ad0b3039"
+
+[[files]]
+file = "patched_shaders/006_composite5.vsh"
+hash = "1cfb30c61083747c7a19eaf054785c28f16904092cf3ce0e307e7fa5f58c6500"
+
+[[files]]
+file = "patched_shaders/007_composite6.fsh"
+hash = "aca1dab883dd1dbc1611207af376f00c7c6e8278ef4265aa9c6089f8aac0db9b"
+
+[[files]]
+file = "patched_shaders/007_composite6.vsh"
+hash = "beb6c48d5b683a41dd0aa5c08930ec3ae0ab7136e16e68f5dcefb3b633dca482"
+
+[[files]]
+file = "patched_shaders/008_composite7.fsh"
+hash = "e5e8b9b61261811ead4432ef0c0b17b38f8eeb285fdaf37f13e19dfc3b5838de"
+
+[[files]]
+file = "patched_shaders/008_composite7.vsh"
+hash = "beb6c48d5b683a41dd0aa5c08930ec3ae0ab7136e16e68f5dcefb3b633dca482"
+
+[[files]]
+file = "patched_shaders/009_final.fsh"
+hash = "fdb1729c9a2c6a09a0a7bc702bff8665f469add5f2a56f6c28b1aca11142bc67"
+
+[[files]]
+file = "patched_shaders/009_final.vsh"
+hash = "beb6c48d5b683a41dd0aa5c08930ec3ae0ab7136e16e68f5dcefb3b633dca482"
+
+[[files]]
+file = "patched_shaders/010_dh_terrain.fsh"
+hash = "397a478f1f862df2e4732521702c3e7f5ac91128bdd45752569f9fb6c720612d"
+
+[[files]]
+file = "patched_shaders/010_dh_terrain.vsh"
+hash = "b624795433312eb21ae5ac2c1e207832f8ff11e7525592478cb4eb8ed0810913"
+
+[[files]]
+file = "patched_shaders/011_dh_terrain_g_g.fsh"
+hash = "397a478f1f862df2e4732521702c3e7f5ac91128bdd45752569f9fb6c720612d"
+
+[[files]]
+file = "patched_shaders/011_dh_terrain_g_g.vsh"
+hash = "c8cb0c154fd3589198b1a4d4839cc2fa56adce669bd741f21fbf9fab0b6a91d0"
+
+[[files]]
+file = "patched_shaders/012_dh_water.fsh"
+hash = "d9a713a7f58c090ad2772eae55f5754a1820a24420254258bcb0f9a22b24ee80"
+
+[[files]]
+file = "patched_shaders/012_dh_water.vsh"
+hash = "ce534a87997677571721e88597d897b83d560f5ffedcb913f3a2ae4e18c5886c"
+
+[[files]]
+file = "patched_shaders/013_basic.fsh"
+hash = "2650023bf6d6520c5076792904e4cf031a13200b11ea983f4ed612c14d85528a"
+
+[[files]]
+file = "patched_shaders/013_basic.json"
+hash = "dbcaae1db716e6967163516eb924eee0e529aaf7706492f5870c2ce5249158bc"
+
+[[files]]
+file = "patched_shaders/013_basic.vsh"
+hash = "fa4560812ce6bc05f141a939f43ab30f468af0b63f3676f068b7f74b1e7c601c"
+
+[[files]]
+file = "patched_shaders/014_basic_color.fsh"
+hash = "528f43040b8ec0729bc4317bd1de3a1d71b9ea88dbe0da13737ccc200e19af4c"
+
+[[files]]
+file = "patched_shaders/014_basic_color.json"
+hash = "b5296172cf673497cbab40357221456467100ed80a7ea47be76528922be572c6"
+
+[[files]]
+file = "patched_shaders/014_basic_color.vsh"
+hash = "090840141c4b0cf582f21c65d6252b7cb104a592d178662858f2161536f93b53"
+
+[[files]]
+file = "patched_shaders/015_textured.fsh"
+hash = "3a5072e938299c5382204852791813854b1328f17b256246bb0ad1a14a356e37"
+
+[[files]]
+file = "patched_shaders/015_textured.json"
+hash = "d9a0968d62c57c74704d85c564f7f9e26d7a1f250e801bd8a8618b8cf52606ab"
+
+[[files]]
+file = "patched_shaders/015_textured.vsh"
+hash = "3d2ca054596acae452b826527c7524578c099818548bdc59c57075b5b62c3544"
+
+[[files]]
+file = "patched_shaders/016_textured_color.fsh"
+hash = "3a5072e938299c5382204852791813854b1328f17b256246bb0ad1a14a356e37"
+
+[[files]]
+file = "patched_shaders/016_textured_color.json"
+hash = "fd4102137e5cdfa51deb408e143d91d6fa6b17b4e15dfe91cb0292179b9d7acc"
+
+[[files]]
+file = "patched_shaders/016_textured_color.vsh"
+hash = "7173dcc732daa75173c7f4e60cb98eb191bac45605729d892fec54c193cabec4"
+
+[[files]]
+file = "patched_shaders/017_sky_basic.fsh"
+hash = "c84b8f77724872a8d2d44f9267aa1aac23d79e9eb84ab9af501b2bb4d5dde65c"
+
+[[files]]
+file = "patched_shaders/017_sky_basic.json"
+hash = "3fc1d7a39c4b7797d93137408b9ecb83433be9929c57f55e9c254f98af3deca9"
+
+[[files]]
+file = "patched_shaders/017_sky_basic.vsh"
+hash = "6d0a4784c56b612ee3e9aed1fc888314397e122030d0f3181cbbc18fe3d8e95c"
+
+[[files]]
+file = "patched_shaders/018_sky_basic_color.fsh"
+hash = "a6c4f9eae7741a36c78bd3f5f3b9d33e3c2727a039c149c4c49b15a1657c9266"
+
+[[files]]
+file = "patched_shaders/018_sky_basic_color.json"
+hash = "4d3f8f44580f68b0c05945eb9672a36d427a0720413356da1a6dd07f97e3414b"
+
+[[files]]
+file = "patched_shaders/018_sky_basic_color.vsh"
+hash = "b29d6a9c7950fde4a8dbc9ca7c24eedda40943c54ad4c79fa440b03bfa151b1b"
+
+[[files]]
+file = "patched_shaders/019_sky_textured.fsh"
+hash = "91c1e7cf08fc22a056d435f53c9b9143abf9af92032fa9c2b543a0e7c95111de"
+
+[[files]]
+file = "patched_shaders/019_sky_textured.json"
+hash = "becd2f44c25ec319fce543d03d3bb3ae92cc5089b7dfef665235b2786dde6912"
+
+[[files]]
+file = "patched_shaders/019_sky_textured.vsh"
+hash = "72f43c7cc86d36b0254fb1fccee89c67fbf589512001004261f6cba590759aea"
+
+[[files]]
+file = "patched_shaders/020_sky_textured_color.fsh"
+hash = "91c1e7cf08fc22a056d435f53c9b9143abf9af92032fa9c2b543a0e7c95111de"
+
+[[files]]
+file = "patched_shaders/020_sky_textured_color.json"
+hash = "ac54ebe2536edc99eba158b9077a1385ced1b8eb8bf9b6cf4a2af9f316739e47"
+
+[[files]]
+file = "patched_shaders/020_sky_textured_color.vsh"
+hash = "c5274b62bdbc934d09c85bf40f7550aeb7574fb467b0299755742b67b744d91d"
+
+[[files]]
+file = "patched_shaders/021_clouds.fsh"
+hash = "b5f7a598772f0b33e1705e895acc536b8aa3ca2f1e42ad7f7208d07f83f45f54"
+
+[[files]]
+file = "patched_shaders/021_clouds.json"
+hash = "209d760b57ecbc165624c62c8cffe299f62f562fa35845ec28dcc80bb023ce16"
+
+[[files]]
+file = "patched_shaders/021_clouds.vsh"
+hash = "2c12d19a262397e2075e43c0ec4f95d09166f415f178441e70939a2ea30be3bf"
+
+[[files]]
+file = "patched_shaders/022_clouds_sodium.fsh"
+hash = "b5f7a598772f0b33e1705e895acc536b8aa3ca2f1e42ad7f7208d07f83f45f54"
+
+[[files]]
+file = "patched_shaders/022_clouds_sodium.json"
+hash = "03401b86639ee197aa9ad50f84bf75fbf631a3ad4eb7d1c75b2432df40a77d15"
+
+[[files]]
+file = "patched_shaders/022_clouds_sodium.vsh"
+hash = "42dfaa7cb50e524fb6f9e6378f4745adb5604d3d495df8e3e80dbb52818a437d"
+
+[[files]]
+file = "patched_shaders/023_terrain_solid.fsh"
+hash = "c59ccb24086c2f8711e94cb098e5d37c0b60aefb007157c993ec1331aa5bf3d7"
+
+[[files]]
+file = "patched_shaders/023_terrain_solid.json"
+hash = "04dde93f6689fe4bcd42691aefe34ca350c15a38a87875f5490e3b293411b9ec"
+
+[[files]]
+file = "patched_shaders/023_terrain_solid.vsh"
+hash = "775913e5b8cb4781c9b61f1eda1cadca3a0577ee0957c2760b8ec7816e0874a8"
+
+[[files]]
+file = "patched_shaders/024_terrain_cutout.fsh"
+hash = "540f6b38aef98218725422e6ec0784aa0f773be30b22b0d310532379764cabe8"
+
+[[files]]
+file = "patched_shaders/024_terrain_cutout.json"
+hash = "1eeaa60233da207cb3de6a44f987b181c6423894c1bdf8e18546d9b1fb638f0a"
+
+[[files]]
+file = "patched_shaders/024_terrain_cutout.vsh"
+hash = "775913e5b8cb4781c9b61f1eda1cadca3a0577ee0957c2760b8ec7816e0874a8"
+
+[[files]]
+file = "patched_shaders/025_terrain_translucent.fsh"
+hash = "6a5390759b00a53c164545d17871fdaaf8b7c43bb2789baa4873a1b000c79c39"
+
+[[files]]
+file = "patched_shaders/025_terrain_translucent.json"
+hash = "26adafe515b346d2e64d8e4011c20d958ddeb13c8dc36e7db11fa1e1aee9dc4e"
+
+[[files]]
+file = "patched_shaders/025_terrain_translucent.vsh"
+hash = "14b9fd5f65cdaedf7cc13c724b1f605f6394abf0a1cf96f829942cb436205585"
+
+[[files]]
+file = "patched_shaders/026_moving_block.fsh"
+hash = "a494a2f146131585f81b03ea57c9ec6e57ca9db569dfa3efd25126e163b54c60"
+
+[[files]]
+file = "patched_shaders/026_moving_block.json"
+hash = "a6f9109adde74194723bfe63d2b481905a06ac82296c321c6859ac34d56ad000"
+
+[[files]]
+file = "patched_shaders/026_moving_block.vsh"
+hash = "b8c8b07ebd84de07d9c832f7b3198e0a858a76a24f8757ea3acf0dd211049524"
+
+[[files]]
+file = "patched_shaders/027_entities_alpha.fsh"
+hash = "45c04e08503cee407f5d9ad46dada9497159a358b04ba66b27469c460dc30d18"
+
+[[files]]
+file = "patched_shaders/027_entities_alpha.json"
+hash = "1194ef9aaf9520f9850d17e10483cb8a0c6404550c788b0079f81df2d228e497"
+
+[[files]]
+file = "patched_shaders/027_entities_alpha.vsh"
+hash = "8c2e59f6f061ece9cf6bfb83c0941a9a95bbd19b2a8a6d2629daa1d1f6be91ac"
+
+[[files]]
+file = "patched_shaders/028_entities_solid.fsh"
+hash = "423e3638b7840617ab8f91ee185ea5f8b659a6217fdb630edef5020c8e2742a7"
+
+[[files]]
+file = "patched_shaders/028_entities_solid.json"
+hash = "06841467d464454289708019bef9cce2231c6381bdc95309ceb401734cc7284d"
+
+[[files]]
+file = "patched_shaders/028_entities_solid.vsh"
+hash = "3c4be862a2c115a5e3c16f1ae70d2fdd2264171857075a99ec7fa8db6e84742e"
+
+[[files]]
+file = "patched_shaders/029_entities_solid_diffuse.fsh"
+hash = "423e3638b7840617ab8f91ee185ea5f8b659a6217fdb630edef5020c8e2742a7"
+
+[[files]]
+file = "patched_shaders/029_entities_solid_diffuse.json"
+hash = "d527c2a887c0d2987f25c55c20528cf808285487e132463fb95058cba716c088"
+
+[[files]]
+file = "patched_shaders/029_entities_solid_diffuse.vsh"
+hash = "3c4be862a2c115a5e3c16f1ae70d2fdd2264171857075a99ec7fa8db6e84742e"
+
+[[files]]
+file = "patched_shaders/030_entities_solid_bright.fsh"
+hash = "423e3638b7840617ab8f91ee185ea5f8b659a6217fdb630edef5020c8e2742a7"
+
+[[files]]
+file = "patched_shaders/030_entities_solid_bright.json"
+hash = "479a92e07c875b78d15682851314976e46a720e68aecb893bda16677dc371f9b"
+
+[[files]]
+file = "patched_shaders/030_entities_solid_bright.vsh"
+hash = "a2b12c8911b38eba1d5774f7a95440366d29675ac16c4a3c52c43a95578f130f"
+
+[[files]]
+file = "patched_shaders/031_entities_cutout.fsh"
+hash = "8d2e0f8770e107f8097e037dd4abb9f33f99a320d90428ec3f707baec3c9c03b"
+
+[[files]]
+file = "patched_shaders/031_entities_cutout.json"
+hash = "f40019fdb611807105fa88c1aae2a24e2f3da34aac4efbd9d98f3b7cff14a062"
+
+[[files]]
+file = "patched_shaders/031_entities_cutout.vsh"
+hash = "3c4be862a2c115a5e3c16f1ae70d2fdd2264171857075a99ec7fa8db6e84742e"
+
+[[files]]
+file = "patched_shaders/032_entities_cutout_diffuse.fsh"
+hash = "8d2e0f8770e107f8097e037dd4abb9f33f99a320d90428ec3f707baec3c9c03b"
+
+[[files]]
+file = "patched_shaders/032_entities_cutout_diffuse.json"
+hash = "545956ef9688ecea8f2e8c6b20aa7d39fc9fb174938a8e81c48084a1115c3839"
+
+[[files]]
+file = "patched_shaders/032_entities_cutout_diffuse.vsh"
+hash = "3c4be862a2c115a5e3c16f1ae70d2fdd2264171857075a99ec7fa8db6e84742e"
+
+[[files]]
+file = "patched_shaders/033_entities_translucent.fsh"
+hash = "09cbc7393db4595262b3dc19d0662d7435610896d7cbeaf080ae5b0831f0a0e2"
+
+[[files]]
+file = "patched_shaders/033_entities_translucent.json"
+hash = "771edc4369eb2e0e39ba68055cddb68d3df7cddeaa78b2f6998940d2f4775ae4"
+
+[[files]]
+file = "patched_shaders/033_entities_translucent.vsh"
+hash = "3c4be862a2c115a5e3c16f1ae70d2fdd2264171857075a99ec7fa8db6e84742e"
+
+[[files]]
+file = "patched_shaders/034_entities_eyes.fsh"
+hash = "3f96227c9468ff9ae079bc1f9a412d5e6d6e7eba46dd9cf71ed825933de5e749"
+
+[[files]]
+file = "patched_shaders/034_entities_eyes.json"
+hash = "c6096f2802f1d484a7bd24f8c9e23c7fd5574844830ec1f334d0d82037c8c6a6"
+
+[[files]]
+file = "patched_shaders/034_entities_eyes.vsh"
+hash = "7ac5a62bea1b4a3decde1da66e1bf50fdc18ac5d4488f25dcd326bc82cb2310c"
+
+[[files]]
+file = "patched_shaders/035_entities_eyes_trans.fsh"
+hash = "3f96227c9468ff9ae079bc1f9a412d5e6d6e7eba46dd9cf71ed825933de5e749"
+
+[[files]]
+file = "patched_shaders/035_entities_eyes_trans.json"
+hash = "6717989aca30b6ec3025529595fc70df39c6192d4b11a12cd6fca3be198804a9"
+
+[[files]]
+file = "patched_shaders/035_entities_eyes_trans.vsh"
+hash = "7ac5a62bea1b4a3decde1da66e1bf50fdc18ac5d4488f25dcd326bc82cb2310c"
+
+[[files]]
+file = "patched_shaders/036_hand_cutout.fsh"
+hash = "20fc0992e2df942c9859e0467ed74a137bbb7403c483133289e72d9f00dfcd31"
+
+[[files]]
+file = "patched_shaders/036_hand_cutout.json"
+hash = "ff537afd0a48055e0a30ec66a79f991f45e3aab9216aadb57eb64a5fa76944ad"
+
+[[files]]
+file = "patched_shaders/036_hand_cutout.vsh"
+hash = "1f5cb69aed5701584948239e5b2bc847e8dc90d249dc5cfc5a016adf864ab8ae"
+
+[[files]]
+file = "patched_shaders/037_hand_cutout_bright.fsh"
+hash = "20fc0992e2df942c9859e0467ed74a137bbb7403c483133289e72d9f00dfcd31"
+
+[[files]]
+file = "patched_shaders/037_hand_cutout_bright.json"
+hash = "784ba5e0ff15c78fd849d35f6bace2b2d99d7335274b799bfb5c0425fa6a362f"
+
+[[files]]
+file = "patched_shaders/037_hand_cutout_bright.vsh"
+hash = "28e42f2557e3b82edf6ff28f744501594b76d0a22fa4bab7c679ac118ca3a692"
+
+[[files]]
+file = "patched_shaders/038_hand_cutout_diffuse.fsh"
+hash = "20fc0992e2df942c9859e0467ed74a137bbb7403c483133289e72d9f00dfcd31"
+
+[[files]]
+file = "patched_shaders/038_hand_cutout_diffuse.json"
+hash = "b4fad49b03b1576a63f1f23e791dfe79f77794a1f615b8c2d8934718e157a159"
+
+[[files]]
+file = "patched_shaders/038_hand_cutout_diffuse.vsh"
+hash = "1f5cb69aed5701584948239e5b2bc847e8dc90d249dc5cfc5a016adf864ab8ae"
+
+[[files]]
+file = "patched_shaders/039_hand_text.fsh"
+hash = "04399a385f5606690cf9cc7fa5793be8f5c5455c3f6ea10a78a22d5b6e57f83a"
+
+[[files]]
+file = "patched_shaders/039_hand_text.json"
+hash = "940ccedb7c34620a3abb20bb767db7b77b29b7402023eb9064acc29d0f265872"
+
+[[files]]
+file = "patched_shaders/039_hand_text.vsh"
+hash = "5e88146c0122b7d496f63e078f9518838fd069a3a6cd8d11bbe2e2f6739ff0c5"
+
+[[files]]
+file = "patched_shaders/040_hand_text_intensity.fsh"
+hash = "04399a385f5606690cf9cc7fa5793be8f5c5455c3f6ea10a78a22d5b6e57f83a"
+
+[[files]]
+file = "patched_shaders/040_hand_text_intensity.json"
+hash = "f432e8209cf9cb60718c02610c14c416c179b5cc206a6de681d314544ff6f5f3"
+
+[[files]]
+file = "patched_shaders/040_hand_text_intensity.vsh"
+hash = "5e88146c0122b7d496f63e078f9518838fd069a3a6cd8d11bbe2e2f6739ff0c5"
+
+[[files]]
+file = "patched_shaders/041_hand_translucent.fsh"
+hash = "20fc0992e2df942c9859e0467ed74a137bbb7403c483133289e72d9f00dfcd31"
+
+[[files]]
+file = "patched_shaders/041_hand_translucent.json"
+hash = "921289a41231dda4ed0266e00f6dc8ba75933dc8c4db2ff240fcc6ec53c4c099"
+
+[[files]]
+file = "patched_shaders/041_hand_translucent.vsh"
+hash = "1f5cb69aed5701584948239e5b2bc847e8dc90d249dc5cfc5a016adf864ab8ae"
+
+[[files]]
+file = "patched_shaders/042_hand_water_bright.fsh"
+hash = "20fc0992e2df942c9859e0467ed74a137bbb7403c483133289e72d9f00dfcd31"
+
+[[files]]
+file = "patched_shaders/042_hand_water_bright.json"
+hash = "ff58cb329ab93e8f8f62aac41a942b158a19abd8aae39c2d67d427c8af369d08"
+
+[[files]]
+file = "patched_shaders/042_hand_water_bright.vsh"
+hash = "28e42f2557e3b82edf6ff28f744501594b76d0a22fa4bab7c679ac118ca3a692"
+
+[[files]]
+file = "patched_shaders/043_hand_water_diffuse.fsh"
+hash = "20fc0992e2df942c9859e0467ed74a137bbb7403c483133289e72d9f00dfcd31"
+
+[[files]]
+file = "patched_shaders/043_hand_water_diffuse.json"
+hash = "5458b0169457b4703bafd8eb8d8f5342257031826dd164ca5c084d638fcc3dc6"
+
+[[files]]
+file = "patched_shaders/043_hand_water_diffuse.vsh"
+hash = "1f5cb69aed5701584948239e5b2bc847e8dc90d249dc5cfc5a016adf864ab8ae"
+
+[[files]]
+file = "patched_shaders/044_lightning.fsh"
+hash = "932daed4edc02d22c2c95ba1888ce1821e9d12a30bf12b67aa62d4afc2f0af07"
+
+[[files]]
+file = "patched_shaders/044_lightning.json"
+hash = "e887b8fe73875d77b9e7e4d555c2cd7640ad279d10faed660b50e0740852ec4a"
+
+[[files]]
+file = "patched_shaders/044_lightning.vsh"
+hash = "af07e378389d597e5589525194f9da911f7cddd837393c3d5feedd1617b73144"
+
+[[files]]
+file = "patched_shaders/045_leash.fsh"
+hash = "2650023bf6d6520c5076792904e4cf031a13200b11ea983f4ed612c14d85528a"
+
+[[files]]
+file = "patched_shaders/045_leash.json"
+hash = "41da9ea61ddcee526884af0d1f876bd51dde0456c62e5fc46ee445b92e82da3e"
+
+[[files]]
+file = "patched_shaders/045_leash.vsh"
+hash = "f3ebce57c87cf1f2fec0c97bc0d3c1fabfea057de97de2971213ba1c2a246202"
+
+[[files]]
+file = "patched_shaders/046_text_bg.fsh"
+hash = "db0953b89c888d9bb4bb6ee46766b4c3148e7ce706b8ef6e1257d0fbb493c7d9"
+
+[[files]]
+file = "patched_shaders/046_text_bg.json"
+hash = "2182ba493519506716b00c995274ccf8d47e6292a8fe6b357d35a21cd04343f2"
+
+[[files]]
+file = "patched_shaders/046_text_bg.vsh"
+hash = "1eff535ab224f5963743241730f5cb8f7375683281da17b9f0506838c84366e1"
+
+[[files]]
+file = "patched_shaders/047_particles.fsh"
+hash = "c3f32c3812731924ca94d0bf3656c369cafaa7a5c1ee031f909dd09e965bf138"
+
+[[files]]
+file = "patched_shaders/047_particles.json"
+hash = "b3ce6f9e077f22f2b39a3b6e236489e464fdeafef8a3e9ceccd3f83b2def5234"
+
+[[files]]
+file = "patched_shaders/047_particles.vsh"
+hash = "658432ad159d6c64b39d8c77195a62ff7348a885f14798a93536e533b94ad55c"
+
+[[files]]
+file = "patched_shaders/048_particles_trans.fsh"
+hash = "c3f32c3812731924ca94d0bf3656c369cafaa7a5c1ee031f909dd09e965bf138"
+
+[[files]]
+file = "patched_shaders/048_particles_trans.json"
+hash = "f3bb020f4234fcc6293b5c923741fc04f6cd4a961643ff8eca7e3cafa09d2089"
+
+[[files]]
+file = "patched_shaders/048_particles_trans.vsh"
+hash = "658432ad159d6c64b39d8c77195a62ff7348a885f14798a93536e533b94ad55c"
+
+[[files]]
+file = "patched_shaders/049_weather.fsh"
+hash = "c8b5c61a3d818bf07593ee4433118b2df435208243d4325db75620c7646c517a"
+
+[[files]]
+file = "patched_shaders/049_weather.json"
+hash = "176a13a2beed138b645239f3819e477d65ae9641e4a09165a2b338d535611810"
+
+[[files]]
+file = "patched_shaders/049_weather.vsh"
+hash = "b6ebff68a6bc6bb29edaa6d25526e284ca409033b1c59e52ff0d73543271bc11"
+
+[[files]]
+file = "patched_shaders/050_crumbling.fsh"
+hash = "8045b30d68f392834600a99a139f0e55c9ee1e424882a8764ce664edb658b3d8"
+
+[[files]]
+file = "patched_shaders/050_crumbling.json"
+hash = "fb6376ef53befb362438d64313a079804ca27d193a42da147764203e27c82fff"
+
+[[files]]
+file = "patched_shaders/050_crumbling.vsh"
+hash = "4fe198311bb6757d99128df682bc62cc5f3483a090813436c76ca1bcd22cb00f"
+
+[[files]]
+file = "patched_shaders/051_text.fsh"
+hash = "db0953b89c888d9bb4bb6ee46766b4c3148e7ce706b8ef6e1257d0fbb493c7d9"
+
+[[files]]
+file = "patched_shaders/051_text.json"
+hash = "3d79ece6df1b4a348319b0698a35bf397213b886124d64bf8ee5cab47f5ef14e"
+
+[[files]]
+file = "patched_shaders/051_text.vsh"
+hash = "414051b3a98bfb6b91e4b4481446499e3d05efe404f1378b6ad7236e297cb0c3"
+
+[[files]]
+file = "patched_shaders/052_text_intensity.fsh"
+hash = "db0953b89c888d9bb4bb6ee46766b4c3148e7ce706b8ef6e1257d0fbb493c7d9"
+
+[[files]]
+file = "patched_shaders/052_text_intensity.json"
+hash = "4628b4e64da7379264168c0d0ce62e067f0433d13c5096d0a1184c21d0b0bd68"
+
+[[files]]
+file = "patched_shaders/052_text_intensity.vsh"
+hash = "414051b3a98bfb6b91e4b4481446499e3d05efe404f1378b6ad7236e297cb0c3"
+
+[[files]]
+file = "patched_shaders/053_text_be.fsh"
+hash = "dec819757bae20ddb533568bbf2ccc5c2716a4d1cd97cea6d60e86916afe1de9"
+
+[[files]]
+file = "patched_shaders/053_text_be.json"
+hash = "50209c5536d8574891484a10fbbf575681e3015b42cb4db953a2766ca0fa1531"
+
+[[files]]
+file = "patched_shaders/053_text_be.vsh"
+hash = "9d627ed4786042eae9edae7deed078c2d009bb389dd4aba297ac8d718bff483a"
+
+[[files]]
+file = "patched_shaders/054_text_intensity_be.fsh"
+hash = "dec819757bae20ddb533568bbf2ccc5c2716a4d1cd97cea6d60e86916afe1de9"
+
+[[files]]
+file = "patched_shaders/054_text_intensity_be.json"
+hash = "ca82dee8b3017a7d84d4e8b738239f54e4d7a4cb7de374775a96464b08bcd0d0"
+
+[[files]]
+file = "patched_shaders/054_text_intensity_be.vsh"
+hash = "9d627ed4786042eae9edae7deed078c2d009bb389dd4aba297ac8d718bff483a"
+
+[[files]]
+file = "patched_shaders/055_block_entity.fsh"
+hash = "353ff7db64139d0d8f12e7acbaaf1bcb06a2de2ad6ca3287d021d5c7e5aa5de6"
+
+[[files]]
+file = "patched_shaders/055_block_entity.json"
+hash = "b38f1c81da2aed9e70588fdba2ccd34ee497c1aa50273e97f1c09c578c607cfc"
+
+[[files]]
+file = "patched_shaders/055_block_entity.vsh"
+hash = "1a021e54852bab0a9c1f9438689da8e20e3906d982cf8660445b277185c760e3"
+
+[[files]]
+file = "patched_shaders/056_block_entity_bright.fsh"
+hash = "353ff7db64139d0d8f12e7acbaaf1bcb06a2de2ad6ca3287d021d5c7e5aa5de6"
+
+[[files]]
+file = "patched_shaders/056_block_entity_bright.json"
+hash = "6d47238f5d143d280b9d52dc585291a0b8599d8948399a39fe636de0f2528ce4"
+
+[[files]]
+file = "patched_shaders/056_block_entity_bright.vsh"
+hash = "626e9ae25138269cba98cf7115617ba071ff4eb9c5fde54745815d373a09930b"
+
+[[files]]
+file = "patched_shaders/057_block_entity_diffuse.fsh"
+hash = "353ff7db64139d0d8f12e7acbaaf1bcb06a2de2ad6ca3287d021d5c7e5aa5de6"
+
+[[files]]
+file = "patched_shaders/057_block_entity_diffuse.json"
+hash = "4489a0135d90148844773b2feb7edb14997fbd0a251294922d2cacc309ac5713"
+
+[[files]]
+file = "patched_shaders/057_block_entity_diffuse.vsh"
+hash = "1a021e54852bab0a9c1f9438689da8e20e3906d982cf8660445b277185c760e3"
+
+[[files]]
+file = "patched_shaders/058_be_translucent.fsh"
+hash = "353ff7db64139d0d8f12e7acbaaf1bcb06a2de2ad6ca3287d021d5c7e5aa5de6"
+
+[[files]]
+file = "patched_shaders/058_be_translucent.json"
+hash = "1947add84e3e23b309258a60c3e57a28ba1a6d04fd5745ae84176a1968a8b2ee"
+
+[[files]]
+file = "patched_shaders/058_be_translucent.vsh"
+hash = "1a021e54852bab0a9c1f9438689da8e20e3906d982cf8660445b277185c760e3"
+
+[[files]]
+file = "patched_shaders/059_beacon.fsh"
+hash = "71d5a76eb263042ab2809ade42746cff64fed7d04cb2d597465d3e8624c119eb"
+
+[[files]]
+file = "patched_shaders/059_beacon.json"
+hash = "e245dfaa1d8ae026192ab8c58af1ee618521724328c995cbdeb186a6d92d52a1"
+
+[[files]]
+file = "patched_shaders/059_beacon.vsh"
+hash = "e4fd14a8886376a78102e81f159e2622c2080feb6c8e83e829388c0e7597e460"
+
+[[files]]
+file = "patched_shaders/060_glint.fsh"
+hash = "25d8d81541683e9afa50a81216bb357c8eecb3086dd5ba95849319b60d6627a6"
+
+[[files]]
+file = "patched_shaders/060_glint.json"
+hash = "c6234748474e401a7c53952297e1f29e03735fbb85a5a29b90e4bcec395cc571"
+
+[[files]]
+file = "patched_shaders/060_glint.vsh"
+hash = "b4ac0cce79d791abb0990ae150a9dd3c398bced4c71c28cd18cc59de358402bf"
+
+[[files]]
+file = "patched_shaders/061_lines.fsh"
+hash = "2650023bf6d6520c5076792904e4cf031a13200b11ea983f4ed612c14d85528a"
+
+[[files]]
+file = "patched_shaders/061_lines.json"
+hash = "2c3fb17b4559c643b89ef1aa311e4031e4ebf5027dbf0913bab177f6979b875e"
+
+[[files]]
+file = "patched_shaders/061_lines.vsh"
+hash = "271985cf12197bedb52f6c39b3ea110a7100e71b90f3eefd43687c1f4a7a0dd6"
+
+[[files]]
+file = "patched_shaders/062_mekanism_flame.fsh"
+hash = "027b3cc979e9ccce396e78d890fdfcce2e01414b58eb2be6a3d784fbd6e3a5f3"
+
+[[files]]
+file = "patched_shaders/062_mekanism_flame.json"
+hash = "4f296cc893fee37bc74e95422d93b027c79e0e5e51925ebdf090b4bfe2b05eed"
+
+[[files]]
+file = "patched_shaders/062_mekanism_flame.vsh"
+hash = "91069aa07bdcf067299ef22ee77090e9b1a870a14c7999bbebd9a27ae4c857a2"
+
+[[files]]
+file = "patched_shaders/063_shadow_terrain_cutout.fsh"
+hash = "cd27d523efd0bb6685fbfab379b2e189ea11bfaf57a91daf051787482ebe55ec"
+
+[[files]]
+file = "patched_shaders/063_shadow_terrain_cutout.json"
+hash = "3da19fbb8a2549d5766c84c8125659c478373dd905ff6a99fd56a2787abffaa6"
+
+[[files]]
+file = "patched_shaders/063_shadow_terrain_cutout.vsh"
+hash = "93619377be6abc105d3f297cc72696f7c29b75efdb01a5bfe299e032143c1bc0"
+
+[[files]]
+file = "patched_shaders/064_shadow_entities_cutout.fsh"
+hash = "cb4c5d6ac942bf1ec8f5889118e2fab182b58e1f6d08c59e6e20b8c19460aaa4"
+
+[[files]]
+file = "patched_shaders/064_shadow_entities_cutout.json"
+hash = "c054b51b525d172b5fcfcb8586b729faeb14af799cec2976ce35015d9db1f077"
+
+[[files]]
+file = "patched_shaders/064_shadow_entities_cutout.vsh"
+hash = "b355888598f11e08cacdb1a8ad1954316d3694ab6bbc8ad5408a8cb7a89ba2c5"
+
+[[files]]
+file = "patched_shaders/065_shadow_beacon_beam.fsh"
+hash = "d2f524074e01622b0f63bf43445e7d494cb48dcb7a374e756d0dac73c965dcb0"
+
+[[files]]
+file = "patched_shaders/065_shadow_beacon_beam.json"
+hash = "59689c0131c6940faa1b3fc967b727ed6e5b376f00e5573183f00da5c7369a0b"
+
+[[files]]
+file = "patched_shaders/065_shadow_beacon_beam.vsh"
+hash = "abcd721e0c0af3f202f8cc2b1dd7b8fc37516e7c0efc22bf2bc844cb1ed742e9"
+
+[[files]]
+file = "patched_shaders/066_shadow_basic.fsh"
+hash = "d2f524074e01622b0f63bf43445e7d494cb48dcb7a374e756d0dac73c965dcb0"
+
+[[files]]
+file = "patched_shaders/066_shadow_basic.json"
+hash = "e2f114ec9edfb09829d794e17400a5d09ae18a705dcec296cac5500c9e4ef651"
+
+[[files]]
+file = "patched_shaders/066_shadow_basic.vsh"
+hash = "5611ed8928fde9010cea990ad1b72f30c98a93cea438a806305558e2bc88463f"
+
+[[files]]
+file = "patched_shaders/067_shadow_basic_color.fsh"
+hash = "cd27d523efd0bb6685fbfab379b2e189ea11bfaf57a91daf051787482ebe55ec"
+
+[[files]]
+file = "patched_shaders/067_shadow_basic_color.json"
+hash = "3c7ff4bdfd7638c53e6e7bad8fec9cf47b809698bec939860fb561669a06fd7f"
+
+[[files]]
+file = "patched_shaders/067_shadow_basic_color.vsh"
+hash = "6fc03b23d3ba9545979104eb4a90ef7b11d96f9022adf486dee7afa41a3ae2a1"
+
+[[files]]
+file = "patched_shaders/068_shadow_tex.fsh"
+hash = "cd27d523efd0bb6685fbfab379b2e189ea11bfaf57a91daf051787482ebe55ec"
+
+[[files]]
+file = "patched_shaders/068_shadow_tex.json"
+hash = "69a530eae8acea4e1730f2ede124d8d30e3f7512dc5b31e21972042e9ea35400"
+
+[[files]]
+file = "patched_shaders/068_shadow_tex.vsh"
+hash = "42a9ff322ea65a15804aa88e4f1cac1e46df4b60d0d697cd34a295ac4a4d183d"
+
+[[files]]
+file = "patched_shaders/069_shadow_tex_color.fsh"
+hash = "cd27d523efd0bb6685fbfab379b2e189ea11bfaf57a91daf051787482ebe55ec"
+
+[[files]]
+file = "patched_shaders/069_shadow_tex_color.json"
+hash = "d711f5b73d7b258c17a684c0e3258e0640b35a8adee210751ebe9056612c5f77"
+
+[[files]]
+file = "patched_shaders/069_shadow_tex_color.vsh"
+hash = "86919d9ecc7ef6a3b99e7239b93fde224fe051adf82396bbcce0e1dcd3b284a9"
+
+[[files]]
+file = "patched_shaders/070_shadow_clouds.fsh"
+hash = "cd27d523efd0bb6685fbfab379b2e189ea11bfaf57a91daf051787482ebe55ec"
+
+[[files]]
+file = "patched_shaders/070_shadow_clouds.json"
+hash = "2d69db23498d2b43b441c16995a1c50726f9dbfae7d09536b7d3219b475f5f6c"
+
+[[files]]
+file = "patched_shaders/070_shadow_clouds.vsh"
+hash = "abcd721e0c0af3f202f8cc2b1dd7b8fc37516e7c0efc22bf2bc844cb1ed742e9"
+
+[[files]]
+file = "patched_shaders/071_shadow_lines.fsh"
+hash = "d2f524074e01622b0f63bf43445e7d494cb48dcb7a374e756d0dac73c965dcb0"
+
+[[files]]
+file = "patched_shaders/071_shadow_lines.json"
+hash = "d36eb2500de5dc6d68a705e876465c06d3a30b670f91e55cb74f3d07c560fed8"
+
+[[files]]
+file = "patched_shaders/071_shadow_lines.vsh"
+hash = "9f3e019712fd10030219e67f903945f26acafdea7ad6980d457929ccf63cb785"
+
+[[files]]
+file = "patched_shaders/072_shadow_leash.fsh"
+hash = "d2f524074e01622b0f63bf43445e7d494cb48dcb7a374e756d0dac73c965dcb0"
+
+[[files]]
+file = "patched_shaders/072_shadow_leash.json"
+hash = "5cd92a249d40d40bb090d0a898d629cb69972afdc8dd464101df8ca4e0dc294d"
+
+[[files]]
+file = "patched_shaders/072_shadow_leash.vsh"
+hash = "6031e6e0955fd7f0ce21497c73e0b31143122e491755d17f9c5c7b8f76389dd1"
+
+[[files]]
+file = "patched_shaders/073_shadow_lightning.fsh"
+hash = "d2f524074e01622b0f63bf43445e7d494cb48dcb7a374e756d0dac73c965dcb0"
+
+[[files]]
+file = "patched_shaders/073_shadow_lightning.json"
+hash = "96869431ea5cccabf4b5772e6abaab72ec7df9eee257b61b9b35bae67ae0362a"
+
+[[files]]
+file = "patched_shaders/073_shadow_lightning.vsh"
+hash = "6fc03b23d3ba9545979104eb4a90ef7b11d96f9022adf486dee7afa41a3ae2a1"
+
+[[files]]
+file = "patched_shaders/074_shadow_particles.fsh"
+hash = "cd27d523efd0bb6685fbfab379b2e189ea11bfaf57a91daf051787482ebe55ec"
+
+[[files]]
+file = "patched_shaders/074_shadow_particles.json"
+hash = "d13cf70c888c4fa8f575bff1c132324622af0762c367f69e5629173bb0685ebc"
+
+[[files]]
+file = "patched_shaders/074_shadow_particles.vsh"
+hash = "7d438fb48b4f2ec3c818af187088284b1c322e61951340268e4cd369d39756b8"
+
+[[files]]
+file = "patched_shaders/075_shadow_text.fsh"
+hash = "501b807209f39bcffc51ae8e2fa9e5d6992d23099b72a932a3fcfd4394cdfb29"
+
+[[files]]
+file = "patched_shaders/075_shadow_text.json"
+hash = "a39dfc2626964abfa99049e4b144ab629195b734fd7288ba59c28158a7d09c0a"
+
+[[files]]
+file = "patched_shaders/075_shadow_text.vsh"
+hash = "a3342a76145ee316db28887d1425f65115656defd2b58614ab26a4548663e120"
+
+[[files]]
+file = "patched_shaders/076_shadow_text_bg.fsh"
+hash = "501b807209f39bcffc51ae8e2fa9e5d6992d23099b72a932a3fcfd4394cdfb29"
+
+[[files]]
+file = "patched_shaders/076_shadow_text_bg.json"
+hash = "ba8377ab3e97eb708fae0b901a1491747c14467904c260bb6c8ccbdb628ee8cd"
+
+[[files]]
+file = "patched_shaders/076_shadow_text_bg.vsh"
+hash = "ada4df481452824177115c77ce757708c1b007da30e2fbca7abaedd60c919e4f"
+
+[[files]]
+file = "patched_shaders/077_shadow_text_intensity.fsh"
+hash = "501b807209f39bcffc51ae8e2fa9e5d6992d23099b72a932a3fcfd4394cdfb29"
+
+[[files]]
+file = "patched_shaders/077_shadow_text_intensity.json"
+hash = "4c34061aedaa45e66810cf11751b55f0fe6b94053d588795be62061d5e010dad"
+
+[[files]]
+file = "patched_shaders/077_shadow_text_intensity.vsh"
+hash = "a3342a76145ee316db28887d1425f65115656defd2b58614ab26a4548663e120"
+
+[[files]]
+file = "patched_shaders/078_mekanism_flame_shadow.fsh"
+hash = "cd27d523efd0bb6685fbfab379b2e189ea11bfaf57a91daf051787482ebe55ec"
+
+[[files]]
+file = "patched_shaders/078_mekanism_flame_shadow.json"
+hash = "48ceda48133c11f9dc1b068f1174d38c5fa230b810267b9b15ab8dfef332dfc6"
+
+[[files]]
+file = "patched_shaders/078_mekanism_flame_shadow.vsh"
+hash = "86919d9ecc7ef6a3b99e7239b93fde224fe051adf82396bbcce0e1dcd3b284a9"
+
+[[files]]
+file = "patched_shaders/079_gbuffers_terrain_sodium_solid.fsh"
+hash = "783dcb804e7994369eb0e26c2d408c5b9f8c9866d8b6359239d8b42169ee8227"
+
+[[files]]
+file = "patched_shaders/079_gbuffers_terrain_sodium_solid.vsh"
+hash = "b7ffea64e5f2f6ce6a4d75fe2e90c26617cbf61a0dbd210355a426520a9d05d1"
+
+[[files]]
+file = "patched_shaders/080_gbuffers_terrain_sodium_cutout.fsh"
+hash = "b4970021628c2ae674fb6bee75ad387778b425ffe32ba1ba2a7725e9b6f376f9"
+
+[[files]]
+file = "patched_shaders/080_gbuffers_terrain_sodium_cutout.vsh"
+hash = "b7ffea64e5f2f6ce6a4d75fe2e90c26617cbf61a0dbd210355a426520a9d05d1"
+
+[[files]]
+file = "patched_shaders/081_gbuffers_water_sodium.fsh"
+hash = "9d9251df0fcaf588799a2e1b832572c9033eabe79f6c8f956a82832826f035de"
+
+[[files]]
+file = "patched_shaders/081_gbuffers_water_sodium.vsh"
+hash = "35a5d29c4e74603011e0b1abf0f2c940b60e311070b9459657f40ad225bd0d63"
+
+[[files]]
+file = "patched_shaders/082_shadow_sodium.fsh"
+hash = "a2b27ec77e564908630791fd57cfd59b0685e15df97910d2b7a9d5d72113c815"
+
+[[files]]
+file = "patched_shaders/082_shadow_sodium.vsh"
+hash = "fad2299b9ecb5cfc635544eec0c8576560bffcde73473982e51749ee0a1edf08"
+
+[[files]]
+file = "patched_shaders/082_shadow_sodium_cutout.fsh"
+hash = "c5c081939ddae22d50a3dbab4f054ae7b253bf80852b1ffece6e9f48e800f556"
+
+[[files]]
+file = "patched_shaders/block.properties"
+hash = "686dac45384dd88af27307a2cedb2d881caa935e4e9268484d715f96a98d4d61"
+
+[[files]]
+file = "patched_shaders/entity.properties"
+hash = "510eb75307e5d5b56b0fce79c6377c5af683c538ddccc6caf0c11ec07b033e2c"
+
+[[files]]
+file = "patched_shaders/item.properties"
+hash = "576582559a9202e4dc92fd594bb067cd6757b79ef215d74c81ceaf9c53be1243"
+
+[[files]]
+file = "resourcepacks/Quark Programmer Art.zip"
+hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
+
+[[files]]
+file = "xaero/minimap/Multiplayer_asahi-sirius.local/config.txt"
+hash = "90e138a5fa4c57464385a337846681b21419c3ecc5784dcfab6ac05a5ebb87e0"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/dimension_config.txt"
+hash = "772411a1df628d8a9eeecc45e134e1db8c4e3ccb801e69ccfe4e5e0f73b37b49"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-1_-1.zip"
+hash = "7597bc427d5f7bc47a9ef3dade73756f07ff67afbb8fe1a2e22235067b540738"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-1_-2.zip"
+hash = "96c28f365e590e36b0f6781d6cf3629d64699c2d8a85456cfc8a4c40eb5cc1fc"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-1_-3.zip"
+hash = "feed6f57f08bf4183dbe96c1230506f8d5cd0be5efaecf23cd1f617906b99db7"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-1_-4.zip"
+hash = "88d9fdcda235e9028ce149c21ee3093896b50bf79ca866ca0fbc5f424ea9da18"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-1_-5.zip"
+hash = "cd7236a409f44c60d22ea81e22187b0604636cfcdb5f395a2bdbe18b272319f5"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-1_0.zip"
+hash = "8cd3d950cad6b457ed01b22c81376e0989333cc7e4915a5d4d980b2a5d6126be"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-1_4.zip"
+hash = "ae8ce9a763af14d3a1deb201b8647a329ef4a99f40a01bae72fd8cc83494d080"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-1_5.zip"
+hash = "7a20b1aca5f7ff9469129daf294165e6716eaffea2f5ff120cb62b715e8d52ec"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-1_7.zip"
+hash = "729ce5b0ba78e1afa490c77a95c9eaa5b63622390681a4fb31ae406e7b10c661"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-1_8.zip"
+hash = "99298ccf3ac7dc939327cbc8b01f6d224c3e246a43e600fc6a0a771b7f8cad49"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-1_9.zip"
+hash = "545e3c8dec2f3218ec70aac8ddd44e130cae36fff5caddd8e97a0cd262382f1f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-2_-1.zip"
+hash = "78cf958b44d0e0eb682f266f43eda3856af0db642026cd6c7c45d8cad5729d13"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-2_-2.zip"
+hash = "0aba69251f85ef2c6e6a6f26ec73c6bf058ad8590c2d98fb3f05eba1ee8167d9"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-2_-3.zip"
+hash = "23660b8d1fc9b057311a22171ec22eb199d40fffbd2b44a0134eeec55ac1aabd"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-2_4.zip"
+hash = "a0c3a01dd64ad3b6d3b3d6f49bc3d334c1c4d3a4971c0b8c64351242f70f4613"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-2_5.zip"
+hash = "5eb42c1958f070d984dd792e526a396043ac74bc87fa0de0e656ca420b2ea26a"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-2_6.zip"
+hash = "67d53a078180f7af9cf1b0fe2fe5049708efe5f9398d90692a5ca70c8d5ef290"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-2_7.zip"
+hash = "917de4065fd8e64655a3491734e55ed11ebf37e4564299380445806cdf938a85"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-2_8.zip"
+hash = "83168d225e6351a146e58370cbb2d08814c6965c5920553dac70df4fbba7163b"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-3_3.zip"
+hash = "0a54cdca91318390c188d5ecda0b5c61ea6f40ea9fc47e278e071a7b13438c73"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-3_5.zip"
+hash = "c2acf912321555d98fe132472e2ebb22cfa32c7c34ca08bbdf363e9d89549ab2"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-3_6.zip"
+hash = "e8f089abbbaa4032f81718fa896785a3022ad83fbdf6d1291fb5317db431fb93"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-3_7.zip"
+hash = "db1384ba835d2f3fe3fde2956935db6e876e14c3213b71ba04874bf19f680e54"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-3_9.zip"
+hash = "19590037bcd6450bd134c459608e5d57933679f6fe61a804c63beda5fdb1ab95"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-4_6.zip"
+hash = "10cc674f37d7e37b182de94e5a2d02fee626541207497945a7e5a31de957b0bf"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-4_7.zip"
+hash = "64a053ab0fb1790211efd3da116c1f4effbca0543fffb946ab3ae2c94017c9b7"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-4_8.zip"
+hash = "63925164c26911f87ad4514f95fcf22e0938205105599bdeae61bc95079c1339"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-4_9.zip"
+hash = "35dbbcc8365392a1c753af05a4bfd035e1d82f9c692c47011a3af5e24557a203"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55940_24003.zip"
+hash = "5ca826eb7c4d302ea818006e2a3ca0f2ce157af781e79e658dd00ac0d1485b7f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55940_24004.zip"
+hash = "97524fb1d764bacdd088eda5c501d91b8c29c286a8f52be27bb1aef58fbb80b5"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55941_24003.zip"
+hash = "0c2426b77221152b37899e0b5a85e8ced822fb2ed091a3776b7edb9ca0dda4a4"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55941_24004.zip"
+hash = "2a335691b5c0b1d0ad6d2e85f6a629c9ad997435bac4413ad897ae70bef32db3"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55948_24003.zip"
+hash = "b7cc1e0cbb50b158074ff585482515749bf077968af3ab247e965546886abb49"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55948_24004.zip"
+hash = "0c2a60ab404c2ce088428c450a6f268421aff61c931be0e96a2cce56d8ec0e3f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55949_24003.zip"
+hash = "03dbddaa4d2394282a3ba18fbce218d2bf1fb40f4aa41a785c5024c881fd8895"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55949_24004.zip"
+hash = "f6aa96e8c8be7b2180eb68634de218979e54195ae90a8b29156747e0d51585b0"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55956_24003.zip"
+hash = "db8f1c2e5112157f96417c90758af300be5bbe9324a3b9e58eee7db75846f60f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55956_24004.zip"
+hash = "e72c69ab7e2df2f62933c4a8f4dfb56f1289904f5e621ce677ade6eadd2e96b0"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55957_24003.zip"
+hash = "f75fa9a93f3cf04656c31aab438d4101c829c077834e62d16418b67aa9d41b84"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55957_24004.zip"
+hash = "cf81ba69f59e386c9b4ed85c5309149a7ab6eff4fa9a88ee88b3e962a18e4d1f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55964_24003.zip"
+hash = "2f30b1968e7fbe76133a3e2a75f49cf7e38550208d9200fdd73aa9ac55300bed"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55964_24004.zip"
+hash = "46b7e45707c971f54e1daabcd027cf2b7e0214d6a9af145acc4b93762bf151ab"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55965_24003.zip"
+hash = "0c2426b77221152b37899e0b5a85e8ced822fb2ed091a3776b7edb9ca0dda4a4"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55965_24004.zip"
+hash = "b340cf43d2a7e3ff19dccab89b77edef4352f229f0c996d380b4388878d87777"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55972_24003.zip"
+hash = "876846e5301fa9442e7d6d08946b96f7118a29ef3988fc1d8be6f1882be99fec"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55972_24004.zip"
+hash = "9ecab8d3123cf7a12cca46157c56846812ffd9849d34033a650487daa89d0e96"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55973_24003.zip"
+hash = "e73e36787fa5b54fa9644fd7e9b4b67ffa36b878a39c0e4d813605292340db14"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55973_24004.zip"
+hash = "f0bfb7ecbdcc199ccb4fdf21f1c48ffab79406059cb9059f636628f9c459a07e"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55980_24003.zip"
+hash = "23e39ce2c8dd74d13d92d35f89ee929e6f112753fd62e033c7264219019e8334"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55980_24004.zip"
+hash = "f64aac6fdd68af39c45e9b3b6cb1cd12507630877ec19956ba842c452cce26c4"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55981_24003.zip"
+hash = "93ce04e14ee8b5a0bfc86cf9305a08b3a9959166cbab9d47319c2906c9ce53b4"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55981_24004.zip"
+hash = "83ef055191f7ad76cf64eccd01e46c8268b93f010d41c51e0a0df957b8fdb84e"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55988_24003.zip"
+hash = "014f20ad226e250e5d6a0049d8630a5c7e7b4708bc826d5f824756ca4ce73116"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55988_24004.zip"
+hash = "fcfa22788b0a9e228eb87cde41e95aad756b75e126b9396bfc71f4b8135b82b6"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55989_24003.zip"
+hash = "09dcfcc960f4090b67ccb5083dfa61391d41ecb9724510a881cf4dbf2d7d869f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55989_24004.zip"
+hash = "197ba41302ac9f2813c7b185b814ff17946ced9f520c38c022b1ee64e57de539"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55996_24003.zip"
+hash = "f667cd49883c35f16c7164b2a846e9ee3279b6d9bfff486f668cad2f246e7979"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55996_24004.zip"
+hash = "eb7c15e06e7ec5647c66354ae067d13c62f479dfcd15d64990806f71e45c1be2"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55997_24003.zip"
+hash = "8ebcf5118a9a54cf6d67dcedd80034f7bab533354e429c36677374e0cf64ce88"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/-55997_24004.zip"
+hash = "f0bfb7ecbdcc199ccb4fdf21f1c48ffab79406059cb9059f636628f9c459a07e"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/0_-1.zip"
+hash = "3c41e998aaec23cbec933261e564bc0dfdaf49ff8fadc163cd52f935251f2b60"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/0_-2.zip"
+hash = "f542fbec2ab67ee303b5cc7c4fc0dbf0facfb33d2bea16726fc18431f98a9bdc"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/0_-3.zip"
+hash = "ad342910829975c532a286b3c5a5515a61fafc79110c6184001fe17d0df4b8df"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/0_-4.zip"
+hash = "20733fdcb623c6d66b09e1d423f859efb78c1cab9b253e4844aefffe6ec66cb6"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/0_-5.zip"
+hash = "6eb6b7606f0a0f6c384f720984a9a32a5ba7bb19a1ec14a1b3000692e1a51de8"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/0_0.zip"
+hash = "06eed885dce76e9508ba70a0b1ea4956d0e8f8cb4888645a5836c7441d87b733"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/0_1.zip"
+hash = "93a82261e05fef82cad14bf219a69256a75abf0e0826b8babc2493f6d1f4f994"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/0_10.zip"
+hash = "e25ba72bdd15fe6f72996aa8dbe776b13fd451b286b920c588dcece9e695f2b6"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/0_11.zip"
+hash = "01267e6c6f61fe0b2e19ba6537413f8b59a617a85021afa2f3d6f1974efc6e8c"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/0_12.zip"
+hash = "9f56b228e5338ad0ee290c4e1d1839cc1084ad90fd6eb43194a54696a98b9572"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/0_2.zip"
+hash = "1a749c3ad9f40d69a389dd15bd731e1bf58f979862382c7656ddc5aa873f2d88"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/0_3.zip"
+hash = "4bcf5ef0a6516a90344c57b2708251e771f4cd01cecb8fc2968858888fc56a92"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/0_4.zip"
+hash = "720482ae4d7fa446491266c6d4d6894787c49f634c978f2bba54754bf2f8dda0"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/0_5.zip"
+hash = "a0a2349df50136937d86dfd00987cf2a342e95f1eebddd23a84b4e4fd620d8ec"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/0_6.zip"
+hash = "b63bcf99ba9558e8175f41f885cf6f794ce06a1556fc4682f05917360385943b"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/0_7.zip"
+hash = "f81b54d828281424abcfcdec468171fe529c64818c20aa8afa42f873b4623af0"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/0_8.zip"
+hash = "46ad97e774c3e5883807e5995c911ed3f61dbc43e776e8a3c101abd1cbd70128"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/0_9.zip"
+hash = "1f30d490587c1ad9575f214467e1470190e0f077076fec9be2e3f232e0ed2e15"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/10_-11.zip"
+hash = "a133f629a37fee8026913f12654fcd83547fc99ff048c4e8ccb9b081bc40a83a"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/10_29.zip"
+hash = "57c9db9ef1456f859282125a093aefe0a0bfa1fcf8969ac1ec83a39d17caa433"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/10_30.zip"
+hash = "3ecdf90a1e2df398e08ed6d605f658837bf92e043ac18a7bdd4d4c97e9e80115"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/10_6.zip"
+hash = "e2b89b7aa2f981b8369d6ca12f18c654d058d1bbfe7b9687cd2aab00a2e61953"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/10_7.zip"
+hash = "9d6876de8df7aa69da45b9c89718a46407a171d9f738117c14634f2d4be266b2"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/10_8.zip"
+hash = "d5081a3f88776babb47d27a30df32e11df59e53b515051ca7632e24d7a1b6860"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/10_9.zip"
+hash = "e6ebfece1fab57f17332d096b7217336afac2890536f0c80dfb37df34ba696f0"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/11_10.zip"
+hash = "2c5cc8937a40c7fc5bfbbcf143ed7f0abbf584e41c1a449b74435b4da0619c5e"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/11_11.zip"
+hash = "3290765118156305b7045bc581ab01ede388c96791fb5b51c6cb412a1188bd9e"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/11_12.zip"
+hash = "ba65b2243e2e22521d6b87b2ce7380abe0cba488dcb524688c13a8364edde69b"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/11_13.zip"
+hash = "373bd1d2e0e6855333eecb2acdb36450b1fde5d23aecbd9918b4f069f9b46d56"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/11_14.zip"
+hash = "b285575fa3dee3263312a6175dd6e1bb614d28b7f241c7888b5b5dabe8e0765d"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/11_15.zip"
+hash = "cbd4fbf8410cc4c4119979d67003925b4c0cf39da1c7bb701aa57ad3a77c1be7"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/11_16.zip"
+hash = "07cdfa792bd5b720a7c0289b1e4d55570b166ba374f9fd538083b45f150a5a79"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/11_17.zip"
+hash = "d551aaaa81edb719c7c167bd9aa77a9749a3097be82585397d516e1d843597ad"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/11_18.zip"
+hash = "42355f761facdb4833d71ab1fc5bcb4f857389a780bf2db992cfa6299a64cc5b"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/11_19.zip"
+hash = "b4521ecc7980bce3a7dd85cd599005b1a1ebba35011bc3094a2b84a3a8be93bf"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/11_20.zip"
+hash = "90f3a84ceeee0bbac07f0e4f2d0e8b0b93cfb57b60b2ef19293fe62b9c45ed5c"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/11_21.zip"
+hash = "5ad37709ad22be6e2b76179302e6a7894e7579b23a509c091be038edbf50198a"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/11_22.zip"
+hash = "87151fd57e85f5e303bdf1ad12ede42fd53bbadce908ac4f2641994329daad76"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/11_23.zip"
+hash = "090e0f9bcd4290152417f7b2fb0a654eb466a7ab708cb0ce7b74cab65a875f22"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/11_24.zip"
+hash = "5b5deda462f5bf93d03a51d7a4b19b87cfa67ddc845484311ce85fc7d54cdf0c"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/11_25.zip"
+hash = "fbb1dd0e9c1dcce1d658280cafd63235f647dbb0b1a5bc5f7f112dedbf1304d3"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/11_26.zip"
+hash = "2f13d022c5e3fa942c1e0ad5b02bc704b24ae93537f6af20c9cb07cc15f26882"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/11_27.zip"
+hash = "23d702f37023741ed8814fcbc4f3cf42b128ee4aacd5d4e1c4e7da085b678208"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/11_28.zip"
+hash = "c27d8d6ac7ea25f59860a6bc998f2a564c78e4005d8aa2e561f03d620855e88d"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/11_29.zip"
+hash = "e63aae491643885a0a2550e2a1e40888b6ceba10ef4a9f6d21c7e41a391ed609"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/11_30.zip"
+hash = "12843468cd8f3cdda8e2e38cbc2d0b6edfe27f8fe4bde59c259fafe78209b472"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/11_7.zip"
+hash = "bf620b30e53c68d6d768a56cafc88e4454a441548606a0414bd948411b7425fa"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/11_8.zip"
+hash = "1b2b69c4f897d2b9a7e5a15a45de5432d92db353179dcaf87f91692c2f49e52f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/11_9.zip"
+hash = "ef271cd011d25ed52611cf4d149250873f18796f4268cff8869adf37132df4e0"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/12_19.zip"
+hash = "9ae7b7a68ecafd997f26492652611787ff0463c56c6b81269f45e7a6a84cf89a"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/12_20.zip"
+hash = "d563bc5f483776e699e805226d910bb58c92ad1cde417539260dd6385744756c"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/12_21.zip"
+hash = "e4dfa357200a67aafb6482551fd4d6dd0a2f79cea20f1170a4ca974bc47e90df"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/12_22.zip"
+hash = "65ebdfe8bb77b12fdf45c2fca2aeaf8e2572c6cda90daf36439d54cd985531e1"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/12_23.zip"
+hash = "913bc92421bef80c1bfb36a08548b2fce801033a92fff3634c68e53654960544"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/12_29.zip"
+hash = "5a6385ffe7adc6ad34d06ec01c37a33083b74c1e8d48ca8598f360cb8223c870"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/12_30.zip"
+hash = "db4a036aa5214f48b13dec7f6fa3f06ef5fe1de0131fe4460efdd95c7b97be8e"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/13_-6.zip"
+hash = "0a54cdca91318390c188d5ecda0b5c61ea6f40ea9fc47e278e071a7b13438c73"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/13_10.zip"
+hash = "0a54cdca91318390c188d5ecda0b5c61ea6f40ea9fc47e278e071a7b13438c73"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/1_-1.zip"
+hash = "e04c67f2208bdc9c55d191c2cd61dfb35d641b8a4aa796561598fe04d6d942d6"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/1_-2.zip"
+hash = "015962c9d58388cb6d1fb1dadb2517a3d1229ba77d438532e5c742e3b2c1dd58"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/1_-3.zip"
+hash = "c125ec9235102ca397e14bd2b46132c07351e307ab8040446e3de50eb71c8392"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/1_-4.zip"
+hash = "9529d7a03cf602fac1feb460f880305ab9083b22384b2ea6dd2eecd16a786683"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/1_0.zip"
+hash = "392963e04319656847f406f4fe7e61abccdb30f0d3e8049ed8db34cbd6916627"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/1_1.zip"
+hash = "0b23fc6c9be57495ca04adecd41191fd01f7734d1d675a5458731c5d014fa184"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/1_10.zip"
+hash = "aa1c7ea0c30e38c2d16d5bed3ed53b042f80c2dd208d09b18e0e7ca22e8109f4"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/1_11.zip"
+hash = "97768ec940eae11d3e3dbe4ccfa0c1aefcc03f2a37c393df85c703ddd4e97fbc"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/1_12.zip"
+hash = "d332a530ad51c4cd0d7b29d7406a3c13d86d1252161144e24abf66713f3d7615"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/1_2.zip"
+hash = "5df2febd3242dac865d385ea813527a715301406a1a2ebc66f6f861422056b59"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/1_3.zip"
+hash = "f53e38d607f111c1919c28fe2f8df4cca894727371bacaf8ab2de0fce3bf5ee8"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/1_4.zip"
+hash = "e06fff5f78b455c3326dc741412b60288f0b7e19d388162dd4d39f8bfcdbc9cf"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/1_5.zip"
+hash = "b2fbc715070a37c92dbf9336c7e0774954764abdab28b7a9e1cfbdd36518e6a1"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/1_6.zip"
+hash = "b478769e36d4aae4a0a87cd81dfcef7094c816708de75103a68b5e05d8f15131"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/1_7.zip"
+hash = "89056057064b440f5121e73f7b6a0c708d24e8e10935f192c49ce08ecf6a601d"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/1_8.zip"
+hash = "d30e432f3489dfafc588c40846ecc7fbeee9420d0f522fab2007eebcf8fa28a2"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/1_9.zip"
+hash = "14c6dee1976dee56ab03352484b7200a7d40ab52a42d18d4d3af040fcb79ee47"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/2_-1.zip"
+hash = "19d1061ceee6b5080ca9dc8aa0803b13b2fb8ee15b07b307e6d2eff39edd017a"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/2_-2.zip"
+hash = "1335d99ae0816f3eea3c19b70d0648c99aa4386ddb08cf72afc25670301bef4c"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/2_-3.zip"
+hash = "edce3c36778b3f213c5784a331135555da1b099da1b259cd3d326d21fe30326e"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/2_-4.zip"
+hash = "23f67daaa89e43d9d5b27839cb35522ee7c05dab7962d4691eedf0b80a3ef111"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/2_0.zip"
+hash = "91f794fdefedca7675e0d181c17f7317800519682edbd11b6480b4ab8a95d07e"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/2_1.zip"
+hash = "d85c4a3a525c58da65f046d4bcf0f24a4c7c3eca890335a765b8a8a5482c4679"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/2_2.zip"
+hash = "f8545a9716af55a4f3b58f9ed32945f1ab7406bb802ce5e33bd7b16624a57788"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/2_3.zip"
+hash = "3f20b029953e99852c7317a657c73ea32e75808c809fc6572679fa4ad8c47826"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/2_4.zip"
+hash = "898ebdb6807f622b557595cd3ea49093a1c9114a9cd77062f337268cc43efbd2"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/2_5.zip"
+hash = "1e6a5a96e2e2b31ad56152a4d94f58a98fd2ba65ad9765babddb6bfe95e844ad"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/2_6.zip"
+hash = "daf545e62915dd40290467c2314c0d9ce096b59d06fdad8ca48fdfa9d3813b8b"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/2_7.zip"
+hash = "24a4c250cb8cbc087bd7d359f5bee688e9e08cc21887b4b0b5253d5a59a3aa6f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/2_8.zip"
+hash = "8523e036a20af2efce9cb1a4a509496193ef5f2ec549ad4b3f997efbfe9868df"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/3_-1.zip"
+hash = "1291ee9d7a4c611afb691f10ef13e5268463f95234be058a2d095bf65e26198b"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/3_-2.zip"
+hash = "1e588144bafad9af1421bb882a48aac940fa7d78da2ab7c7dae6b256cb746b17"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/3_0.zip"
+hash = "c7475cb9d42d6b75f76e9c6230005af5810b0a34d211d6554a68d56ed2d7aba4"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/3_1.zip"
+hash = "4b586d65b5a92a7d79c8cdd1b95d9b794376fef93f60665bff96f012fa5dce17"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/3_2.zip"
+hash = "2f25a2b7b450b0089ebecb7efa6e839a3d92aa02dca91c4ea43752a8540f5ced"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/3_3.zip"
+hash = "1db3cf985bec49808a09c2afed5c426afbae7fa983f8d47827283966f8e22362"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/3_4.zip"
+hash = "8013dddfb130c8bf84ef9c915af34be82d6347dcab503ab9f12b92ec6519de05"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/3_5.zip"
+hash = "c95f2653b3d665debcd64113e9756ca4479693be76fb46d8c8233ad943981fa7"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/3_6.zip"
+hash = "762585ae0c2eeca19957c15e2c8cc2537099883458e6ba194896ceee7b74c144"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/3_7.zip"
+hash = "73016a395eefc2904d97fd75be44886dfad3fe8c99a5e8e4416ac47d850b53f3"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/4_-1.zip"
+hash = "9f8f47e00a3f90e20233bed455c3f8bf8ff3dc2f6599f3b0d8327aeef4ef9792"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/4_-2.zip"
+hash = "5883d376f9cfc8fae59434f0637cbd00212b5777a29860d51557292af2c9c786"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/4_-3.zip"
+hash = "e8bc986a4b61431a673c13bd3d4f9a796332c0c08e9874bd20184fdc578e979c"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/4_-4.zip"
+hash = "0a5e38fda779385b810e03689593bddd4ae03c3f3a6f48349c04959bb60a0c83"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/4_-5.zip"
+hash = "437b8c73f0caf8771912a429db6d48c8cc114e9f1dd64dad3dc4549757d62357"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/4_-6.zip"
+hash = "343f9176eaff9871c6ba52b1fdee76f44df7f690cdd60e0b375256b629161eac"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/4_-7.zip"
+hash = "f657b2b3779f7cd22dc70400aebe71bfda9623ce63b473aadf504b50ea4e870b"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/4_-8.zip"
+hash = "b9ee006cad5f969892068b0e45a808d5e9375e43567ec169593e2a404b8a8012"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/4_-9.zip"
+hash = "71e62f639ebcd37a1c1c93779651d0fb234e78be7f06dc2defbb78415b928986"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/4_0.zip"
+hash = "09a620f55420ae38ee13c52dfdeb09863beae919e28489644c474adf45edc56c"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/4_1.zip"
+hash = "4a1238d26ef2a4b3af08a82c1b22775b5aae275994c27552b2834bd2b204401d"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/4_2.zip"
+hash = "de0dbaa179ea4dec841522f58e0033f55911efb6ac60e91882554307af37d611"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/4_3.zip"
+hash = "06c2b790f3ac3667d6b7b10c6d8c1c8f9dc56df47e50d1a8daef6a365ed02dcc"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/4_4.zip"
+hash = "61424cdbddf1bf5c53467450d7bb36904d275df1c9bcd8b3872a26d64eac10c6"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/4_5.zip"
+hash = "216b30bf86f1bdf4b44b9056904c1634fde621fbb5fbfd7922ec4421a6f31c0b"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/4_6.zip"
+hash = "53acdc7de620dd9b81362b3ee88613d2481f9af84884d5fb650dbe652abb563e"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/5_-1.zip"
+hash = "31ef5cfc58ee76747bd2c84b1fb7ac017458ff0514714976a37b7bade9e62f85"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/5_-2.zip"
+hash = "71a2d51b8877cd8ead98ba4ffec034a106e50902e99dc09c0510c074d176921a"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/5_-3.zip"
+hash = "e81498379d38e1920d5284a700b2ce913a6155fa3fa2c4567db7983f6b7b92ed"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/5_-4.zip"
+hash = "673694026fa071091168b875b602d14015da8dad1688081c6c6a97696ee89ada"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/5_-5.zip"
+hash = "e0ca3a40cf0bcf723d00d2a0e6bec01b226a8902accf3ad3f802ee42c149a6f4"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/5_-6.zip"
+hash = "4e37c2bfea1693bfe6ad31776fa21766642c2062fed0702f80239f71b28a7cc0"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/5_-7.zip"
+hash = "3e41ea5ad606f5e490d39789f4b4d9e57772f2bd18b3ffbb1dee8dc720c5fcf2"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/5_-8.zip"
+hash = "6f71b32c324ad83eb62c994742957347ca2c9ee1be65919b45a9d2b15a9854ef"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/5_0.zip"
+hash = "d251ac85aa89c5766c5a62f2699df66d1737495547a98141270004ee2dda4a41"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/5_1.zip"
+hash = "5916f94ad28cd87c6b993cdd021d5982357976b37e87a9fa36d9193e09d0a482"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/5_2.zip"
+hash = "4759b39e5a5834b02f5849c73163806bac5adf1a90db93a0cfe4fe5734cdc079"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/5_3.zip"
+hash = "9b0d833b78bc5d37904eec0384c5368e773897cc63a9d52a5f7641f442046496"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/5_4.zip"
+hash = "72890945f3a4f97c498e898da925e998599ca9999a089d27e227a737a54deb61"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/5_5.zip"
+hash = "b9fb5784912758775924e47d42ad693c3ad3b5a496ae3e26ceea47409ce5eb71"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/6_-1.zip"
+hash = "47117d3ee52c6ee272f6ac626e8e60c4ef222c92c5d1a65c41dadf4cf8439260"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/6_-2.zip"
+hash = "95e5c98ffc101570d0f7762ad4231650e28f8664f6af61387b23db0e87307e5b"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/6_-3.zip"
+hash = "09023908a29cbda8a76ce2bb29747624e45f56c89b4b77bddf050a2841d36e62"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/6_-4.zip"
+hash = "34afa14af31a54f87679015c352d2119eb501f13a42147f30ee41a9f1eae78e5"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/6_-7.zip"
+hash = "847f3093738438058530c0b3e537e99c4738c9d3b2dfc8a6a0d4c8d1d0b22034"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/6_0.zip"
+hash = "84f59e9a6837859ff9d08f38cfcf9350e3b25e9660cdee5eb9d0182a0568b5dc"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/6_1.zip"
+hash = "06e6bbf08939e868a8d35a3762badc1e72d78aa50914e2ee51d6ddb0540f3094"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/6_2.zip"
+hash = "bbedadd359813cad7e11d24dc4be004b22bf098d5ff883236abd7d9fa5b781a0"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/6_3.zip"
+hash = "e16e79c27911a11c25e11580a0664dc284d1f86a3b5f8d84f0720662865afaa8"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/6_4.zip"
+hash = "8598ff43de0e5a71ea272ba598190af229d88ca809729147152095afc65da3db"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/6_5.zip"
+hash = "29f433879ca7b4c76af23e03746bf2865d89ae75a3f55063d30100dd6e70e1b2"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/7_-1.zip"
+hash = "66007e308cb91530abe8f8000efe809ee4bd836e6b02371d45e6ab3f0a5890fd"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/7_-2.zip"
+hash = "95db0364cdf710b29aaa01caa69e58441a3a617f61659a22aa770343ce705a26"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/7_-3.zip"
+hash = "a07983802547f4245a95962302ec56dfc071ac55ecec8ae21dc7d80e7f828c68"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/7_-4.zip"
+hash = "743104c95602a64f32de9bf3381e1bbfb8d25d7c64fe230cbf8b701eb2331304"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/7_-6.zip"
+hash = "0a54cdca91318390c188d5ecda0b5c61ea6f40ea9fc47e278e071a7b13438c73"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/7_-7.zip"
+hash = "d9b6aa45ecb9482293f0a71d44f16609dc0eb68f89d18198ce8adba892d9922f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/7_-8.zip"
+hash = "bb66ed4810de5f9b94ecffa389261580c9905f776b93e2849659f725f1c0b39b"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/7_-9.zip"
+hash = "a133f629a37fee8026913f12654fcd83547fc99ff048c4e8ccb9b081bc40a83a"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/7_0.zip"
+hash = "1e4e8a6766e5b2d6d1acc95b90e464228e9d051078ef2ae5b89b9df416388ee3"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/7_1.zip"
+hash = "6434966b7a6c0934006af312ade8d4194801b014870bf41cd725e1955eb19566"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/7_2.zip"
+hash = "ceb0729e738282f4320d6f8e75a63035cb9e419433ceb47e97cbdc948389dae9"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/7_3.zip"
+hash = "773006a4650241ba2a852fb278718c599a9bc63db88a08f0385ea5ece2fbc709"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/7_4.zip"
+hash = "a3e2d9a7ad696e0cf1f5b4c389edd86d44395b7268608b128d54effb3762ff42"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/7_5.zip"
+hash = "0e5725e63dbc8cea8015eb896be5f821cba1a02d3b785333c9db3ea2b309af64"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/8_-1.zip"
+hash = "64d45d44af333bfc42b67dc2dc73919500c0336aa4290a207dda5e1131bd7b55"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/8_-11.zip"
+hash = "a133f629a37fee8026913f12654fcd83547fc99ff048c4e8ccb9b081bc40a83a"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/8_-2.zip"
+hash = "db865ec99c709d94450df392a3908936104eb09d32fc2e10d7c3b780cebe2ee2"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/8_-7.zip"
+hash = "daddc79321e5a963c6213554648232d85efba0e52d6f6bd4c0c1a6e5e131e4a7"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/8_-8.zip"
+hash = "70a159cd68d29b2b9c6cfeb7d981d495a5a6a6a195fdc836970d32587272d92e"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/8_0.zip"
+hash = "a5e86cad17145817a1ac792c8bf8778ab7b08d62fb34894cd2752f948025e817"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/8_1.zip"
+hash = "52e9d746e1019f0be41b2d5e29338e39069ed92f22047c93e06c59a7c4f094dd"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/8_2.zip"
+hash = "db927d649c0002662ea99c113d87e6ba42d04bc73ae5ffbc19ea0eb6fbf4d4ef"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/8_3.zip"
+hash = "23b42258699e4981be3c5f8ca24f696d51402ac72c71004f516f0c48824e88c8"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/8_4.zip"
+hash = "9b813da615bfb0fc9669197d06c9c85be1f6edbb5f7ed4be52b796a212f19db0"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/8_5.zip"
+hash = "6272d98534d16734c4c4ab55947c8f79ec6fc6ebe13cc36568aae58fe64fd556"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/8_6.zip"
+hash = "8ebc17fc8e6f51b9e57ac2ef89f1dd7c922ec59afa38720cc88e9d7a9514dd78"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/9_-9.zip"
+hash = "50fe0f026e59fc03d7a8df29594b7458edb6b09bf2163a1787a02e2a923b59ff"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/9_0.zip"
+hash = "b23d92d42ddbb26edda668ce352fc625f266a1273eeb3ee50b56e84a685100f0"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/9_1.zip"
+hash = "7f11e5939922ef3b461202b4dcedd0852db5f2f62e2c7677974c51885ff1ae5b"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/9_5.zip"
+hash = "17dcd468aadf02bd0ce91e2667d83098704a6144f49f70fa50591acee5c6b106"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/9_6.zip"
+hash = "35b15def866f48451b8e557daeaccbdb6669fba29699cfbc285432a316cfc55b"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/9_7.zip"
+hash = "682e1d969dafabaff60f5c6dabf55d9a0999ae891a1fc2f2b0b8989928221582"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/-1_-1.xwmc"
+hash = "c6ebf95dcc13127e46f95625b6f7083a73e4f65a28c8738f09964b3a13868130"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/-1_0.xwmc"
+hash = "bb6963493c13b2106c6d00696e80c9d20bb7493409909879ddb6c7ea638e23ab"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/-2_2.xwmc"
+hash = "25441bffc30bf43352fb8cb430735005d827671e390b8b7ead4f6af1f727da3f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/-2_3.xwmc"
+hash = "f4b975a3926583c5c3d098f79c47eb4a8a3c5775f1b1531041646fbc841f89ef"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/0_-1.xwmc"
+hash = "fee4ed6e480be9ca412f3b5417a44df14fc22b9c8a96d57d534766cd023ad7f5"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/0_-2.xwmc"
+hash = "0f38be0f74f839bdca03541283b18ce97c41c48c7fa10c6981eb3fe69a5dcd62"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/0_-3.xwmc"
+hash = "4e9c842c9389c537f28b00f9aabbfd1c98f120aecf7179d0c212ce86b673245f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/0_0.xwmc"
+hash = "065894b8ed5400bd46fb4f2912961cfa931c0cec25a0757e89552b75a75c2e3e"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/0_1.xwmc"
+hash = "db5182a2b709b2924dd9de45fe85315d99777a13aa58cb98ca76670c95bc1012"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/0_2.xwmc"
+hash = "480ff2667c4941c10208403412475996bfdf3fe51b3e17e8a115bd1c07c59b6f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/0_3.xwmc"
+hash = "649f9f7f52fdb1c8edf4932c7e2f93a2405f57b484f528e895cba3b42de9227a"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/1_-1.xwmc"
+hash = "50bb46c0a9f3439be381ae8363c68c1db84d0dc5ad0e2f9d635c248cde67a808"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/1_-2.xwmc"
+hash = "b41236485fbf0ba450e5acff44344dd158f4e95ec6ad595e72bb3adfccf28a9b"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/1_0.xwmc"
+hash = "359eb0c2b528a41ded34798858ea9dc8e7f65b259398cc808952964c77d8add3"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/1_1.xwmc"
+hash = "337530de4ede015e91178d30cbb285cace2bbb2a10598b94019b73d07d3178ad"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/1_2.xwmc"
+hash = "275a3173cf6c94fc70f89d791e4634815470237609971fda61c45e4b38d3d7e4"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/1_3.xwmc"
+hash = "658a47f4370b85c27225e32865973f0b96e893670d4a7a9063ab5bef55c69198"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/2_-1.xwmc"
+hash = "085465c2a47e22326c5ff725306d58af7cd248cb95511a4afb457a5ca698eb5f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/2_-2.xwmc"
+hash = "9f7cd423217e9141fb05d50b64fbfe47121aa7f04b294f07c0e16e6b5098f647"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/2_-3.xwmc"
+hash = "3fb2571a94530e5b5f4203fbd63249c0e764610b6caf1ef59e93a684ad78ebd6"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/2_0.xwmc"
+hash = "b79d3e57411cdffce3d59ed29625c5c6bb1ff42fbaa20a15085f339b60f717cd"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/2_1.xwmc"
+hash = "31cc8bf04f200489a4d52b35aafa22e81e1552fd74fd82f91298b759e626a6ed"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/2_2.xwmc"
+hash = "1faf1d0b46970d5aa026ad4282e8c2e06b12f8732f73d6863fbf772d346dba2a"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/2_3.xwmc"
+hash = "0e44de7bd396d3ccacda8b3b7dccbbd6476ca4e2ff58baba1a984bca6370c0b9"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/3_-1.xwmc"
+hash = "ba1948488b6ba0eec63d046fc5c7a6698e72c764af01809f634d2482cd8d262b"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/3_-2.xwmc"
+hash = "460a721b6cad11c495ffda23d300dfd7ccef6bf2d6ba8f55582dd721fd541d4d"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/3_0.xwmc"
+hash = "0b5f4679d797beedd9c4ab118be99afa84cb005b61b5c96e266e95acd989a74e"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/3_1.xwmc"
+hash = "136f793fb121319e90eec526ab998fef7c6ceb024b37584564ca43205810511a"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/3_2.xwmc"
+hash = "12f5574014551235f9d0452f03fc82cd0232e6a928b1b8c7a783fa4d1725a565"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/4_-1.xwmc"
+hash = "e146d12ef665de61bced664a2fdab5879704272ea52c16d36625c2b146b7f196"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/4_0.xwmc"
+hash = "726504600f10f1272ec84a0367ffd8edd4f04fe40cf7d2c657eb31d5f3c72361"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/4_1.xwmc"
+hash = "13951c98cc6c2d2838f1aafa02c40bc5be26e1ea37f7e586fb596821970702d0"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/4_2.xwmc"
+hash = "26c2f1f8222efed9695fc9a4cc81783228f3ffad36ff86d83e451b082306ee8f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/4_3.xwmc"
+hash = "1835d08c88b0a23a32cc6655aff6f2d677a02f3ed1ff9341c8bb17632be94e6f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/1/5_3.xwmc"
+hash = "ec770da0aeb45f1b650268f728f7e95fa3365b47792bbe141d957ef2a39b752a"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/2/-1_-1.xwmc"
+hash = "c23bd98bc07eeb27b046e94ebfadd23b35dbbef973847e4a9e13a9197a3dc792"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/2/-1_0.xwmc"
+hash = "83b6c46fb318fd188d2c456d4f6ef251bd348f5d08fe8a75abbbe5d04f800230"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/2/-1_1.xwmc"
+hash = "0cbd775063a3f5b2a0a0f77a5fef19910f59e7315b4252615daa0d1b24e529de"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/2/0_-1.xwmc"
+hash = "fc243de4405dea23bb3dbd3c531e1f72a29f22b129513d5f1fd7ff49d25e0de3"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/2/0_-2.xwmc"
+hash = "7027e15f9e883adb9bcc6f21d446c26483b7aaee22558b414d6f09fc89db5afd"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/2/0_0.xwmc"
+hash = "2264112c0d06542b00e8427a28e55ec36e110a806fc03ea55855f541571c1732"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/2/0_1.xwmc"
+hash = "6875eb4477d0cd75f4cbe144d6d442516f4f0b34c6f95829a532d7a4072d8a1b"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/2/1_-1.xwmc"
+hash = "862052e4776b9aea87dc9fbcc807e1dde68206c04d3bdd891a19d6a87251367e"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/2/1_-2.xwmc"
+hash = "cb2486458f8dd460778af900243963c9e0968fc53799b334560125c83049d8c1"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/2/1_0.xwmc"
+hash = "1aeeeff7d0c6116fb94cfc2b86f9325c66fd1a6fc9773fdf0697a6cc71cc8687"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/2/1_1.xwmc"
+hash = "04ebd33c7c4cd81b1342ea3d5571d720ecafa53f26170644d51c5dd394392ee2"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/2/2_-1.xwmc"
+hash = "9619585cc3837d6680a9238ae8604c5f57f807e4bc1c2bcffaa86e23ff34dd47"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/2/2_0.xwmc"
+hash = "07cfd814d9dcbf654a86d202a9eb4e2f1f597013b3c96f9a7c077ae4f6488e97"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/2/2_1.xwmc"
+hash = "b75b2c2ad3b2796a3923ccd71aba111ae7ba03e413addc9eb1a1404b66372b16"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/3/-1_-1.xwmc"
+hash = "b6beb5fe32a3c6b041b3099ea836cdebad6b203bf71417dee94799ec1988d4b9"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/3/-1_0.xwmc"
+hash = "a3088b09e8956a551c02ae5e819ddec88a3216fe614382dbda941a0ab66ff6b4"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/3/0_-1.xwmc"
+hash = "9d9ffafeb1bc5af2801438efd3a9e18909f46ace8a169023644de7721cbca95d"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/3/0_0.xwmc"
+hash = "246526e3ce154a6a42b09d28184bdaf6137416f260d183149e018f48e2597d11"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/3/1_-1.xwmc"
+hash = "851c1cec4dffda149570ad621146c03383a2158d0c6b6d21bafef23de7c52efb"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache/3/1_0.xwmc"
+hash = "09c74d511ecfd19c28febb31424357d82b1cc4f5d839d6c12ab60d8658182a61"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-1_-1.xwmc"
+hash = "b9285c92ad3ed154acd53d746aa3b21070fa883c858c1e55800fd1bb64bbf94d"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-1_-2.xwmc"
+hash = "97fa2ee4e716f0a10949e39be8410582b3673bddc09796c6a4b27e51dea44844"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-1_-3.xwmc"
+hash = "02656525c505907ee9eae4f5cfabf9621a800da17644dcf20a8bc9a15487363e"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-1_-4.xwmc"
+hash = "5166ae7ef738b3c41dfef8d160208ff8c5d26c94d27b1b2d23e19b1584413bb1"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-1_-5.xwmc"
+hash = "f88452ea827d65815baaecebf2a85d46ff91f4dee00a96ed116a35c4a9f73432"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-1_0.xwmc"
+hash = "d5dcbc0fee24d6f905208f5e3cfdcfa14fd18d37452ddda38c8787f404eab752"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-1_4.xwmc"
+hash = "4fccd3f42a94723b342b91eb46b78889532f3f03adbc975e8e0baf0b7d39ff75"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-1_5.xwmc"
+hash = "672ba2b114bbbd6b93ebd189a9c2e17be68ebb4c368739ed0b0366b487fd2666"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-1_7.xwmc"
+hash = "e287d9542dc741708f789ab8c98a79a6c8f9f2f766de88b63bbd1198834a0cdc"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-1_8.xwmc"
+hash = "bd2d0f79f11a82ed68a67b05cd40e5b2343568d1f8aaded2f1eaccf165374195"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-1_9.xwmc"
+hash = "450d44a018744066c273a53fb37caed69b5421e042ced91882e91c8ac57f241b"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-2_-1.xwmc"
+hash = "848bc21a136a8d8bbbd46aa7da1245d7ed95a4a55fa0648c4bbf26624e4dde54"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-2_-2.xwmc"
+hash = "44737c8ea1fa100bf134724608175d0b9fc683dcf5a26f6d00c8abec3597b2af"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-2_-3.xwmc"
+hash = "1a029a68f2cf20e565f31ca0c1bd737e219aa1239ea40609197a5c8760e4401c"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-2_4.xwmc"
+hash = "10f800abc71e77778f8bf59df6e396e71299c1755749e4eee368669063ad98c5"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-2_5.xwmc"
+hash = "36e9fe56764f8a8c94d0ee3c265979b9d8848b48ca23960864be424ca924a4c6"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-2_6.xwmc"
+hash = "1ffe9876a69ca47f25bed07917cf7fff0ef1930273de301e19191a48c34daf7e"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-2_7.xwmc"
+hash = "f1d59e1766472fa85f7284e94673c91f9e6a30f68cf97bc3a16dea3de1a7aeb0"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-2_8.xwmc"
+hash = "6615135ef8d9816b60c430acf01016e121b902f0fb56422bf25912140c811a06"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-3_5.xwmc"
+hash = "020a6890f1ceaeae2cfe506876b2303715c42932c4651089478e0d6a2259d071"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-3_6.xwmc"
+hash = "dc7e06937718401269f527f8d10b8d5a16edab0a78cf2274825f81b5697a35dc"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-3_7.xwmc"
+hash = "99b2efcf65525c058a79403770419f48f304109d8fb6314ec0c41155f3d7bff5"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-3_9.xwmc"
+hash = "8b5699fbd150a68ffb53acad8dd32e763c07411b1c8d1f1b498dff6079e29e9f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-4_6.xwmc"
+hash = "365110c79edb4992237e8067b4fd4f240e9b7702ef425f8d9e20a09d625ecd3c"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-4_7.xwmc"
+hash = "3436143ec35d458f92e9f03a33b73fa1c993111ee5fe8a8ab3ded27d6a8a37c9"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-4_8.xwmc"
+hash = "8b7556a926c312651361af9f8c9f28f6e4d1bf44d8a2708b9bc24ff0ce05a5df"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-4_9.xwmc"
+hash = "5bf4dc70fa76ad869eca596646f7ecc46f978d0a380c01bd9865912bf2aeb9af"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55940_24003.xwmc"
+hash = "e398b2f82956363ad95b33914a50ae7709a293ef6cfef790840ac57d698946ba"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55940_24004.xwmc"
+hash = "833f2c5bec3990afb584de47bd112b42e43d4ea44977fb3219f22e4799a2e3d4"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55941_24003.xwmc"
+hash = "72db9db9c113c8f85f399f2c62ba0d9c45fc084d7766479d0a291c730078b060"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55941_24004.xwmc"
+hash = "d29a4338af540a39fc37768aceda9fdb92f5804eb742c8b9d312bc7852058db0"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55948_24003.xwmc"
+hash = "9042e135df19cf146c52aad2e233ba028a96130da6c325c4f0bf1efc8681824a"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55948_24004.xwmc"
+hash = "8ef8dff6730eadea80245c403efade128d0b92a4a656f7af18eac6988de041cd"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55949_24003.xwmc"
+hash = "308e971479df632dbffb472e54cc9edce8c43d061f455a00bff1b3de441b3ec8"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55949_24004.xwmc"
+hash = "e68a4d9b71f54bf81f05a4619afa1aa180bfb34f181f017b3cd930fb31747722"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55956_24003.xwmc"
+hash = "733ac615800355f0d315f9fd8f4d7b090c6b3ee55d605c93d5e74c30c9507952"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55956_24004.xwmc"
+hash = "598c41f25c69d9574128cce18632dfd6cadb02deca74e6954b2571234ed121e6"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55957_24003.xwmc"
+hash = "7f0f821666d045923dea1883db21d057004d03c090ec88c502370679a5e0f537"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55957_24004.xwmc"
+hash = "a013f09a41ea35ae4b619b9929057c92e2eb3488c0405e0d71f45f47f3feb9be"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55964_24003.xwmc"
+hash = "4a3467a9e78491c83210a17134b229a3db8323898c7870daadbf3f232ab2505d"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55964_24004.xwmc"
+hash = "8f4a40f892c6141233d20015fa6e3bfbaa390206e6566dfb76bc941ce0c599ae"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55965_24003.xwmc"
+hash = "4abbb44c5a45909208ab2f3afea75610bb16dd259fab5fb032f79b06fc9079e7"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55965_24004.xwmc"
+hash = "2a898b83235143bf2477cacfa36ad406244fcda93e5688a498371b6bd915bc61"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55972_24003.xwmc"
+hash = "10bbe868243ab03bcf1b1e13a7880098bc7e08ff20f7d67e4f2b4ecd0fca933c"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55972_24004.xwmc"
+hash = "ce8aa91fa03bb99fdb9f8b2681a48d06dd82575c7081bf5404e19fcc6e902bc8"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55973_24003.xwmc"
+hash = "d463e03376686d10b0a344c115c2053cf81cee5b470c79331ab470bec25d41b9"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55973_24004.xwmc"
+hash = "0ded51087519ff25d7e7320368ad631ab3583c7538c75ac76a3f99cdd435796e"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55980_24003.xwmc"
+hash = "ce216e5bea95c6e12ed9321a3576ae09d9db8ced3dcb739551c14cd12698f279"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55980_24004.xwmc"
+hash = "e6856ee6f713661d5c426e756adacac1bfac57cdd4b1aefde0308ff46467cdba"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55981_24003.xwmc"
+hash = "02aa14abc5aead9f8e49fa491e6a44359e426ebae6e84cf434040e6d96c7aae6"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55981_24004.xwmc"
+hash = "5cf3c0a7e4e4d4c06482abcb4d5647576f2ff9f8442a4dbccf44f01fd62a3ced"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55988_24003.xwmc"
+hash = "e2449bf6347bde05c613fdb09316f70124cebd6b13ea8a058ac1611c87f90af7"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55988_24004.xwmc"
+hash = "5075d8060dfddc07a74d2258c41df44f65b1ecb79862e8147f8ae18f74d823fb"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55989_24003.xwmc"
+hash = "653bc5d1b59269ae7ce89ce58fdbd5ec05a37a8f4b57177592772f3d1a1170b9"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55989_24004.xwmc"
+hash = "0049df1e55f1403ed4bd0b4b30f1fd2c71e02fb0a18b44a3b0eb62281a20c68f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55996_24003.xwmc"
+hash = "5b4d50b10255414af858046a8bb789bf13d3dba539366a5ddc372c6a5159e484"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55996_24004.xwmc"
+hash = "d9d7fccadca5c6dc67149a0a8c9b1e08c5f3f2b70e4aa96a354dba83dac90a43"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55997_24003.xwmc"
+hash = "b5530bb1808f9bfa9032c1de93a672f7620888bf5678bbf38ef1dda4a3e0b636"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/-55997_24004.xwmc"
+hash = "30af131a728bc07822e616ab66593ad725d0de5d7797b9f07c72c002c077777b"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/0_-1.xwmc"
+hash = "188098360a47dd3efc3a5cef729f11c4fddafa2895396e9096a0d0aa5055c6e4"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/0_-2.xwmc"
+hash = "a0eae6a1cffe720e33a7344bf921cd2ec0c0683c1dd73a6cc19762d2c35d58fb"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/0_-3.xwmc"
+hash = "42e6f6cb2b14339b1c5effc8809df78e8bed651aba421efae2fd0601d22b809f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/0_-4.xwmc"
+hash = "473375c9c16b5d5b5c78cf5cc8524c8d393315d39393d43f415c688dbbe94758"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/0_-5.xwmc"
+hash = "31ce7e81622e5c44ed570ab6c4cb2d354ca67272964203e1e1cae01144169835"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/0_0.xwmc"
+hash = "8721390690c7fc099d81b426d66c21efcf44b721c57f49eaceeeecc6ffcaf477"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/0_1.xwmc"
+hash = "c41653a828a0046ef1397394d1a41d9b8ede96cc010c3f11e86769e19edb988a"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/0_10.xwmc"
+hash = "0f6b488d4747228765c7773a2e821b197fd345e8731797efb794db83515916d0"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/0_11.xwmc"
+hash = "4762b718b84e900e5a6456e26c0aaa68ce942ce23cf02c1053401d5d2a4e0479"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/0_12.xwmc"
+hash = "0f0170302684f86a53935eb43f89be236a0100129c5e29e6b71832b8057bf87b"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/0_2.xwmc"
+hash = "dad39b8fcf8ba8029f42261662f46e8ba0862a2c65766cb8dc66074905150d20"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/0_3.xwmc"
+hash = "24b3fc513f97086457b237c215baad9330c86551b3bbfd568c6895d4315d929f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/0_4.xwmc"
+hash = "14eb7618f2d264838dac0b5df22d1195a3be480c064a1b6c5f6c442624afacbf"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/0_5.xwmc"
+hash = "0fc6a633c443eea04a8e8821f96d6d27a42eba0f35c7af457e772011b41cf885"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/0_6.xwmc"
+hash = "92df5aba4729db94b8a2208765fdd3546eadded14c7fd75ff791f41d0c8b9edc"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/0_7.xwmc"
+hash = "bd4ec56146e1da49d23ba374421bbae4f5040a6aeac57ee322b99eac3e9579ad"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/0_8.xwmc"
+hash = "4884163207042eb8f8d1c1f1bd821d917ab810ffd5d7cde4f04b4ad2062c5352"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/0_9.xwmc"
+hash = "f639a33d011dd62a4da308d0cd433c286d6550e4e8af519e690799af01f341aa"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/10_29.xwmc"
+hash = "08cad26e9aa0e9b35f1246c733e6b088ce40b08d5d7ac948233fa1d9662c8f58"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/10_30.xwmc"
+hash = "84c140622b2cb2e5e47bff2a23c17d18d346e92b376c4d6f424d9289fb4938b9"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/10_6.xwmc"
+hash = "5c008fe37c570883d5c9da2abac702a5d27ea8dcdb3230ebbaa2e9b7e147097d"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/10_7.xwmc"
+hash = "67ee693f68e2f3561ed66c686a18440764c8014dca635164ba80d722da507a60"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/10_8.xwmc"
+hash = "80611180e7052b77d2e3529cd1db8ac6ed75e5d6586cee2281342f6b753346dc"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/10_9.xwmc"
+hash = "44fd70045a16f5351d2189b9ed85e7f697779dccf6ed951b2f6cd857d98fd796"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/11_10.xwmc"
+hash = "07d004e83a07532ae73ed60ec1924f08b3024d70b14ae84a6a417b7f98dd1c40"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/11_11.xwmc"
+hash = "cf0120a7076fa26d2e0fcf2576ced878d9221ae103b3a606568fa9d05b494355"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/11_12.xwmc"
+hash = "418f322ced05467b3358439f4fbd78df347ae8f8f31f13a787984481eb417f4d"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/11_13.xwmc"
+hash = "4e204a768b3f447dda251ab2c7698ae0e8f8fa43c3886a29f79687d7edc179de"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/11_14.xwmc"
+hash = "14b3a8521343f0cf35f5469c1fadadf5c3524de7a81dce2575e7e695ef08f311"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/11_15.xwmc"
+hash = "34c122a1d75a659c66506052ace13bb0dbdd358480e62f808520ac81a60508f8"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/11_16.xwmc"
+hash = "5be91b2790c47c0b736dfd8b51eafd35c95437bbe49da44ae9232cd9c5b56438"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/11_17.xwmc"
+hash = "1b001b632df08c0ea3126d55bc39e77f25f27b67e693b269fc4cdd240a704acd"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/11_18.xwmc"
+hash = "b3bee97ec8ebbb1f25ca6f08090627796385b0dc7ceee26bf2979e48ac0fcccf"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/11_19.xwmc"
+hash = "aa6d0fa973cffb010fa7cb8f1343537ed9d9ff546a9ce7deb66224503d6dc09c"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/11_20.xwmc"
+hash = "f7086897bef7224e1c348267ae9d9aa86dd1542df7165c22bd61363d628cf920"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/11_21.xwmc"
+hash = "6db48a9f8d84aaedfbcc4581e4eee910445bb8a0bcc286885ea4f1b7c14e9afa"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/11_22.xwmc"
+hash = "39bbd796ec63a754e4c5e8b000cc429a54b1f25a4ff7f3de242afdb552553579"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/11_23.xwmc"
+hash = "b461698bda80076b0feeb4ad784031264d7b40a910de4767e3b6ded2482d2f01"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/11_24.xwmc"
+hash = "5c15e3a3c7452d7599b2aaac545b52c05a3e3bb69347d5813f2b2f2ef0c00987"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/11_25.xwmc"
+hash = "58c89e873d266453e97d021ea4892b84c265b8c156b36877eefa3c0a7c2ca3bb"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/11_26.xwmc"
+hash = "2db7b59906cf24d13a6a235a781e6b96ac18cd92584c9a2811ddfceed9543fec"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/11_27.xwmc"
+hash = "c2203925dbf812e69480db6f91dfd09d966548be5c2d681c3f49ee0044705279"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/11_28.xwmc"
+hash = "4b72ce0a0a4b924bdba848a0dfc5f636e1498bf2f1faacf1dc76677353889071"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/11_29.xwmc"
+hash = "d18ad8ef8c037ba4eda35dcb076c9111e26a8798e11c88eb82bc3c1256f33401"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/11_30.xwmc"
+hash = "48a398882ac86ca14d50613579fe72604ad94bd494bc6ec5a20d00eee4433d68"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/11_7.xwmc"
+hash = "38b8a30759d4ba75b92613d7a8863a974efc196378eec36b599f4bbd93d0c4be"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/11_8.xwmc"
+hash = "e6549e0459a885a2d3d70379140d68c19a5b45fd6290a804f6a86130e7cb2d11"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/11_9.xwmc"
+hash = "d14137bacfc0959a453d0126be4f3378029079ccda48990c3fa7001e6df83e75"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/12_19.xwmc"
+hash = "773d3aa64b9d94341f24703ca41976f8349d58e0330375f4ad0b70f9664862bc"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/12_20.xwmc"
+hash = "741f1c7ce19565317ccdad2e40d88b79999e73742af088555649a2c1f9a7a8b8"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/12_21.xwmc"
+hash = "9d863848fbffac9862db54f5aed56a092289f5010b3cf77b6cc724ee328c5811"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/12_22.xwmc"
+hash = "de9aee7601cdc2d642bbb9e4765a2ee38392d92e73df428cf28a09bfe8e6d89d"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/12_23.xwmc"
+hash = "a444135b3324b32e46ebf904aac0d7ffb68e29d5e7da1120fafcde2543076ea9"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/12_29.xwmc"
+hash = "ee2ebbbfada905abfe0358c2785c3c4a75553c060dc550fd15e73df303254f67"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/12_30.xwmc"
+hash = "1f8a125ade45e7403e765912a3977f00da6ca53b8bbbff7c7930438defa9cd09"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/1_-1.xwmc"
+hash = "4e8b38112f7fd525ef67f812c28217af8f4a91ea2036d03a6c1b3e0c7863c5aa"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/1_-2.xwmc"
+hash = "719e0054c4fdef1b90f605d63e3d9065029c1f5141e6016d7ecab88ea358b4e5"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/1_-3.xwmc"
+hash = "289b9a53a6acfb2f3c2eac6daa5d97832ab70c7680cfb1ede22e347fa841b014"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/1_-4.xwmc"
+hash = "d9d90290d0fa1b8665184795248b2b0f947442550155c27a1780d936c8dd877b"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/1_0.xwmc"
+hash = "c9f2ce8c056868d86566acbe8c54d8ddac78ae5b533a929dae21c6f086c8c658"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/1_1.xwmc"
+hash = "c4f9f16a4fbe9d878626b91681a570daf122ab444a2c88082fadf07de84dc7ee"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/1_10.xwmc"
+hash = "514f6b82d0b3fa32e88124c259cfbe244b75b625a3632f2c6d83f74b3f5d5e1f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/1_11.xwmc"
+hash = "874c73f2f9ff2c5a463574c05f1280b18fe4186f9a9011c251b4917c670bf418"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/1_12.xwmc"
+hash = "f13aa3fac3729e93ba140599995d8b7a765425bdb4a732a78f1fb45dc49beb79"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/1_2.xwmc"
+hash = "3ea8d68325f1defbca15ee4a63ebe476e6a4de3ffbf4921f93ee0aee09ef6a17"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/1_3.xwmc"
+hash = "706b04377f47677fdf8234b20bd398d574d900fe1e8304e2cf9521c43e848b44"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/1_4.xwmc"
+hash = "b32472053e7f2bba134a987b93acce877e28d58e8e79a8081fcfe53460672d79"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/1_5.xwmc"
+hash = "9f89e4498a6e7b5f3ca73c91cfd5d10e830f509006cab44e7e9ff39536468a45"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/1_6.xwmc"
+hash = "4264a3f5874bbd280b42b374fb48fba2f2f02a96a0b0218fb10cc3ab442c83fd"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/1_7.xwmc"
+hash = "a7ac4e5a2a63da89e3aa99302e3766e0200ad595d517f29995242a8637affc43"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/1_8.xwmc"
+hash = "2c8675479dea0b9d5bfa5683fd7cabf6330af7c7a9def9a566ce7b3789bca493"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/1_9.xwmc"
+hash = "a339b9d34f0b9ace5879d333a0ac59f0c80163c814a8acc3d212a201423f077a"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/2_-1.xwmc"
+hash = "9563d8abbd9f94bcee1907fae66f7314faf39e7d0855d4371d54c17b08eeba37"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/2_-2.xwmc"
+hash = "a6582917aafb356f00091d4e43de843cf46143dfd49367884f2b2fc5f81bbde1"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/2_-3.xwmc"
+hash = "cc2fc8c3ae6ae7cb8da9ba1387f58bf61ac2ea2aeb398a508ce17dd33adc8eb4"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/2_-4.xwmc"
+hash = "9d76d4cc45549389370709fd42a0edda89ce15ca82a23abfdb7babddc7c46170"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/2_0.xwmc"
+hash = "86dd1c4e2d08b316a5a09c2d79c3b172e72e3e8fe926c26ca9c1a20fc8cfed9c"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/2_1.xwmc"
+hash = "aa4a88f759d8aeb076b669f3f7793f47f0d3de8482e4285364441b1b52294c2c"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/2_2.xwmc"
+hash = "09b0ce07bef34c329b71cac254ad31a51ab384525fa1d7885f55e7db4a5b9e3c"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/2_3.xwmc"
+hash = "5a00bfff02c2f88a0b19da0d7b7a6ffa0c7af7ca8d0b25554dfbef4e6d3be88f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/2_4.xwmc"
+hash = "8bcdc57dfb1091821c585141a80aca80a705b0b66df5a54f15d77f9126d0d5c1"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/2_5.xwmc"
+hash = "936744ece223346233456d0b3514a5a9bcc2ec0c9d194f44f2e40c6ae9ba4ca6"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/2_6.xwmc"
+hash = "6d7eb3af5adaaab2cc43499b55e9e2cdb6bb38741782c47f13a9cd4c10884b45"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/2_7.xwmc"
+hash = "fc917a572cb23b527824e50082af71849ffb8436e29de8974b0f25cbcef29ba4"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/2_8.xwmc"
+hash = "3da50d4056e6ce4693c2c1502c6360be50e9788ef5fcf71ba5ed221e579b2bb0"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/3_-1.xwmc"
+hash = "443753a900a72aee9e80bd8cff891c36fce474a5d63f847f1cc3217c00258ca3"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/3_-2.xwmc"
+hash = "cadad416dfe7259cbd8a1ba53054dd856cb35af189bd81dd5683ea5c21981798"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/3_0.xwmc"
+hash = "09940ce39d3194a80b343ebbb5f002f9d7538b6fe4bb06a216460d4049621ba8"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/3_1.xwmc"
+hash = "536a4f604df6a6728461f61abbb8a62553cdb82e5cc5fd8e17b52897a44a7df5"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/3_2.xwmc"
+hash = "85efc57bfcc62e62bcd52815d1fd82044db581cbc199916f6f399cbe05afe2b2"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/3_3.xwmc"
+hash = "172eec0f0d8d5a984d62039ff6a22b7cdac5133fcb652bc9a5c04649134a26b4"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/3_4.xwmc"
+hash = "ce54b1c3835228cf36c3aa7c42207df3f4b30e6162091526a225c17dbf45ba4c"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/3_5.xwmc"
+hash = "dd4795c3079d358805155f25e081a57b89001277b6603e1c4af9882c06d6b153"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/3_6.xwmc"
+hash = "aae132ccb2e3b38d019f3d8d043c629b97db8275740c7d632263a49e7a1ca744"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/3_7.xwmc"
+hash = "010853412431688ef0163d04aaf6cd3f87fa97c9c1c3094c19ef7db001e07fb2"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/4_-1.xwmc"
+hash = "f9cdfea2f0186e96cc9cef8f1f08c726d79fe88c59b4b06222c1143abe6fae8b"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/4_-2.xwmc"
+hash = "f803cf30d410561cabab248b7b85f2104666a522dcbe5b5701ae8839dd3d3b74"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/4_-3.xwmc"
+hash = "34dc71d0ca0f2e61dc7ea87d759ef8bcd9f96643d86ed695b409b5abec4483f4"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/4_-4.xwmc"
+hash = "1450e3b7fb8a9ee975a69a3fc2ba11b6d58f9ac8cde7a1ed265a43a49b94f0c9"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/4_-5.xwmc"
+hash = "14c60673ba9ab90c64f5c130a6d025082b68b3948aaf90b31cba49adb0af1820"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/4_-6.xwmc"
+hash = "41994e8d8d8d3426ea8c69801bd5de871fbc341723a5f9d245103f47b616fe03"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/4_-7.xwmc"
+hash = "af9a76d16c5b185272279c79081992ce2afdef46500ab4d0002de468e058d268"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/4_-8.xwmc"
+hash = "cb5b99d78f2f60286eac57ab47cc38860be2d6ec5c0644dc7d567b02f6ced20e"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/4_-9.xwmc"
+hash = "3c15e64060d47a9347494adb8c0b51426fc6b385f4267c4a344884a37306303a"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/4_0.xwmc"
+hash = "eee0ef4e640bd7871c352e7139ebc4708ed3e034d17619845782426676f8908a"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/4_1.xwmc"
+hash = "5c65af4aa35816dad82181bd69d6b712f00dd754705b73a5560f4fcfd449a534"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/4_2.xwmc.outdated"
+hash = "6ca46d00fc550c54a42a6eb6fdf205829df4abc756c40004a72aebb9665aebb6"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/4_3.xwmc"
+hash = "6e7a4dddd0cffa225dcc38a7c97f695642e8806362d5c936e7544b3eec6717cc"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/4_4.xwmc"
+hash = "e07ab48e8bd7d5d6f81d96f88529ecdf6259aa9837946a7e26852ed7b1c3ff70"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/4_5.xwmc"
+hash = "dd314aac01659641079e6048999d0da6f7062c2253ff02be2646338e6ebf38f8"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/4_6.xwmc"
+hash = "80f991b6d2cc075136e1c8a2352dd188b54a7f81f348c1f16a6bb3eb3080ce2c"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/5_-1.xwmc"
+hash = "97e5e9eb17c1e115d940e8133936622da1a1bf689c03f85c48214dfb06423b6a"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/5_-2.xwmc"
+hash = "d8a54bb25cdbf47f1ef135d7ebcb9b7fc1771db1a5ceb2874fed85ddca101a7b"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/5_-3.xwmc"
+hash = "1a14d57df9eb18f7f2c2a1d60cb47322b9c58ef556608bb27543c4be4af6506f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/5_-4.xwmc"
+hash = "a35a31c0051b5f593e965bf38bb3d07a03c97625aa9817f1a335d40650ccc459"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/5_-5.xwmc"
+hash = "f5a4ee0b64812e18092b16f5a8a190ca3ef6ca2c7810db6a13e1dc6a143ea0c9"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/5_-6.xwmc"
+hash = "e9df3cd347cc042742f4cbaa073559d2faacf296ada212c21d126e6e521a0bc2"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/5_-7.xwmc"
+hash = "957499f8a959bb9ed1acefe2e4d70f0ea69677516d2b602c5ad7f35b729d7c99"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/5_-8.xwmc"
+hash = "addf11f1876814c5f111acc09a269b0dffb814d2a9afb0c7b41a34bf83c05522"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/5_0.xwmc"
+hash = "f2f0d966ae293256f7acf03211907dfefed32ba81acf416fbb14ace0ce75e9cf"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/5_1.xwmc"
+hash = "24fbe923e4bbb34f2bbaaf36561b462561ad30a2c3e7def5cf5120d3d10bfafd"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/5_2.xwmc.outdated"
+hash = "852a58569e21d6447901729d60bad3f19f5e877333cd120904279af5fbedde1a"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/5_3.xwmc"
+hash = "2faab498f3804a452c8512af3b77570d80a5b6eacc5b7937414ef3ccb3d4d852"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/5_4.xwmc"
+hash = "6b6a367faef3d009f2b1832ca898758f8f680b0419828d9add4d4939e325c75a"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/5_5.xwmc"
+hash = "c3a40fc8784edbe1d51a2ca812bf4b35c3061106962464b17e2b258b61a71894"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/6_-1.xwmc"
+hash = "43f298cc3e7824dbccf5921c2368a5a783665448b136d7a024adaccc38c94e93"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/6_-2.xwmc"
+hash = "c0d27b4664a71ffcf3dfb60e23b7087f07a67e8efad0cbf416835c28504c0538"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/6_-3.xwmc"
+hash = "32bae1956ac49cba98d8f2cd2b9ebf2a75066d03ec0d03f30ba225f530bf3af6"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/6_-4.xwmc"
+hash = "f7a8433d8ae8f29526597f7871eaf6c7fd9b7004c810161bf70e2e87e744a207"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/6_-7.xwmc"
+hash = "f466af098d0354c020a8e6bc6d6593278bf96e1e85ed0d09ecaed603819e424f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/6_0.xwmc"
+hash = "a7b285e8e533c3be118d9aef19aea6b4b4589bca5aaf71dd9aa14d2834e4ecff"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/6_1.xwmc"
+hash = "7ef8d6c72b0916ba7e28fde060e866bbfbfb187674a3d64f5a4aae8224dd5b27"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/6_2.xwmc"
+hash = "7f439b56db7291f801f6eae828c4ebe7d8f293eed335a046a6ecf4f3cd0d7ea2"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/6_3.xwmc"
+hash = "14090dc1f5711f0e5d0377fc74469099a52ef8eb8310901ffa68d0f87059a4fb"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/6_4.xwmc"
+hash = "c9cc1e78233b0b9bb7ae94699ea9149c2002e47794d09515239f4e69497918ee"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/6_5.xwmc"
+hash = "5ca8941a996e014a6533a561c1d9b91aa05ea33dfa849503f56ac8782ab539be"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/7_-1.xwmc"
+hash = "85b55df4a12fd81d3cbe65261639ee44bd3d17015a3d1b8e3ac8da78458c52ac"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/7_-2.xwmc"
+hash = "9ee926d55724f462ec8f1acd6a22c68e6cea0164ef99b9b73879eac5901843e5"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/7_-3.xwmc"
+hash = "e74476e38cd623af93ccfd722a4d3bced65b6522194a64b0b71382ae3bbe0fe1"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/7_-4.xwmc"
+hash = "aca67af5544f120838b613ca9bb572ac68f1c652fc3effb2a53e47be37d69fc3"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/7_-7.xwmc"
+hash = "9cc94db248f37814435efde075a5766329b272dcdff7091df963a98d1c84ec90"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/7_-8.xwmc"
+hash = "fe6a9a71f00d22dfdcbe115332307797f983ea6bc405d30a0d9f21ed9e8ba339"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/7_0.xwmc"
+hash = "c95ff2cc0f7032a00fb69de453797cbdeddbc28c66c2e4afd96c82e51c0d6f5c"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/7_1.xwmc"
+hash = "6299fc9138a9bd3134d3e6c80db286f611435ae4fe8078a1d00555703521b697"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/7_2.xwmc"
+hash = "f0757ccd939737079662223a9db2dc0f10b53df3fdae33a12612dea55686e05f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/7_3.xwmc"
+hash = "e46ac4811fee2d626ebbb30c0ccc111e91d6c2e5c71485316b6ad2fbc7b640f1"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/7_4.xwmc"
+hash = "03a029de1f443952e3f571cdfd0909baeb72b3dba79d1077050720c3b90e3500"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/7_5.xwmc"
+hash = "6044f86a7d0ab4c082621b2e1e4d872610d0d796e10c8e07697e409b03dde72b"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/8_-1.xwmc"
+hash = "ea7540e700f0db5f65ad5a8517ea9cb509161f7304d5fce0d26fc25ad974bd7f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/8_-2.xwmc"
+hash = "7d5068637d128f8ac1a18abb2127af942dd0b77f1de3ec6ccb9fd5ec7d5b8634"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/8_-7.xwmc"
+hash = "4658dc16e19ac51556a12ce47cee7c7c6ba0d1508583462b3a9fab3b334cc32a"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/8_-8.xwmc"
+hash = "0d6dc8ea383fcdaf1828c0172bdd927d70d4a1f56f722c2417f9e10f7197a4ce"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/8_0.xwmc"
+hash = "bf65f268f476932cd923877a268d35a3c98f728d922353d7a34e57e6a0bf8ad9"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/8_1.xwmc"
+hash = "4b917ec697b3e690082197b00749ed31f05e5e81eb46f81dccb981813696d8fa"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/8_2.xwmc"
+hash = "a0d5c2697aaab20a32068b32ced145434fa97f1eec60507e130879ae5917f8aa"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/8_3.xwmc"
+hash = "6a653ed48e8a935c91e11ccc09b016c8c0888bfbc6ef5bdb72dcf9a8fccaadbf"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/8_4.xwmc"
+hash = "dc01ee0839c62db1cc01f5c4217e21ed245576ca64b5c8c47b2cd099907c826e"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/8_5.xwmc"
+hash = "609f14798decd61703edbe7d69303e7e073139741f08524abb590b2854130d02"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/8_6.xwmc"
+hash = "7d71b6ab60104e7ff69a9807c526aeb167ed3b1e1b7b7c228ebdc10a696d91ee"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/9_0.xwmc"
+hash = "5135a0f2c199f4ad45f63c73b964d585384870b2da86d5c6e83253be14365496"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/9_1.xwmc"
+hash = "ec4fb64a5dd1ad35af766a36c26d023a43cab580d8f94515d84204b53dc22079"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/9_5.xwmc"
+hash = "77549a743f8e4a1a0c60e68ea378b1920158850ed864d91477ace41b27773aa6"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/9_6.xwmc"
+hash = "78e8470bfc3ca53b5b1b591b7f81cd46e6560a249d15383572440bf8bed4d2a2"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/cache_1/9_7.xwmc"
+hash = "ad5d0c4d6bc7cca6947f403ae36350e197ab19da16e386df4ddd7e5a7dac10dd"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/caves/4/4_2.zip"
+hash = "2ee7e45af771e67825a6127ed576775f006f73f2d2e09b3d807435a0ae0036a0"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/caves/4/5_2.zip"
+hash = "8ce404f35ce7c5c595fb3e744c02104ea18c4ceac612dea9c9fb7619c264ab07"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/caves/4/6_2.zip"
+hash = "c487c0a035f8202966aa867ed62691db652786f9a0d07e1744322c9e8551347f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/caves/4/cache_1/4_2.xwmc"
+hash = "6db3a7f164cfb3f6f24409e0f4fb2ff3a943649827e8c76a1b4d139907b29708"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/caves/4/cache_1/5_2.xwmc"
+hash = "61cbd63d255c14ed34aa69f10bd69f74a3a6ad4f4f33f48298b004aec868b76f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/caves/4/cache_1/6_2.xwmc"
+hash = "100303e90b9451aa4eeaf4c99e1dea9f06a90e384f4b06b34295eda4404e7e3f"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/caves/5/5_2.zip"
+hash = "910fa38bb59fe34ed7eb29e6dd34ae2ef2a879b4fc4579c19c736b35dcadeed2"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/caves/5/6_2.zip"
+hash = "bd1df294688033b199f09bed01e38f7398371dc0fe05328e3bb20d255e65d3c5"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/caves/5/cache_1/5_2.xwmc"
+hash = "d2244066a1f499bbf8492ce5daf09593126027959dd955bdae1d91d07c8238eb"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/null/mw$-2026960810/caves/5/cache_1/6_2.xwmc"
+hash = "beb35eaae81238cb11bb8b1f99e4c6ad41e4f06fa7c6f2a65c8b76d31ffef25d"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/server_config.txt"
+hash = "ea1542cc8905e3e0d3b3003bacdc8fe6d2feb1c394cd4647f8a75d7d3725ea12"
+
+[[files]]
+file = "xaero/world-map/Multiplayer_asahi-sirius.local/sync_timestamps.cache"
+hash = "4b682a5539a605f8f7b92d89428caeba9f1269a827d5f43a81c1a5d10e07c258"
