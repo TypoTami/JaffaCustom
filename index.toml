@@ -1496,6 +1496,11 @@ hash = "585a3071c68587c3c041832210a58e74e7701162dbc360d47956655ca1a6438e"
 metafile = true
 
 [[files]]
+file = "mods/betterdays.pw.toml"
+hash = "598205e268c0f43a288b21fcccacf3eded9662270a0411bb0d025bfcb2ed043d"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "49f9d94df22724949d2ce1ae70b73461dfe7d92ce6ad6ceae9739cef0b34a089"
 metafile = true
@@ -2053,6 +2058,16 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "7f073e56ebad4ad34119c1502b62f9e70526bbe6e8a8550a6bffdaebcda45aa1"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons-plus.pw.toml"
+hash = "e9ffc868ab6289c0f19aeb8b9550867129a91e0315d826920dfbf10ba7f14529"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons-x-distant-horizons-backport.pw.toml"
+hash = "c8bc0b07c93168f684f47d655f5712b06f9aa96fd4ffe6d7e8366448596587ad"
 metafile = true
 
 [[files]]
