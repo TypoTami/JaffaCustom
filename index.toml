@@ -897,26 +897,6 @@ file = "config/jade/sort-order.json"
 hash = "39a0a2351b69a606388107a007bd138dfe67e65a6255cc37bcef17aa0c885bab"
 
 [[files]]
-file = "config/jaffabricate-common-1.toml.bak"
-hash = "593092542316d991ae7b0441abe182e3b7abb53921670440da4807c6913459ea"
-
-[[files]]
-file = "config/jaffabricate-common-2.toml.bak"
-hash = "593092542316d991ae7b0441abe182e3b7abb53921670440da4807c6913459ea"
-
-[[files]]
-file = "config/jaffabricate-common-3.toml.bak"
-hash = "593092542316d991ae7b0441abe182e3b7abb53921670440da4807c6913459ea"
-
-[[files]]
-file = "config/jaffabricate-common-4.toml.bak"
-hash = "593092542316d991ae7b0441abe182e3b7abb53921670440da4807c6913459ea"
-
-[[files]]
-file = "config/jaffabricate-common-5.toml.bak"
-hash = "593092542316d991ae7b0441abe182e3b7abb53921670440da4807c6913459ea"
-
-[[files]]
 file = "config/jaffabricate-common.toml"
 hash = "593092542316d991ae7b0441abe182e3b7abb53921670440da4807c6913459ea"
 
@@ -1129,10 +1109,6 @@ file = "config/refurbished_furniture.client.toml"
 hash = "bf7fb4c86fbe2a1d616b6cb204afd1450fba682d46a453d34dede03b4b37a0ab"
 
 [[files]]
-file = "config/refurbished_furniture.client.toml.bak"
-hash = "83f9a0e7edb41bbbedfdb972a420c4e7ecc2c631a9ab5b32a54fdfe8d2c54213"
-
-[[files]]
 file = "config/refurbished_furniture.server.toml"
 hash = "c61e5e2d2880a01430bcb82d3b910d28dcfe8f570d067cc172963583b0a7f81f"
 
@@ -1177,10 +1153,6 @@ file = "config/simple-rpc/server-entries.toml"
 hash = "6dfd7e6dfd8bb89d93c9eadc92716a7d8cd05005f526beec8174db4ca3ebb019"
 
 [[files]]
-file = "config/simple-rpc/simple-rpc.bak"
-hash = "3d9df1513bc958e7cd85342d84f293bfbea746165082abf92ce500c90cbbc673"
-
-[[files]]
 file = "config/simple-rpc/simple-rpc.toml"
 hash = "939aa48d2c6bd66890d5c5ae00093b7855d73f4c9a976e6b9c0c370af9a585b0"
 
@@ -1203,26 +1175,6 @@ hash = "b377e97ca3d8ae8560448b92ab820872d7c11bef0ca52dcf3f4901b44c6ddca7"
 [[files]]
 file = "config/sophisticatedcore-client.toml"
 hash = "4d77564fb4509f9ee615aab4d07a0d524dc63b6671c8afdb60b194f8529bac65"
-
-[[files]]
-file = "config/sophisticatedcore-common-1.toml.bak"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/sophisticatedcore-common-2.toml.bak"
-hash = "abc830918d1b744efb234c3f36a30e85c9d173741ab7b0214ee3000dbb6c4a12"
-
-[[files]]
-file = "config/sophisticatedcore-common-3.toml.bak"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/sophisticatedcore-common-4.toml.bak"
-hash = "a2e0f852686a4bc182f5a98d9b83602b74f214710d64994261d249566ea1899c"
-
-[[files]]
-file = "config/sophisticatedcore-common-5.toml.bak"
-hash = "d6f49ce249db0158b536a634b53a01b1bf14bb6b2378e899389d0f27f88218db"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
