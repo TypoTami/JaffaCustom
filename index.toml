@@ -1892,7 +1892,7 @@ metafile = true
 
 [[files]]
 file = "mods/mafglib.pw.toml"
-hash = "d86cbc693097bff3ae88159c2f6e43459b5472e4047893e9942cbf76d4c6c4b7"
+hash = "d5caad546975a92bb92dbf72f773457b4fcdc024f7569115d931bd6b6938efed"
 metafile = true
 
 [[files]]
