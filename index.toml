@@ -1446,6 +1446,11 @@ hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
 
 [[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "e6054c7c85798999bc1e4a15e9ee665cba66a6ab0d376c01132b5015000906a6"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "32cf4b9e9f90cb1ccdba20ff12179efa05f86b03de7f9ad59f8a99aad4ea4488"
 metafile = true
@@ -1693,6 +1698,11 @@ metafile = true
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "02e3f47ff5a2fa074996387e14c81718e5c4df16dbe75ba1e1021157352f7815"
+metafile = true
+
+[[files]]
+file = "mods/dimension-leak-fix.pw.toml"
+hash = "c6cb71fd4287bdf05606330102daf25171af103bae43d0a222b1e3f1f9339362"
 metafile = true
 
 [[files]]
@@ -2066,6 +2076,11 @@ hash = "7f073e56ebad4ad34119c1502b62f9e70526bbe6e8a8550a6bffdaebcda45aa1"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons-fix-revived.pw.toml"
+hash = "3885e72b0aa966a8a384e129b5ad9c5218f65d0fdd27ae4b189d54fe996ce33d"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons-plus.pw.toml"
 hash = "e9ffc868ab6289c0f19aeb8b9550867129a91e0315d826920dfbf10ba7f14529"
 metafile = true
@@ -2286,4 +2301,4 @@ hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
 
 [[files]]
 file = "unsup.ini"
-hash = "ce4b53abe0779a35070fd63a221b3f2d255a251d1bae96284e0d554645093a19"
+hash = "de9c1ccd7618420de8520d14e895bf609647d70103f98b98291f1767e314c005"
