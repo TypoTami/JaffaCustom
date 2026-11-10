@@ -1133,10 +1133,6 @@ file = "config/serilum/villagernames.json"
 hash = "4584c82a48d51ee7d20523768e44b1a28be056d10fdb76cbc90fe0fa8bb68c2e"
 
 [[files]]
-file = "config/serilum/villagernames/customnames.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/sidebar_buttons.json"
 hash = "c2adfd6453038abd3081177d5aabc2909d2b9e8dac42560168de166302ba7a39"
 
