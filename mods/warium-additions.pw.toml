@@ -1,0 +1,13 @@
+name = "Warium Additions"
+filename = "warium_additions-1.1.5-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "926f47ee83bfd2c76bab5187d5bb64bbcd080dff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9187069
+project-id = 1368736

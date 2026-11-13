@@ -2271,6 +2271,11 @@ hash = "f4e6387dabcd4581781a955d1e214014f49da85fb8139ffdc0b576608a037d44"
 metafile = true
 
 [[files]]
+file = "mods/warium-additions.pw.toml"
+hash = "450d51972032c15d80af92a960037d64a995377387ec74b1d11cb64750e5f246"
+metafile = true
+
+[[files]]
 file = "mods/warium.pw.toml"
 hash = "a47b1f19479b2d31a6b0da4ab84c9c51128f6fbd62d000a1a6300d187a3af8dc"
 metafile = true
