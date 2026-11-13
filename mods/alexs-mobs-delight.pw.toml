@@ -1,0 +1,13 @@
+name = "Alex's Mobs Delight"
+filename = "alexsmobsdelight-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "750d7cc98fc072d00bb75414d6fe7d71cbdc816b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8847896
+project-id = 1484768

@@ -1393,6 +1393,10 @@ file = "kubejs/server_scripts/chocorangeslurry.js"
 hash = "daaf614f0d84beb32dff3022e62e1b73391b842151ffc2ee7773a5a18534c3e2"
 
 [[files]]
+file = "kubejs/server_scripts/fix_pointblank_ammos.js"
+hash = "c237fda4956cc9d5ff0a10bf798ff26b85d8f4aa7070e3ab980ba71ac58dddd0"
+
+[[files]]
 file = "kubejs/server_scripts/fix_precision_mechanism.js"
 hash = "9d0f5400dbfd1e02cac2835c9deac293b97fc2b25a07438af2eafea47da68728"
 
@@ -1432,8 +1436,18 @@ hash = "fff2acc3c8019523b091308e9a5689f8e11c95576d0fb3a07094aacad9883c54"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "327ae6465d0d39a9286dbc4cd267ccdf9c761290dca4f19d16b1e48b32dfa175"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "6f864eef65f9a38f57eb0cc6fc71469b36ea70444a10c3e27502d617c5eaf917"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs-delight.pw.toml"
+hash = "7f31a12e88faf75f7c512c3b6cebda0ea16f8475faca28d170a97f163182d33b"
 metafile = true
 
 [[files]]
@@ -1447,6 +1461,11 @@ hash = "e6054c7c85798999bc1e4a15e9ee665cba66a6ab0d376c01132b5015000906a6"
 metafile = true
 
 [[files]]
+file = "mods/almostunified.pw.toml"
+hash = "bc9bc4dc5e09b5213fb158a83d63d5def7bb016c3cef65405f8f2f6c0c62b158"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "32cf4b9e9f90cb1ccdba20ff12179efa05f86b03de7f9ad59f8a99aad4ea4488"
 metafile = true
@@ -1457,8 +1476,13 @@ hash = "4327ca177fdbd9cfc0c2f442bec68899b6c8e8eb46f0e6b04548178c244b6a84"
 metafile = true
 
 [[files]]
-file = "mods/applied-energistics-2.pw.toml"
-hash = "837835bafefef1a9b4215bd05adb23a9f4d2d83602b432aa68f124023079c2b7"
+file = "mods/applied-botanics.pw.toml"
+hash = "cde869fe985a80ba90251a40b6e247074bb1051b3362631d3ae5d795dab09699"
+metafile = true
+
+[[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "fb289df0188a1815096667ee5b4ab6242def986408f807d55b97cf3a19775098"
 metafile = true
 
 [[files]]
@@ -1508,7 +1532,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "d90321c5b93cac899c833140d215b98dcd30504e4807e56b05a9f677fd1c3fff"
+hash = "ff2aa5045d98d0303e288dd37a1613c6376d8cfe2c829219e6e7283fb86008bb"
 metafile = true
 
 [[files]]
@@ -1627,6 +1651,11 @@ hash = "809d8e56e9406b14fd9d5bb5242ee2afc6e44b6db9bbc2ecd2e7860bc2f703dc"
 metafile = true
 
 [[files]]
+file = "mods/create-applied-kinetics.pw.toml"
+hash = "2abfac150d6c52601ed1d666381e9992f1be1eb88ba2c2cd0d11c6a863215986"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "fee58a333eaf51d4862fee34fe8ba7cb70140500023e06aca3c9fcf0e0f34719"
 metafile = true
@@ -1652,13 +1681,18 @@ hash = "993a3a0df7b5ea59ededb0434ebe948f254835201e48c79bc6c644dc63aa71bb"
 metafile = true
 
 [[files]]
+file = "mods/create-thermal-compat.pw.toml"
+hash = "6ac3f28e99bb1a5656edbafa7194ec0089ec9982a93b90ab2b1cbabd52a9391c"
+metafile = true
+
+[[files]]
 file = "mods/create-ultimine.pw.toml"
 hash = "748546f76bbc0f5310ad25ca834cec0e7e2941855b95ee2f11d27ffb3a0b4b52"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
+hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
 metafile = true
 
 [[files]]
@@ -1872,8 +1906,13 @@ hash = "8a29668768e271e497991b609c4783da72c80f583e554f88a8751ec1d2fcc1d5"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "2e88de6ccb041493cc6fa75ce102892ddb88529d5c380ba288c7b5f928a4f998"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
-hash = "a2277a000bcab08a8e0939dae7c8ef3b1db5327e2fa7bd37919e4e2f1b3c174d"
+hash = "5d03d20b037a8b7a4765ded0e25146fc970964be46401dff5f9b1059875084e8"
 metafile = true
 
 [[files]]
@@ -1938,7 +1977,7 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "7c411a566d022680769ddb8323984fff292ddeb35e7d8fcfe2cc41b9885d9557"
+hash = "426fd37ec95797af16797632e70c63436ca12719c0adb16ffca931970a411ee2"
 metafile = true
 
 [[files]]
@@ -2002,6 +2041,11 @@ hash = "70f039b573e08e8856d144125f4113fb469eefff17d0d76c51432374ac5f6c0f"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "ea8571ba9dc8e74bad5e4257d50e9bb80d02be8f3d5de7fe3dede969e26fa15c"
+metafile = true
+
+[[files]]
 file = "mods/project-red-core.pw.toml"
 hash = "11235263add95d02a50cef25f363a02aa1cf90e43773c1c4889a71a67192cdb4"
 metafile = true
@@ -2032,13 +2076,18 @@ hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
 metafile = true
 
 [[files]]
+file = "mods/refined-polymorphism.pw.toml"
+hash = "810be2eee9a8015c867b5626ece99fe6bea1632755fb6dac87f4b81c022b8023"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage-addons.pw.toml"
 hash = "70b949dab65474c3687c98063f66282c7a580e0bf82f33615fac247fdc29019b"
 metafile = true
 
 [[files]]
 file = "mods/refined-storage.pw.toml"
-hash = "4f8fa2d8bba834bac3240024294ff9f2881fe20e11d775a93497dec5d25be571"
+hash = "d83c43aa5cd92ee3427f79fcf1d4e4ecf763972aa4a9ea6eac87d865c2fe955f"
 metafile = true
 
 [[files]]
