@@ -1,0 +1,13 @@
+name = "Valkyrien Warium"
+filename = "WariumVS 1.2.0.X.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CuAOZEBw/versions/oJKi3KMr/WariumVS%201.2.0.X.jar"
+hash-format = "sha512"
+hash = "fb817b90bd97bec1636782ccd6c63cd7907eb23b473e5fd246166fc30b52f03482899d6b211d3f716d5792437038eb471f2d6962c1febd94099819870bac480a"
+
+[update]
+[update.modrinth]
+mod-id = "CuAOZEBw"
+version = "oJKi3KMr"

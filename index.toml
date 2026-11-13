@@ -1831,6 +1831,11 @@ hash = "ccb71ed770e14914778eb4f97d64cbce9948e0f05aa59ff3846290d532685d0d"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "898fd2704dd260ae8f3dc20b4416439751f0a9e76367c4f0bbdac886b6987802"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
@@ -2091,11 +2096,6 @@ hash = "e9ffc868ab6289c0f19aeb8b9550867129a91e0315d826920dfbf10ba7f14529"
 metafile = true
 
 [[files]]
-file = "mods/serene-seasons-x-distant-horizons-backport.pw.toml"
-hash = "c8bc0b07c93168f684f47d655f5712b06f9aa96fd4ffe6d7e8366448596587ad"
-metafile = true
-
-[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "23ef0c67ed600fb75d47161cdbe43b860837afe9d1f3012c44f3e7eb13bdd1e5"
 metafile = true
@@ -2211,8 +2211,23 @@ hash = "380bacc16e7736fc791bfd34ab38684d69642a93b80da0543cd06b7cee8a36d0"
 metafile = true
 
 [[files]]
+file = "mods/valkyrien-warium.pw.toml"
+hash = "31a7e80b142aedbfd30639ae67e5255af1abcdf5fa3655e583770df05f5a57e9"
+metafile = true
+
+[[files]]
+file = "mods/vics-point-blank.pw.toml"
+hash = "1f6b8d88819078f1435a5daf66b79e475dd2f5e775833e93adddb8230dfbd75a"
+metafile = true
+
+[[files]]
 file = "mods/villager-names.pw.toml"
 hash = "f4e6387dabcd4581781a955d1e214014f49da85fb8139ffdc0b576608a037d44"
+metafile = true
+
+[[files]]
+file = "mods/warium.pw.toml"
+hash = "a47b1f19479b2d31a6b0da4ab84c9c51128f6fbd62d000a1a6300d187a3af8dc"
 metafile = true
 
 [[files]]
@@ -2303,6 +2318,16 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "a9421a7a29ac8ee6e0598ea20025ad2c30e6198b796324184600621743437c91"
+metafile = true
+
+[[files]]
+file = "pointblank/point-blank-official-extension-half-life-pack.pw.toml"
+hash = "9885e93d182afd058976bdabc6832269659896acffd21063206d9197006cd37a"
+metafile = true
+
+[[files]]
+file = "pointblank/point-blank-official-point-blank-extended-edition.pw.toml"
+hash = "d60c5ac95ca6a59bade329a6f5efc8e28f8f0c40d9a286fc35f1728202a7cb6e"
 metafile = true
 
 [[files]]
