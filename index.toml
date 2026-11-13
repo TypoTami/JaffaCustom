@@ -1394,7 +1394,7 @@ hash = "daaf614f0d84beb32dff3022e62e1b73391b842151ffc2ee7773a5a18534c3e2"
 
 [[files]]
 file = "kubejs/server_scripts/fix_pointblank_ammos.js"
-hash = "c237fda4956cc9d5ff0a10bf798ff26b85d8f4aa7070e3ab980ba71ac58dddd0"
+hash = "48e561568305d43a42e35266557fbfa0829af45a1446e17010e192b219e3da9f"
 
 [[files]]
 file = "kubejs/server_scripts/fix_precision_mechanism.js"
