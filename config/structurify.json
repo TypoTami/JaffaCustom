@@ -1,0 +1,26 @@
+{
+  "config_version": "2.0.43",
+  "config_datetime": "2026-11-13_19-50-07",
+  "general": {},
+  "structure_namespaces": [],
+  "structures": [],
+  "structure_sets": [
+    {
+      "name": "crusty_chunks:desert_array",
+      "is_disabled": true
+    },
+    {
+      "name": "crusty_chunks:oil_well",
+      "is_disabled": true
+    },
+    {
+      "name": "crusty_chunks:overgrown_array",
+      "is_disabled": true
+    },
+    {
+      "name": "crusty_chunks:sea_base",
+      "is_disabled": true
+    }
+  ],
+  "structure_template_pools": []
+}

@@ -533,6 +533,10 @@ file = "config/artifacts/common.json5"
 hash = "736bec8c910558091bb749ac7adb013822a253a02f1f70637eb193952768d2b1"
 
 [[files]]
+file = "config/badmobs-common.toml"
+hash = "3bd1c7948aa7aa3c71b711b29d9debda5dcec0878d9b0ffe5e9a39cd71ccee09"
+
+[[files]]
 file = "config/betterdeserttemples-forge-1_20.toml"
 hash = "c8fba68f434b5288b51476e67cf24d15c3809c6cf4ad37ea24ed877cfa783dc4"
 
@@ -1213,6 +1217,10 @@ file = "config/sounds/world.json"
 hash = "370cb0d795cd5143f878dbaa489ba2ec7cbd14228cafa07d4a86a27a2e08f923"
 
 [[files]]
+file = "config/structurify.json"
+hash = "1e1f7d2959a4d530c2b5d1c7ec977f53bc3af59f2e576a88e9293f3870797c65"
+
+[[files]]
 file = "config/supplementaries-client.toml"
 hash = "86206026902fc37dcb7903ad01be97b2516b1806b24d6360fab5416cceaae5eb"
 
@@ -1503,6 +1511,11 @@ metafile = true
 [[files]]
 file = "mods/athena.pw.toml"
 hash = "9638d8a308563842fd989970919a51f37ed1bcc82372bff47fc5a5c2e6de738e"
+metafile = true
+
+[[files]]
+file = "mods/bad-mobs.pw.toml"
+hash = "ad277ad1cc85c6dce61a2ab784dfcb54b5c522a824f06cb94339bf32bdb5d52a"
 metafile = true
 
 [[files]]
@@ -1991,6 +2004,11 @@ hash = "174fa3635ac00621f26fcb992462a38a34591e8685059974ef76df35e90dc364"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "7ae02bdedcaea01e6a9eae2be8d963677272071aa948868b9473c5b399d78879"
+metafile = true
+
+[[files]]
 file = "mods/modular-routers.pw.toml"
 hash = "6bcf7a39bad33980cfd720cc78b1e2fe703f7cf0635c00a59948a561c66bf2e0"
 metafile = true
@@ -2216,6 +2234,11 @@ hash = "3fff9456c0ef97caab6584a10517f20822e138b627da4b26c8c46e6330d7e7cd"
 metafile = true
 
 [[files]]
+file = "mods/structurify.pw.toml"
+hash = "466c3be5fbc1650f51e77ba0409e65fc9405322d6ceef56bfb463539c652ddcd"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
 metafile = true
@@ -2318,6 +2341,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "bdea6efdca7bd778a06437a865559c8019f200b798cae419cc37818d6d4f989c"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "c08817fe8025a9d62c8f7abd5f56a54b90673e5ab60f39ae8fa1d70d5ace529b"
 metafile = true
 
 [[files]]
