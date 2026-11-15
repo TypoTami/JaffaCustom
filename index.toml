@@ -1589,6 +1589,11 @@ hash = "c90d0ba44331e2920ece86e3e343b7e66bd6f9752859d5c4ce6177c2af52cf81"
 metafile = true
 
 [[files]]
+file = "mods/chipped-express.pw.toml"
+hash = "6ff30a00e7ba98959c1112c28b497a8c5dc5f5b0869f9e696182377e55b59011"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "71a33fe41bead909b3e95643351ef8015def70d3cb083916469f492f66434b45"
 metafile = true
@@ -1941,6 +1946,11 @@ metafile = true
 [[files]]
 file = "mods/just-zoom.pw.toml"
 hash = "70bdbcf4caec71540ac0134b0fe2723bb7eeba3370d6c3272f72de0104684f87"
+metafile = true
+
+[[files]]
+file = "mods/keybind-atlas.pw.toml"
+hash = "4efe44ce7239637ba7663f18995a2d692722c2325484e705724749660a9487ef"
 metafile = true
 
 [[files]]
