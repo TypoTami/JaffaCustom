@@ -1,14 +1,14 @@
 ServerEvents.recipes(event => {
   event.recipes.createSequencedAssembly([
-    Item.of("create:precision_mechanism").withChance(120.0),
-    Item.of("create:golden_sheet").withChance(8.0),
-    Item.of("create:andesite_alloy").withChance(8.0),
-    Item.of("create:cogwheel").withChance(5.0),
-    Item.of("minecraft:gold_nugget").withChance(3.0),
-    Item.of("create:shaft").withChance(2.0),
-    Item.of("create:crushed_raw_gold").withChance(2.0),
-    Item.of("minecraft:iron_ingot").withChance(1.0),
-    Item.of("minecraft:clock").withChance(1.0),
+    CreateItem.of("create:precision_mechanism", 120.0),
+    CreateItem.of("create:golden_sheet", 8.0),
+    CreateItem.of("create:andesite_alloy", 8.0),
+    CreateItem.of("create:cogwheel", 5.0),
+    CreateItem.of("minecraft:gold_nugget", 3.0),
+    CreateItem.of("create:shaft", 2.0),
+    CreateItem.of("create:crushed_raw_gold", 2.0),
+    CreateItem.of("minecraft:iron_ingot", 1.0),
+    CreateItem.of("minecraft:clock", 1.0),
   ],
   "create:golden_sheet",
   [

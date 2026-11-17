@@ -1,13 +1,13 @@
 name = "Keybind Atlas"
-filename = "KeybindAtlas-v3.0.0-mc1.20.1-forge.jar"
-side = "client"
+filename = "KeybindAtlas-v3.0.0-mc1.21.1-neoforge.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fokFjwwh/versions/2aMeqSKJ/KeybindAtlas-v3.0.0-mc1.20.1-forge.jar"
-hash-format = "sha512"
-hash = "c15b76c1ad4b9e6b49fcac9f976e88c4d95c1e55fc49e26f4bdf3c42576b8d71fdf0dd6456fc319f25006a10d1ed7c36e9bd7cd8affae031388e231bc83faba0"
+hash-format = "sha1"
+hash = "c52b5c7b9409f5b202b9dc24aa3a43b9da395bfb"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "fokFjwwh"
-version = "2aMeqSKJ"
+[update.curseforge]
+file-id = 9552969
+project-id = 1513576

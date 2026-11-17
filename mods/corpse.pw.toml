@@ -1,13 +1,13 @@
 name = "Corpse"
-filename = "corpse-forge-1.20.1-1.0.23.jar"
+filename = "corpse-neoforge-1.21.1-1.1.22.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "843b16ca88bc5c390bb22a2a84437e6bffdd43dd"
+hash = "0d73e082e4d5c0f185aa8030bcefb68c259d1107"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7018272
+file-id = 9289316
 project-id = 316582

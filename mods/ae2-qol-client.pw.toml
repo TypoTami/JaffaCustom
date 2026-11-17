@@ -1,0 +1,13 @@
+name = "AE2 QoL Client"
+filename = "AE2-QoL-Client-mc1.21.1-2.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "60a5516764f3e11c46ebd3c81197d50209324acc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9142878
+project-id = 1740687

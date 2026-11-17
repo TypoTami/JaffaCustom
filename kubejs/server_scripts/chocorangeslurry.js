@@ -109,10 +109,10 @@ ServerEvents.recipes(event => {
     event.remove({output: 'refinedstorage:improved_processor'})
     event.remove({output: 'refinedstorage:advanced_processor'})
 
-    // Easier Refined Storage Recipes
-    event.shapeless('refinedstorage:basic_processor', ['minecraft:iron_ingot', 'minecraft:redstone', 'minecraft:quartz'])
-    event.shapeless('refinedstorage:improved_processor', ['minecraft:gold_ingot', 'minecraft:redstone', 'minecraft:quartz'])
-    event.shapeless('refinedstorage:advanced_processor', ['minecraft:diamond', 'minecraft:redstone', 'minecraft:quartz'])
+    // // Easier Refined Storage Recipes
+    // event.shapeless('refinedstorage:basic_processor', ['minecraft:iron_ingot', 'minecraft:redstone', 'minecraft:quartz'])
+    // event.shapeless('refinedstorage:improved_processor', ['minecraft:gold_ingot', 'minecraft:redstone', 'minecraft:quartz'])
+    // event.shapeless('refinedstorage:advanced_processor', ['minecraft:diamond', 'minecraft:redstone', 'minecraft:quartz'])
 
     // Tuff Recipe
     event.recipes.create.mixing('minecraft:tuff', ['minecraft:cobblestone', 'minecraft:diorite', 'minecraft:andesite', 'minecraft:granite'])
