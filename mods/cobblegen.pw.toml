@@ -1,0 +1,13 @@
+name = "CobbleGen [Fabric/(Neo)Forge]"
+filename = "cobblegen-5.4.11+1.21.1b5C1XBN.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "206bccb9916e5c12f6e55190f6e9630fc6f60e86"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8761215
+project-id = 581293

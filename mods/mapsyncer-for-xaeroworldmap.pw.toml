@@ -1,13 +1,13 @@
 name = "MapSyncer-for-XaeroWorldmap"
-filename = "mapsyncer-1.0.3-forge-1.20.1.jar"
+filename = "mapsyncer-1.0.3-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AW5A8Q2T/versions/71emSyU6/mapsyncer-1.0.3-forge-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/AW5A8Q2T/versions/rTv2rIvC/mapsyncer-1.0.3-neoforge-1.21.1.jar"
 hash-format = "sha512"
-hash = "68b1ae0ee8640ab4ecffcdbd4edc53d96b362f6d44dfe9fb7704c04070a79b41b7ecbc3b6f74be6708671960df0ac4bcbd4ac84ffbe37585766f78e957ab216d"
+hash = "e3a3b2a7e918f633443f6ca41f2c94803183cd3fec39ed88abb6e64b32bc7403180c6cd21d02b63c424da2cb3ef78bf1ab3c347d850af77213a898f17b6cd3b9"
 
 [update]
 [update.modrinth]
 mod-id = "AW5A8Q2T"
-version = "71emSyU6"
+version = "rTv2rIvC"

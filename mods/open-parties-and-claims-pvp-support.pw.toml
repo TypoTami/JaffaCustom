@@ -1,13 +1,13 @@
 name = "Open Parties and Claims PvP Support"
-filename = "opacpvp-forge-1.0.1-1.20.1.jar"
+filename = "opacpvp-neoforge-1.0.1-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "76bb05c1690b85de3655ab930758c91b6e94a2d0"
+hash = "b5edf5f6633e693be24548bb6d8e5f4e56db71ea"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6213619
+file-id = 6213622
 project-id = 1190669

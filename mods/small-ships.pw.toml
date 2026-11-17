@@ -1,13 +1,13 @@
 name = "Small Ships"
-filename = "smallships-2.0.2-forge-1.20.1.jar"
+filename = "smallships-neoforge-1.21.1-2.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f2721b59e7fe3f6c9423f3f4b70c54bec21412d3"
+hash = "4d5235f78d94a0feddb58d27546350ca3c999f1e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9206001
+file-id = 9205243
 project-id = 450659

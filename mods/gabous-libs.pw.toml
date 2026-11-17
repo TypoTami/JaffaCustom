@@ -1,13 +1,13 @@
 name = "Gabou's Libs"
-filename = "gaboulibs-forge-1.9.jar"
+filename = "gaboulibs-neoforge-1.9.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "30d5fd6f00c923571c29a02f830d465fddfdb4bf"
+hash = "aa39c5645c0479dbd7a485432e9694c78ad6082a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8774253
+file-id = 8774265
 project-id = 1367332
