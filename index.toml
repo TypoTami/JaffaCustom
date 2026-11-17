@@ -97,11 +97,6 @@ hash = "491974dc6adba0e893fb755f55dfe833a1076ba49fdf9e4f92b8b9fa069ce9b5"
 metafile = true
 
 [[files]]
-file = "mods/ae2-qol-client.pw.toml"
-hash = "596eb6d991bad2b73f78cc1753cf8e60abf5644928374aa7bd47d4320873d8ff"
-metafile = true
-
-[[files]]
 file = "mods/ae2-utility.pw.toml"
 hash = "710804be55040ddbd9ffe383e1fb2a4da4d05dfce70f60540f5cd24b63b07ae1"
 metafile = true
@@ -269,11 +264,6 @@ metafile = true
 [[files]]
 file = "mods/citadel-1-21-1-port.pw.toml"
 hash = "3a0f7208a7863c154b7dbc6418c4686a7e5956444d6f9b05d9a33b0393cbafef"
-metafile = true
-
-[[files]]
-file = "mods/citadel.pw.toml"
-hash = "74e817fb0fa9e1ff1ef2aa0e742bdd2504a40c02ab72dc1d5c671d20444cb037"
 metafile = true
 
 [[files]]
