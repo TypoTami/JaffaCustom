@@ -92,11 +92,6 @@ hash = "8ad9e191313985caddeb6716f795ada61cb0a509ba92a5d23c3ce80256bb05a5"
 metafile = true
 
 [[files]]
-file = "mods/ae2-auto-pattern-upload.pw.toml"
-hash = "0b0f943f9230aea0c909bc80f5530a6d29243fe60cb8d714a28bed1ac88a4702"
-metafile = true
-
-[[files]]
 file = "mods/ae2-jei-integration.pw.toml"
 hash = "491974dc6adba0e893fb755f55dfe833a1076ba49fdf9e4f92b8b9fa069ce9b5"
 metafile = true
@@ -519,6 +514,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
+metafile = true
+
+[[files]]
+file = "mods/emilink.pw.toml"
+hash = "0784b2c175fa05b2ddce40287c28be6ee14139ac510dd2573d84490217aa313a"
 metafile = true
 
 [[files]]
