@@ -517,6 +517,11 @@ hash = "ce332988cf7bf001e5589d3c42e5f59ba096fad100bff7036b06adae898286a2"
 metafile = true
 
 [[files]]
+file = "mods/extendedae-plus.pw.toml"
+hash = "6f4d4eb07fb8a18897c2b859ee482c2494efa6d2c14bb3cb9aa042c23984bcce"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "d9ed9ac8e0db9db29078dafa22bc2d86ac702f10863ae7cb1d5245111c5ea17b"
 metafile = true
