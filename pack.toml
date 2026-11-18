@@ -1,12 +1,12 @@
 name = "JaffaCustom"
 author = "TamiTech"
-version = "1.1.4"
+version = "1.1.4-1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5b4b8eb26c5a0267cbb73c4e439f35a24944b77623b1569eb67302dda2066892"
+hash = "8036f8d438dbb24d0219a93b084b7b4150cca714be470101f3924805188f78fc"
 
 [versions]
 minecraft = "1.21.1"
