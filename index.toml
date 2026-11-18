@@ -512,6 +512,11 @@ hash = "04d680a05de99bb706dd9c32fb2236c75e9b9b93a1db2a1fbdb810ead23d23af"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
+metafile = true
+
+[[files]]
 file = "mods/enchanting-infuser.pw.toml"
 hash = "e9c8cc452257839c6d84e5ffc8c367e6f51b51cc3cd00fa07baeadb1f4dce79f"
 metafile = true
@@ -534,11 +539,6 @@ metafile = true
 [[files]]
 file = "mods/explorify.pw.toml"
 hash = "ce332988cf7bf001e5589d3c42e5f59ba096fad100bff7036b06adae898286a2"
-metafile = true
-
-[[files]]
-file = "mods/extendedae-plus.pw.toml"
-hash = "6f4d4eb07fb8a18897c2b859ee482c2494efa6d2c14bb3cb9aa042c23984bcce"
 metafile = true
 
 [[files]]
