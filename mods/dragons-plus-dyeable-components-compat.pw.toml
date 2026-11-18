@@ -1,0 +1,13 @@
+name = "Create: Dragons Plus — Aeronautics Coloring Compat"
+filename = "Dyeable Components Compat.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4k39aDCD/versions/CmotZ9Y8/Dyeable%20Components%20Compat.jar"
+hash-format = "sha512"
+hash = "ce62149f68742ba2b75164c84afee5f51569586da1212376e92e7cc40022ab35fcf19a0ffc322a639dbe170fc3bd662fb6aa34a3e38fcb61f8623fefd3a6bb85"
+
+[update]
+[update.modrinth]
+mod-id = "4k39aDCD"
+version = "CmotZ9Y8"
