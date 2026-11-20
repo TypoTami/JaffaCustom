@@ -102,6 +102,11 @@ hash = "710804be55040ddbd9ffe383e1fb2a4da4d05dfce70f60540f5cd24b63b07ae1"
 metafile = true
 
 [[files]]
+file = "mods/ae2helpers.pw.toml"
+hash = "f0f3c0a2043de2b5142f17c7dbb78356afcabef4b9582faab9832a668125cd41"
+metafile = true
+
+[[files]]
 file = "mods/aeronautics-camera-sync.pw.toml"
 hash = "ccd0a3a090f99cec2d34923a8d69f103fb845ae3a40595079c24839c523a1801"
 metafile = true
