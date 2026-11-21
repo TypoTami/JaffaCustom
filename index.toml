@@ -462,6 +462,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/curvy-pipes.pw.toml"
+hash = "f10e5e1ece6125e15628d6e34600cbab97905a0a85f2488ad5133bc016b17ee4"
+metafile = true
+
+[[files]]
 file = "mods/dark-utilities.pw.toml"
 hash = "9d20637581a8ff591843eb4c3be9570e8c0db2c3ea9ca2c891f9945e4e83d0ee"
 metafile = true
@@ -896,6 +901,11 @@ hash = "5d1a0fefc09545d23a75f37a7cd8b7dcf817a7a57fe28f1419b19be92476dcaa"
 metafile = true
 
 [[files]]
+file = "mods/rts-building-build-from-above.pw.toml"
+hash = "f21b7c3a1c083c14675e338cbef42187a6b90a3af44cf76f56dcfcd09520dfaa"
+metafile = true
+
+[[files]]
 file = "mods/runelic.pw.toml"
 hash = "ece6606ae5a408eb1683f68596db5f4ff1ee28bd0293043ed99794ffa6e33d64"
 metafile = true
@@ -973,6 +983,11 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "36bc1bb632d1203c91d99298214b08b6babc7da301fff00fded2a1f705592f17"
+metafile = true
+
+[[files]]
+file = "mods/ssrd.pw.toml"
+hash = "902b9f7cae33327dfb12e7a2dd454b20625644ce3c760d21b985e75e18a57e7c"
 metafile = true
 
 [[files]]
