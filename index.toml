@@ -132,11 +132,6 @@ hash = "f51148bf97d236453e38956b6c98c9e10cf6885b6646104257ddf74d499b9309"
 metafile = true
 
 [[files]]
-file = "mods/alexs-mobs-1-21-1-port.pw.toml"
-hash = "e3bbf8c3650fd5fc795b36b0b38fdb5bd287b22b6b7d94cde7e35561b0bf5000"
-metafile = true
-
-[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "086cb09b402389a49e01f984e1898dd688b490fba4c42fef9ca274b5dc5f648a"
 metafile = true
@@ -343,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "af68f400faa4564bfaa16509dedcb2dbafb8c3a0154d6e4e0b1443bcb4c6d536"
+hash = "b6b702e432d0a9089ab5ccbf0c83951f6afe1315822c668659b8b04e4f3b99f7"
 metafile = true
 
 [[files]]
@@ -402,6 +397,11 @@ hash = "2e66c6b8dfb44b6e011076265ffa7bbb334da429ab889af7e0e0e8558108b129"
 metafile = true
 
 [[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "c9a4c5929341af6f88616f13151b3efdc44eb868db7d9c01ba5300ef96d9b8a3"
+metafile = true
+
+[[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "dcbb37e828a2f915e64a2ef839a742761a553a2e3b923b000ffba95db7503ac3"
 metafile = true
@@ -432,13 +432,38 @@ hash = "71fa04ae6430da94fb8369e2f6153e3d7bdb42a905559d0c6745560bf18611b9"
 metafile = true
 
 [[files]]
+file = "mods/create-sky.pw.toml"
+hash = "4d2235dc263e970c1009df46396959827b7ce017df4679272b57e0b1be7871cb"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "2244c6c580c41f432e02bc82a6f78af0b1777de42400d1e5b702208376c56c6f"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-n-additions-curios-compat.pw.toml"
+hash = "1c02296959d53e94e97f6bb8bd9e99cd68babbf8538dcf58f2bac5e88e804979"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-n-additions-x-sable-aeronautics-compat.pw.toml"
+hash = "f14ab00e7678ba29914b0d1a45a9e200ced324886dc41f2a3f1001a7a80ae67d"
+metafile = true
+
+[[files]]
+file = "mods/create-tracks.pw.toml"
+hash = "c79dfdac7e2df5cc4026e6ead964d698b609a374701cd012a344a5735f40d4f5"
+metafile = true
+
+[[files]]
 file = "mods/create-ultimine.pw.toml"
 hash = "68c0a802effbf573303dd41bfb576e016d9fb245e047ea00bff678c8d0177abe"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -716,6 +741,16 @@ hash = "031e809b62d4d70a66be3e68ab7deeffba17027bb785c83b95c6dcfd4a4e6a8d"
 metafile = true
 
 [[files]]
+file = "mods/linear-bearing.pw.toml"
+hash = "e92248ff7e47d94175ee315550946858967e9f1076653468a1d10a6aa53a4d82"
+metafile = true
+
+[[files]]
+file = "mods/linear-bearings-fix.pw.toml"
+hash = "210e07b6cd9ef4bbd7bb6327f5c1903f2075a684240cc4f7a629d4afe73fa4e6"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "fb6171c8f7ff0d83513b3f75ee5d7a98659559c427d79fb69eb0219639af8a37"
 metafile = true
@@ -778,6 +813,11 @@ metafile = true
 [[files]]
 file = "mods/modular-routers.pw.toml"
 hash = "ad352efffdd37b46fc9f0f696098c20bce9afb472eb698bb525e29e6fe2b085b"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "b14b3d7f88512f23bccca8e2f133e52e84307679b6eba4e818ce13e8f87e503d"
 metafile = true
 
 [[files]]
@@ -906,18 +946,13 @@ hash = "5d1a0fefc09545d23a75f37a7cd8b7dcf817a7a57fe28f1419b19be92476dcaa"
 metafile = true
 
 [[files]]
-file = "mods/rts-building-build-from-above.pw.toml"
-hash = "f21b7c3a1c083c14675e338cbef42187a6b90a3af44cf76f56dcfcd09520dfaa"
-metafile = true
-
-[[files]]
 file = "mods/runelic.pw.toml"
 hash = "ece6606ae5a408eb1683f68596db5f4ff1ee28bd0293043ed99794ffa6e33d64"
 metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "f2c81cf494b7b6c1063563d7377224cf64b29e0b86bcf87bcf4da8eb79b9c800"
+hash = "fadb5c9cfe145e51992894fe57209fc8f1696ef892ee9702a24c6205f042e9b2"
 metafile = true
 
 [[files]]
@@ -1021,6 +1056,16 @@ hash = "7b9ebfbbba00bdaf96fa822a2d009b1a02f6ea1e090ad32f5420649bdfec7da1"
 metafile = true
 
 [[files]]
+file = "mods/synaxis-gearworks.pw.toml"
+hash = "6e87645d118f5f0eb8db059c24344cb658b0f27f781de149e4d1fb207ef5d123"
+metafile = true
+
+[[files]]
+file = "mods/synaxis.pw.toml"
+hash = "b4a00c641876aeb50fd1de78c4eb3a61cc0089749ffa14a71abbd3949056c7b4"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "f083c3cdf6aadc3b033e20ba8ccc929d5e1b86a0be50b05dc638d7f76dab5024"
 metafile = true
@@ -1048,6 +1093,11 @@ metafile = true
 [[files]]
 file = "mods/villager-names.pw.toml"
 hash = "a9445a867b4a10bcdf7efe2c446508506d729990c1ba18131eb19f4528bb876c"
+metafile = true
+
+[[files]]
+file = "mods/vista_tv.pw.toml"
+hash = "05cdd0d0911ddbc8607db7a9bd1260d5ff5e55df46d8e943a9f1de53806e479c"
 metafile = true
 
 [[files]]
@@ -1158,6 +1208,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/Quark Programmer Art.zip"
 hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
+
+[[files]]
+file = "resourcepacks/create-diesel-generators-tfmg-style.pw.toml"
+hash = "a067ca41916a4914d01103d58118c397aaa65733c065e923ef89e8a843711564"
+metafile = true
 
 [[files]]
 file = "unsup.ini"
