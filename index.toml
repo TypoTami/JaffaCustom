@@ -207,6 +207,11 @@ hash = "72ca919be55dd04a4d8369ef530427382fe6c4e6df35c4d3d67fbf0ff365622f"
 metafile = true
 
 [[files]]
+file = "mods/blocks-you-need.pw.toml"
+hash = "5c50a6aed7b5f4df690dcadc4f349ca6e9d58eeafbf41e65457710d9f9ca5349"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
@@ -394,6 +399,16 @@ metafile = true
 [[files]]
 file = "mods/create-deep-seas.pw.toml"
 hash = "2e66c6b8dfb44b6e011076265ffa7bbb334da429ab889af7e0e0e8558108b129"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor-aeronautics-compat.pw.toml"
+hash = "bb87ade29771a792bb8abe3247f8f0cc013fa566a7285427d07a008fa1a29f60"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
 metafile = true
 
 [[files]]
@@ -678,7 +693,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-bonk.pw.toml"
-hash = "fa8ac6e19b3845b641386b8ef6e1b2a139592a9c5faf8aa1c07c2e1ba6e638ac"
+hash = "b724b571e9c17205d5714fef0807e493cd079a99cbe46f70012b0288d2c9c420"
 metafile = true
 
 [[files]]
@@ -738,6 +753,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs-create.pw.toml"
 hash = "21a5deb5da882d9f3eb4eaf7f0cf77f52737e1e6b44d2f691bf10fda9c86d790"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-diesel-generators.pw.toml"
+hash = "4a6b10fcafefe6fa91b804f5d16d4704cee45a0cc7a8aab2569610872e721d26"
 metafile = true
 
 [[files]]

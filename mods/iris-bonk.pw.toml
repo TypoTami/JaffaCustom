@@ -1,6 +1,6 @@
 name = "Iris core shaders compat fix"
 filename = "iris_bonk-1.21.1-0.1.5-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
