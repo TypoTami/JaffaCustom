@@ -1,0 +1,13 @@
+name = "Veil Bonk"
+filename = "veil_bonk-1.21.1-0.3.2-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d8d2cdb0906f7b14e15e6e4dc7a51f8d55cd9471"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9446187
+project-id = 1781467

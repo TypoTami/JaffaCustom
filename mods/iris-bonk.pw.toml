@@ -1,0 +1,13 @@
+name = "Iris core shaders compat fix"
+filename = "iris_bonk-1.21.1-0.1.5-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d0f5ed6b74ba54d4bb509ea6901fd8f40010b330"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9678063
+project-id = 1635431
