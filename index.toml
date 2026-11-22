@@ -1066,16 +1066,6 @@ hash = "7b9ebfbbba00bdaf96fa822a2d009b1a02f6ea1e090ad32f5420649bdfec7da1"
 metafile = true
 
 [[files]]
-file = "mods/synaxis-gearworks.pw.toml"
-hash = "6e87645d118f5f0eb8db059c24344cb658b0f27f781de149e4d1fb207ef5d123"
-metafile = true
-
-[[files]]
-file = "mods/synaxis.pw.toml"
-hash = "b4a00c641876aeb50fd1de78c4eb3a61cc0089749ffa14a71abbd3949056c7b4"
-metafile = true
-
-[[files]]
 file = "mods/terralith.pw.toml"
 hash = "f083c3cdf6aadc3b033e20ba8ccc929d5e1b86a0be50b05dc638d7f76dab5024"
 metafile = true
