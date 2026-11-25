@@ -1,0 +1,13 @@
+name = "Create Control Panels"
+filename = "create_controlling-neoforge-0.2.8-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "07a061978f432ad9eb1c06510fe3ddfcff17ef0b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9783218
+project-id = 1773450

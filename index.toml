@@ -387,6 +387,11 @@ hash = "c82f7db4df6d8fa9f6077c37ed08d8080dd7c9c5cd9824f5db92733ecc108503"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-toolgun.pw.toml"
+hash = "d985bd49fb5d6d937f70e3bbf2bae5dfc45bc5666823c98c8389b810abae1465"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-transmission-linkage.pw.toml"
 hash = "0444cab2b465f9a1ed5fff83edfe5453efe75a0b1257492e10302465897b3a93"
 metafile = true
@@ -409,6 +414,11 @@ metafile = true
 [[files]]
 file = "mods/create-compact-flap.pw.toml"
 hash = "8357524fb98d75ce1c11e1385744c1e4897ac0551c81f60ae437e5a52ed8d995"
+metafile = true
+
+[[files]]
+file = "mods/create-control-panels.pw.toml"
+hash = "4c78e4fe71f1ef1ad3ad57f52b32e267e59f1add36b2562df057548b2fdfc79d"
 metafile = true
 
 [[files]]
@@ -514,6 +524,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "8913bb244d45ff085d444bd9c0ea236ffb3414a608554766140a208ac973a5a6"
+metafile = true
+
+[[files]]
+file = "mods/createloconautics.pw.toml"
+hash = "075bbff94d93dc64557e5b4439402e98c46ca0444f7e779d66ef81070f25a4d0"
 metafile = true
 
 [[files]]
