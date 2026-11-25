@@ -1,0 +1,13 @@
+name = "Create: Flight Control"
+filename = "create_flight_control-neoforge-0.8.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IGVrnkhH/versions/7EiOHIDJ/create_flight_control-neoforge-0.8.5.jar"
+hash-format = "sha512"
+hash = "a05198650a2299494ac32f9ddc6ecb97ceae41802b90c8647167aee9c0a796c1387eef5e1dbaedc4d7b4d3a254742ef45866514531c6c8805f7f872613b8073a"
+
+[update]
+[update.modrinth]
+mod-id = "IGVrnkhH"
+version = "7EiOHIDJ"

@@ -1,0 +1,13 @@
+name = "Create Offroad: Narrow Roads"
+filename = "offroadstepup-0.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SFV6RPwE/versions/aaIULYZb/offroadstepup-0.5.1.jar"
+hash-format = "sha512"
+hash = "cadf2f05f6e40075526ca256895021e5e4f6d0709975805da53f635a0845f2be8dc13a3ab3b5ca9d3726c36bb677371d4eb8daa3ccf2143d9881dee985c7fecc"
+
+[update]
+[update.modrinth]
+mod-id = "SFV6RPwE"
+version = "aaIULYZb"
