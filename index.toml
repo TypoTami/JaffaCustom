@@ -107,6 +107,11 @@ hash = "710804be55040ddbd9ffe383e1fb2a4da4d05dfce70f60540f5cd24b63b07ae1"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "e5a4c0315e40bab4b2ba410dd5d2dd8b7662eaea525c1b2e6bebfa35fe3e71c7"
+metafile = true
+
+[[files]]
 file = "mods/ae2helpers.pw.toml"
 hash = "f0f3c0a2043de2b5142f17c7dbb78356afcabef4b9582faab9832a668125cd41"
 metafile = true
@@ -159,6 +164,11 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "8fb2c25b6b4c191760e38387033cef375dcb7cbd643058a9cddccc96e49421fb"
+metafile = true
+
+[[files]]
+file = "mods/applied-create.pw.toml"
+hash = "c617611f8085a0cf2e442c29f2ff2e7b5850249070e53ee12422dd455e1ae904"
 metafile = true
 
 [[files]]
@@ -792,7 +802,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "562bc572ab8ffd96ed9b7b354aed4284cd99f8e2ca96d4cf905e9d7349a0f72e"
+hash = "52be2f8af37fa9a10f817b3a676e56c9cdf33a3632048d8e922312878244b794"
 metafile = true
 
 [[files]]
