@@ -1186,6 +1186,11 @@ hash = "318b2826182182ff4acd58ffe985c58fe2b403941ec36f41303217bed275feea"
 metafile = true
 
 [[files]]
+file = "mods/traveler-tool-belt.pw.toml"
+hash = "6454cbee165025d78253dcfae227153e6a6928d2c57ce9c5a2f98e83105182c6"
+metafile = true
+
+[[files]]
 file = "mods/twigs.pw.toml"
 hash = "757a4a0665a8193e3a81d73836108e85a13d88f7f2a36ca8c39dbdd40f6a625f"
 metafile = true
